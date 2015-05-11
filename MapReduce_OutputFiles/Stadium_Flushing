@@ -1,0 +1,3360 @@
+1,0,Flushing,Jackson Heights	18
+1,0,Flushing,Midtown	16
+1,0,Flushing,Astoria-Long Island City	11
+1,0,Flushing,Murray Hill	7
+1,0,Flushing,Nkew Gardens	6
+1,0,Flushing,Queensboro Hill	6
+1,0,Flushing,Garment District	5
+1,0,Flushing,Gramercy	5
+1,0,Flushing,Greenwich Village	3
+1,0,Flushing,Maspeth	3
+1,0,UNKNOWN,Flushing	129
+1,0,Midtown,Flushing	60
+1,0,Garment District,Flushing	35
+1,0,Upper East Side,Flushing	31
+1,0,Astoria-Long Island City,Flushing	29
+1,0,Chelsea,Flushing	24
+1,0,Gramercy,Flushing	24
+1,0,Lower East Side,Flushing	19
+1,0,Murray Hill,Flushing	19
+1,0,East Village,Flushing	17
+1,1,Flushing,Jackson Heights	10
+1,1,Flushing,Auburndale	6
+1,1,Flushing,Queensboro Hill	6
+1,1,Flushing,Nkew Gardens	5
+1,1,Flushing,Clinton	3
+1,1,Flushing,Astoria-Long Island City	2
+1,1,Flushing,Clearview	2
+1,1,Flushing,Forest Hills	2
+1,1,Flushing,Gramercy	2
+1,1,Flushing,Jamaica	2
+1,1,UNKNOWN,Flushing	69
+1,1,Midtown,Flushing	61
+1,1,Astoria-Long Island City,Flushing	37
+1,1,Garment District,Flushing	36
+1,1,Gramercy,Flushing	30
+1,1,Chelsea,Flushing	27
+1,1,Lower East Side,Flushing	27
+1,1,East Village,Flushing	26
+1,1,Murray Hill,Flushing	19
+1,1,Clinton,Flushing	18
+1,10,Flushing,Jackson Heights	8
+1,10,Flushing,Midtown	6
+1,10,Flushing,Upper East Side	5
+1,10,Flushing,Queensboro Hill	4
+1,10,Flushing,Garment District	3
+1,10,Flushing,Murray Hill	3
+1,10,Flushing,Astoria-Long Island City	2
+1,10,Flushing,Chelsea	2
+1,10,Flushing,Clinton	2
+1,10,Flushing,Corona	2
+1,10,UNKNOWN,Flushing	239
+1,10,Midtown,Flushing	133
+1,10,Upper East Side,Flushing	56
+1,10,Upper West Side,Flushing	37
+1,10,Gramercy,Flushing	29
+1,10,Garment District,Flushing	27
+1,10,Murray Hill,Flushing	27
+1,10,Astoria-Long Island City,Flushing	24
+1,10,Jackson Heights,Flushing	22
+1,10,Forest Hills,Flushing	21
+1,11,Flushing,Midtown	12
+1,11,Flushing,Forest Hills	4
+1,11,Flushing,Jackson Heights	4
+1,11,Flushing,Queensboro Hill	4
+1,11,Flushing,Astoria-Long Island City	3
+1,11,Flushing,Chelsea	3
+1,11,Flushing,Clinton	3
+1,11,Flushing,Corona	3
+1,11,Flushing,Upper East Side	3
+1,11,Flushing,East Harlem	2
+1,11,UNKNOWN,Flushing	280
+1,11,Midtown,Flushing	144
+1,11,Upper East Side,Flushing	80
+1,11,Astoria-Long Island City,Flushing	39
+1,11,Gramercy,Flushing	38
+1,11,Upper West Side,Flushing	37
+1,11,Murray Hill,Flushing	33
+1,11,Chelsea,Flushing	27
+1,11,Jackson Heights,Flushing	25
+1,11,Garment District,Flushing	23
+1,12,Flushing,Midtown	18
+1,12,Flushing,Jackson Heights	7
+1,12,Flushing,Financial District	5
+1,12,Flushing,Nkew Gardens	5
+1,12,Flushing,Astoria-Long Island City	3
+1,12,Flushing,Garment District	3
+1,12,Flushing,Murray Hill	3
+1,12,Flushing,Central Park	2
+1,12,Flushing,Chelsea	2
+1,12,Flushing,Clinton	2
+1,12,UNKNOWN,Flushing	270
+1,12,Midtown,Flushing	144
+1,12,Upper East Side,Flushing	124
+1,12,Upper West Side,Flushing	54
+1,12,Astoria-Long Island City,Flushing	39
+1,12,Garment District,Flushing	39
+1,12,Clinton,Flushing	37
+1,12,Gramercy,Flushing	37
+1,12,Murray Hill,Flushing	33
+1,12,Chelsea,Flushing	28
+1,13,Flushing,Midtown	11
+1,13,Flushing,Murray Hill	8
+1,13,Flushing,Forest Hills	7
+1,13,Flushing,Jackson Heights	7
+1,13,Flushing,Gramercy	6
+1,13,Flushing,Queensboro Hill	5
+1,13,Flushing,Upper East Side	5
+1,13,Flushing,Chelsea	4
+1,13,Flushing,Clinton	4
+1,13,Flushing,East Village	3
+1,13,UNKNOWN,Flushing	278
+1,13,Midtown,Flushing	81
+1,13,Upper East Side,Flushing	51
+1,13,Garment District,Flushing	32
+1,13,Astoria-Long Island City,Flushing	31
+1,13,Gramercy,Flushing	27
+1,13,Murray Hill,Flushing	27
+1,13,East Village,Flushing	26
+1,13,Upper West Side,Flushing	26
+1,13,Jackson Heights,Flushing	19
+1,14,Flushing,Midtown	19
+1,14,Flushing,Jackson Heights	8
+1,14,Flushing,Murray Hill	8
+1,14,Flushing,Astoria-Long Island City	4
+1,14,Flushing,Financial District	4
+1,14,Flushing,Sunny Side	4
+1,14,Flushing,Upper East Side	4
+1,14,Flushing,Chelsea	3
+1,14,Flushing,Greenwich Village	3
+1,14,Flushing,Lower East Side	3
+1,14,UNKNOWN,Flushing	305
+1,14,Midtown,Flushing	63
+1,14,Upper East Side,Flushing	40
+1,14,Garment District,Flushing	32
+1,14,Gramercy,Flushing	25
+1,14,Astoria-Long Island City,Flushing	16
+1,14,Chelsea,Flushing	14
+1,14,Upper West Side,Flushing	14
+1,14,Clinton,Flushing	13
+1,14,Soho,Flushing	13
+1,15,Flushing,Midtown	24
+1,15,Flushing,Jackson Heights	11
+1,15,Flushing,Soho	5
+1,15,Flushing,Gramercy	4
+1,15,Flushing,Nkew Gardens	4
+1,15,Flushing,Upper West Side	4
+1,15,Flushing,Chelsea	3
+1,15,Flushing,Garment District	3
+1,15,Flushing,Murray Hill	3
+1,15,Flushing,Upper East Side	3
+1,15,UNKNOWN,Flushing	248
+1,15,Midtown,Flushing	45
+1,15,Upper East Side,Flushing	41
+1,15,Garment District,Flushing	24
+1,15,Astoria-Long Island City,Flushing	17
+1,15,Upper West Side,Flushing	16
+1,15,Gramercy,Flushing	14
+1,15,Forest Hills,Flushing	13
+1,15,Jackson Heights,Flushing	11
+1,15,Sunny Side,Flushing	10
+1,16,Flushing,Midtown	22
+1,16,Flushing,Jackson Heights	11
+1,16,Flushing,Astoria-Long Island City	9
+1,16,Flushing,Upper East Side	6
+1,16,Flushing,Clinton	5
+1,16,Flushing,East Village	4
+1,16,Flushing,Gramercy	4
+1,16,Flushing,Greenwich Village	4
+1,16,Flushing,Utopia	4
+1,16,Flushing,Woodside	4
+1,16,UNKNOWN,Flushing	262
+1,16,Midtown,Flushing	68
+1,16,Upper East Side,Flushing	34
+1,16,Garment District,Flushing	32
+1,16,Gramercy,Flushing	22
+1,16,Astoria-Long Island City,Flushing	17
+1,16,Upper West Side,Flushing	17
+1,16,Clinton,Flushing	12
+1,16,Chelsea,Flushing	10
+1,16,Jackson Heights,Flushing	10
+1,17,Flushing,Midtown	33
+1,17,Flushing,Jackson Heights	14
+1,17,Flushing,Upper East Side	12
+1,17,Flushing,Gramercy	10
+1,17,Flushing,Forest Hills	8
+1,17,Flushing,Garment District	8
+1,17,Flushing,Chelsea	7
+1,17,Flushing,Murray Hill	6
+1,17,Flushing,Queensboro Hill	6
+1,17,Flushing,Upper West Side	6
+1,17,UNKNOWN,Flushing	255
+1,17,Midtown,Flushing	133
+1,17,Astoria-Long Island City,Flushing	59
+1,17,Upper East Side,Flushing	51
+1,17,Garment District,Flushing	33
+1,17,Gramercy,Flushing	25
+1,17,Upper West Side,Flushing	25
+1,17,Murray Hill,Flushing	22
+1,17,Sunny Side,Flushing	14
+1,17,Soho,Flushing	13
+1,18,Flushing,Midtown	31
+1,18,Flushing,Jackson Heights	8
+1,18,Flushing,Gramercy	7
+1,18,Flushing,Upper East Side	7
+1,18,Flushing,Financial District	6
+1,18,Flushing,Garment District	6
+1,18,Flushing,Astoria-Long Island City	5
+1,18,Flushing,Chelsea	5
+1,18,Flushing,Murray Hill	5
+1,18,Flushing,Upper West Side	5
+1,18,UNKNOWN,Flushing	245
+1,18,Midtown,Flushing	84
+1,18,Murray Hill,Flushing	38
+1,18,Garment District,Flushing	33
+1,18,Gramercy,Flushing	29
+1,18,Upper East Side,Flushing	20
+1,18,Astoria-Long Island City,Flushing	14
+1,18,Chelsea,Flushing	14
+1,18,Upper West Side,Flushing	14
+1,18,Clinton,Flushing	11
+1,19,Flushing,Midtown	14
+1,19,Flushing,Upper East Side	9
+1,19,Flushing,Garment District	6
+1,19,Flushing,Gramercy	6
+1,19,Flushing,Astoria-Long Island City	5
+1,19,Flushing,Jackson Heights	5
+1,19,Flushing,Lower East Side	5
+1,19,Flushing,Murray Hill	5
+1,19,Flushing,Central Park	4
+1,19,Flushing,Forest Hills	4
+1,19,UNKNOWN,Flushing	216
+1,19,Midtown,Flushing	72
+1,19,Upper East Side,Flushing	34
+1,19,Garment District,Flushing	31
+1,19,Gramercy,Flushing	22
+1,19,Chelsea,Flushing	16
+1,19,Astoria-Long Island City,Flushing	15
+1,19,Murray Hill,Flushing	15
+1,19,Clinton,Flushing	12
+1,19,Soho,Flushing	11
+1,2,Flushing,Jackson Heights	14
+1,2,Flushing,Nkew Gardens	8
+1,2,Flushing,Astoria-Long Island City	7
+1,2,Flushing,Middle Village	4
+1,2,Flushing,Midtown	3
+1,2,Flushing,Queensboro Hill	3
+1,2,Flushing,Woodhaven-Richmond Hill	3
+1,2,Flushing,Woodside	3
+1,2,Flushing,Forest Hills	2
+1,2,Flushing,Lower East Side	2
+1,2,Midtown,Flushing	59
+1,2,Astoria-Long Island City,Flushing	56
+1,2,Garment District,Flushing	41
+1,2,Gramercy,Flushing	36
+1,2,Clinton,Flushing	33
+1,2,East Village,Flushing	33
+1,2,UNKNOWN,Flushing	33
+1,2,Chelsea,Flushing	30
+1,2,Greenwich Village,Flushing	28
+1,2,Lower East Side,Flushing	28
+1,20,Flushing,Midtown	18
+1,20,Flushing,Gramercy	9
+1,20,Flushing,Queensboro Hill	7
+1,20,Flushing,Chelsea	6
+1,20,Flushing,Greenwich Village	6
+1,20,Flushing,Upper East Side	6
+1,20,Flushing,Clinton	4
+1,20,Flushing,East Village	4
+1,20,Flushing,Upper West Side	4
+1,20,Flushing,Jackson Heights	3
+1,20,UNKNOWN,Flushing	211
+1,20,Midtown,Flushing	51
+1,20,Garment District,Flushing	34
+1,20,Astoria-Long Island City,Flushing	22
+1,20,Upper East Side,Flushing	19
+1,20,Gramercy,Flushing	17
+1,20,Chelsea,Flushing	14
+1,20,Murray Hill,Flushing	13
+1,20,Clinton,Flushing	7
+1,20,Lower East Side,Flushing	7
+1,21,Flushing,Midtown	20
+1,21,Flushing,Jackson Heights	8
+1,21,Flushing,Gramercy	7
+1,21,Flushing,Garment District	6
+1,21,Flushing,Upper East Side	5
+1,21,Flushing,Upper West Side	5
+1,21,Flushing,Astoria-Long Island City	4
+1,21,Flushing,Chelsea	4
+1,21,Flushing,Financial District	4
+1,21,Flushing,Greenwich Village	4
+1,21,UNKNOWN,Flushing	234
+1,21,Midtown,Flushing	43
+1,21,Garment District,Flushing	26
+1,21,Astoria-Long Island City,Flushing	12
+1,21,Gramercy,Flushing	12
+1,21,Murray Hill,Flushing	10
+1,21,Upper East Side,Flushing	10
+1,21,East Village,Flushing	8
+1,21,Greenwich Village,Flushing	8
+1,21,Chelsea,Flushing	7
+1,22,Flushing,Midtown	15
+1,22,Flushing,Gramercy	7
+1,22,Flushing,Jackson Heights	6
+1,22,Flushing,Lower East Side	5
+1,22,Flushing,Upper West Side	5
+1,22,Flushing,Chelsea	4
+1,22,Flushing,Clinton	4
+1,22,Flushing,Sunny Side	4
+1,22,Flushing,Upper East Side	4
+1,22,Flushing,Astoria-Long Island City	3
+1,22,UNKNOWN,Flushing	282
+1,22,Midtown,Flushing	50
+1,22,Garment District,Flushing	30
+1,22,Upper East Side,Flushing	17
+1,22,Astoria-Long Island City,Flushing	16
+1,22,Gramercy,Flushing	12
+1,22,Jackson Heights,Flushing	12
+1,22,Murray Hill,Flushing	12
+1,22,Chelsea,Flushing	10
+1,22,Lower East Side,Flushing	7
+1,23,Flushing,Jackson Heights	12
+1,23,Flushing,Midtown	11
+1,23,Flushing,Forest Hills	8
+1,23,Flushing,Astoria-Long Island City	7
+1,23,Flushing,Financial District	6
+1,23,Flushing,Queensboro Hill	6
+1,23,Flushing,Upper East Side	5
+1,23,Flushing,Chelsea	4
+1,23,Flushing,Clinton	4
+1,23,Flushing,Gramercy	4
+1,23,UNKNOWN,Flushing	255
+1,23,Midtown,Flushing	36
+1,23,Upper East Side,Flushing	22
+1,23,Garment District,Flushing	19
+1,23,Chelsea,Flushing	17
+1,23,Gramercy,Flushing	13
+1,23,Clinton,Flushing	12
+1,23,Jackson Heights,Flushing	12
+1,23,Astoria-Long Island City,Flushing	11
+1,23,Lower East Side,Flushing	10
+1,3,Flushing,Jackson Heights	20
+1,3,Flushing,Queensboro Hill	10
+1,3,Flushing,Nkew Gardens	5
+1,3,Flushing,Forest Hills	4
+1,3,Flushing,Ridgewood	4
+1,3,Flushing,Astoria-Long Island City	3
+1,3,Flushing,Jamaica	3
+1,3,Flushing,Sunny Side	3
+1,3,Flushing,Douglastown-Little Neck	2
+1,3,Flushing,East Village	2
+1,3,Chelsea,Flushing	66
+1,3,Midtown,Flushing	54
+1,3,Astoria-Long Island City,Flushing	50
+1,3,Garment District,Flushing	49
+1,3,East Village,Flushing	43
+1,3,UNKNOWN,Flushing	42
+1,3,Clinton,Flushing	37
+1,3,Lower East Side,Flushing	35
+1,3,Greenwich Village,Flushing	29
+1,3,Gramercy,Flushing	27
+1,4,Flushing,Jackson Heights	18
+1,4,Flushing,Queensboro Hill	12
+1,4,Flushing,Ridgewood	10
+1,4,Flushing,Nkew Gardens	8
+1,4,Flushing,Jamaica	6
+1,4,Flushing,Auburndale	4
+1,4,Flushing,Forest Hills	4
+1,4,Flushing,Douglastown-Little Neck	3
+1,4,Flushing,Parkchester	3
+1,4,Flushing,Astoria-Long Island City	2
+1,4,Midtown,Flushing	63
+1,4,Astoria-Long Island City,Flushing	57
+1,4,Lower East Side,Flushing	52
+1,4,Sunny Side,Flushing	45
+1,4,UNKNOWN,Flushing	44
+1,4,East Village,Flushing	37
+1,4,Garment District,Flushing	35
+1,4,Clinton,Flushing	26
+1,4,Gramercy,Flushing	26
+1,4,Chelsea,Flushing	20
+1,5,Flushing,Jamaica	8
+1,5,Flushing,Queensboro Hill	8
+1,5,Flushing,Jackson Heights	6
+1,5,Flushing,Astoria-Long Island City	5
+1,5,Flushing,Sunny Side	5
+1,5,Flushing,Auburndale	4
+1,5,Flushing,Nkew Gardens	4
+1,5,Flushing,East Village	3
+1,5,Flushing,Midtown	3
+1,5,Flushing,Ridgewood	3
+1,5,UNKNOWN,Flushing	79
+1,5,Garment District,Flushing	26
+1,5,Clinton,Flushing	24
+1,5,Midtown,Flushing	20
+1,5,Astoria-Long Island City,Flushing	18
+1,5,Upper East Side,Flushing	17
+1,5,Chelsea,Flushing	16
+1,5,Gramercy,Flushing	16
+1,5,Jackson Heights,Flushing	14
+1,5,Greenwich Village,Flushing	13
+1,6,Flushing,Jackson Heights	7
+1,6,Flushing,Queensboro Hill	5
+1,6,Flushing,Astoria-Long Island City	4
+1,6,Flushing,Midtown	4
+1,6,Flushing,Nkew Gardens	4
+1,6,Flushing,Murray Hill	3
+1,6,Flushing,Queens Village	3
+1,6,Flushing,Upper East Side	3
+1,6,Flushing,Auburndale	2
+1,6,Flushing,Gramercy	2
+1,6,UNKNOWN,Flushing	112
+1,6,Astoria-Long Island City,Flushing	25
+1,6,Jackson Heights,Flushing	24
+1,6,Upper West Side,Flushing	22
+1,6,Garment District,Flushing	18
+1,6,Gramercy,Flushing	18
+1,6,Upper East Side,Flushing	18
+1,6,Midtown,Flushing	17
+1,6,Nkew Gardens,Flushing	14
+1,6,Murray Hill,Flushing	12
+1,7,Flushing,Jackson Heights	5
+1,7,Flushing,Midtown	5
+1,7,Flushing,Astoria-Long Island City	4
+1,7,Flushing,Williamsburg	4
+1,7,Flushing,East Village	3
+1,7,Flushing,Greenwich Village	2
+1,7,Flushing,Nkew Gardens	2
+1,7,Flushing,Auburndale	1
+1,7,Flushing,Battery Park	1
+1,7,Flushing,Chelsea	1
+1,7,UNKNOWN,Flushing	116
+1,7,Upper East Side,Flushing	47
+1,7,Midtown,Flushing	45
+1,7,Astoria-Long Island City,Flushing	33
+1,7,Gramercy,Flushing	24
+1,7,Jackson Heights,Flushing	24
+1,7,Clinton,Flushing	20
+1,7,Forest Hills,Flushing	18
+1,7,Garment District,Flushing	15
+1,7,Upper West Side,Flushing	13
+1,8,Flushing,Midtown	11
+1,8,Flushing,Garment District	4
+1,8,Flushing,Upper East Side	4
+1,8,Flushing,Astoria-Long Island City	3
+1,8,Flushing,Forest Hills	3
+1,8,Flushing,Nkew Gardens	3
+1,8,Flushing,Gramercy	2
+1,8,Flushing,Jackson Heights	2
+1,8,Flushing,Queensboro Hill	2
+1,8,Flushing,Auburndale	1
+1,8,UNKNOWN,Flushing	148
+1,8,Midtown,Flushing	62
+1,8,Astoria-Long Island City,Flushing	40
+1,8,Upper East Side,Flushing	29
+1,8,Forest Hills,Flushing	27
+1,8,Clinton,Flushing	23
+1,8,East Harlem,Flushing	23
+1,8,Jackson Heights,Flushing	23
+1,8,Upper West Side,Flushing	15
+1,8,Gramercy,Flushing	14
+1,9,Flushing,Midtown	5
+1,9,Flushing,Jackson Heights	4
+1,9,Flushing,Clinton	3
+1,9,Flushing,Forest Hills	3
+1,9,Flushing,Nkew Gardens	3
+1,9,Flushing,Upper East Side	3
+1,9,Flushing,Astoria-Long Island City	2
+1,9,Flushing,Garment District	2
+1,9,Flushing,Murray Hill	2
+1,9,Flushing,Auburndale	1
+1,9,UNKNOWN,Flushing	178
+1,9,Midtown,Flushing	96
+1,9,Upper East Side,Flushing	48
+1,9,Astoria-Long Island City,Flushing	41
+1,9,Clinton,Flushing	22
+1,9,Murray Hill,Flushing	22
+1,9,Gramercy,Flushing	21
+1,9,Jackson Heights,Flushing	21
+1,9,Forest Hills,Flushing	20
+1,9,Garment District,Flushing	17
+2,0,Flushing,Midtown	12
+2,0,Flushing,Jackson Heights	7
+2,0,Flushing,Nkew Gardens	6
+2,0,Flushing,Queensboro Hill	6
+2,0,Flushing,East Village	4
+2,0,Flushing,Gramercy	4
+2,0,Flushing,Upper West Side	4
+2,0,Flushing,Chelsea	3
+2,0,Flushing,Upper East Side	3
+2,0,Flushing,Astoria-Long Island City	2
+2,0,UNKNOWN,Flushing	174
+2,0,Midtown,Flushing	31
+2,0,Garment District,Flushing	27
+2,0,Upper East Side,Flushing	20
+2,0,Astoria-Long Island City,Flushing	19
+2,0,Jackson Heights,Flushing	11
+2,0,Chelsea,Flushing	10
+2,0,Gramercy,Flushing	10
+2,0,Clinton,Flushing	8
+2,0,Greenwich Village,Flushing	7
+2,1,Flushing,Queensboro Hill	8
+2,1,Flushing,Midtown	7
+2,1,Flushing,Jackson Heights	6
+2,1,Flushing,Astoria-Long Island City	2
+2,1,Flushing,Clinton	2
+2,1,Flushing,Murray Hill	2
+2,1,Flushing,Chelsea	1
+2,1,Flushing,Chinatown	1
+2,1,Flushing,Clearview	1
+2,1,Flushing,East Village	1
+2,1,UNKNOWN,Flushing	83
+2,1,Midtown,Flushing	25
+2,1,Astoria-Long Island City,Flushing	15
+2,1,Garment District,Flushing	15
+2,1,Jackson Heights,Flushing	12
+2,1,East Village,Flushing	10
+2,1,Greenwich Village,Flushing	9
+2,1,Clinton,Flushing	8
+2,1,Chelsea,Flushing	6
+2,1,Gramercy,Flushing	6
+2,10,Flushing,Midtown	7
+2,10,Flushing,Jackson Heights	6
+2,10,Flushing,Clinton	4
+2,10,Flushing,Forest Hills	4
+2,10,Flushing,Auburndale	3
+2,10,Flushing,Upper East Side	3
+2,10,Flushing,Murray Hill	2
+2,10,Flushing,Nkew Gardens	2
+2,10,Flushing,Queensboro Hill	2
+2,10,Flushing,Sunny Side	2
+2,10,UNKNOWN,Flushing	262
+2,10,Midtown,Flushing	86
+2,10,Upper East Side,Flushing	46
+2,10,Garment District,Flushing	28
+2,10,Murray Hill,Flushing	21
+2,10,Gramercy,Flushing	18
+2,10,Upper West Side,Flushing	16
+2,10,Chelsea,Flushing	14
+2,10,Jackson Heights,Flushing	14
+2,10,Clinton,Flushing	12
+2,11,Flushing,Midtown	11
+2,11,Flushing,Jackson Heights	6
+2,11,Flushing,Garment District	5
+2,11,Flushing,Astoria-Long Island City	4
+2,11,Flushing,Sunny Side	4
+2,11,Flushing,Chelsea	3
+2,11,Flushing,Clinton	3
+2,11,Flushing,Nkew Gardens	3
+2,11,Flushing,Upper East Side	3
+2,11,Flushing,Utopia	3
+2,11,UNKNOWN,Flushing	283
+2,11,Midtown,Flushing	103
+2,11,Upper East Side,Flushing	42
+2,11,Garment District,Flushing	27
+2,11,Murray Hill,Flushing	22
+2,11,Gramercy,Flushing	20
+2,11,Astoria-Long Island City,Flushing	16
+2,11,Chelsea,Flushing	13
+2,11,Lower East Side,Flushing	11
+2,11,Upper West Side,Flushing	11
+2,12,Flushing,Jackson Heights	9
+2,12,Flushing,Midtown	9
+2,12,Flushing,Chelsea	5
+2,12,Flushing,Soho	3
+2,12,Flushing,Upper East Side	3
+2,12,Flushing,Chinatown	2
+2,12,Flushing,Financial District	2
+2,12,Flushing,Forest Hills	2
+2,12,Flushing,Lower East Side	2
+2,12,Flushing,Murray Hill	2
+2,12,UNKNOWN,Flushing	267
+2,12,Midtown,Flushing	62
+2,12,Upper East Side,Flushing	34
+2,12,Garment District,Flushing	33
+2,12,Gramercy,Flushing	19
+2,12,Murray Hill,Flushing	18
+2,12,Chelsea,Flushing	13
+2,12,Astoria-Long Island City,Flushing	12
+2,12,Upper West Side,Flushing	9
+2,12,Clinton,Flushing	8
+2,13,Flushing,Midtown	14
+2,13,Flushing,Jackson Heights	5
+2,13,Flushing,Nkew Gardens	4
+2,13,Flushing,Upper East Side	4
+2,13,Flushing,Financial District	3
+2,13,Flushing,Forest Hills	3
+2,13,Flushing,Garment District	3
+2,13,Flushing,Queensboro Hill	3
+2,13,Flushing,Upper West Side	3
+2,13,Flushing,Chelsea	2
+2,13,UNKNOWN,Flushing	283
+2,13,Midtown,Flushing	72
+2,13,Garment District,Flushing	24
+2,13,Upper East Side,Flushing	20
+2,13,Gramercy,Flushing	19
+2,13,Murray Hill,Flushing	17
+2,13,Forest Hills,Flushing	16
+2,13,Astoria-Long Island City,Flushing	14
+2,13,Chelsea,Flushing	13
+2,13,Sunny Side,Flushing	13
+2,14,Flushing,Midtown	16
+2,14,Flushing,Jackson Heights	5
+2,14,Flushing,Astoria-Long Island City	4
+2,14,Flushing,Forest Hills	4
+2,14,Flushing,Gramercy	4
+2,14,Flushing,Queensboro Hill	4
+2,14,Flushing,Upper East Side	4
+2,14,Flushing,Financial District	3
+2,14,Flushing,Auburndale	2
+2,14,Flushing,Battery Park	2
+2,14,UNKNOWN,Flushing	346
+2,14,Midtown,Flushing	70
+2,14,Upper East Side,Flushing	28
+2,14,Garment District,Flushing	25
+2,14,Gramercy,Flushing	22
+2,14,Astoria-Long Island City,Flushing	11
+2,14,Chelsea,Flushing	11
+2,14,Murray Hill,Flushing	11
+2,14,Sunny Side,Flushing	11
+2,14,Clinton,Flushing	10
+2,15,Flushing,Midtown	14
+2,15,Flushing,Jackson Heights	8
+2,15,Flushing,Chelsea	6
+2,15,Flushing,Murray Hill	6
+2,15,Flushing,Upper East Side	6
+2,15,Flushing,Auburndale	5
+2,15,Flushing,Central Park	4
+2,15,Flushing,Financial District	4
+2,15,Flushing,Forest Hills	4
+2,15,Flushing,Upper West Side	4
+2,15,UNKNOWN,Flushing	317
+2,15,Midtown,Flushing	84
+2,15,Upper East Side,Flushing	37
+2,15,Garment District,Flushing	30
+2,15,Astoria-Long Island City,Flushing	20
+2,15,Murray Hill,Flushing	15
+2,15,Clinton,Flushing	10
+2,15,Gramercy,Flushing	10
+2,15,Chelsea,Flushing	9
+2,15,Soho,Flushing	9
+2,16,Flushing,Midtown	27
+2,16,Flushing,Jackson Heights	6
+2,16,Flushing,Chelsea	5
+2,16,Flushing,Murray Hill	5
+2,16,Flushing,Upper East Side	5
+2,16,Flushing,Forest Hills	4
+2,16,Flushing,Garment District	4
+2,16,Flushing,Sunny Side	4
+2,16,Flushing,Clinton	3
+2,16,Flushing,Upper West Side	3
+2,16,UNKNOWN,Flushing	332
+2,16,Midtown,Flushing	70
+2,16,Upper East Side,Flushing	28
+2,16,Garment District,Flushing	20
+2,16,Chelsea,Flushing	12
+2,16,Gramercy,Flushing	12
+2,16,Upper West Side,Flushing	10
+2,16,Murray Hill,Flushing	9
+2,16,Astoria-Long Island City,Flushing	8
+2,16,Financial District,Flushing	8
+2,17,Flushing,Midtown	20
+2,17,Flushing,Gramercy	9
+2,17,Flushing,Forest Hills	6
+2,17,Flushing,Garment District	6
+2,17,Flushing,Upper East Side	6
+2,17,Flushing,Chelsea	5
+2,17,Flushing,Jackson Heights	4
+2,17,Flushing,Queensboro Hill	4
+2,17,Flushing,Astoria-Long Island City	3
+2,17,Flushing,Financial District	3
+2,17,UNKNOWN,Flushing	304
+2,17,Midtown,Flushing	88
+2,17,Upper East Side,Flushing	36
+2,17,Garment District,Flushing	25
+2,17,Astoria-Long Island City,Flushing	18
+2,17,Chelsea,Flushing	18
+2,17,Murray Hill,Flushing	17
+2,17,Gramercy,Flushing	14
+2,17,Clinton,Flushing	11
+2,17,Downtown,Flushing	10
+2,18,Flushing,Jackson Heights	14
+2,18,Flushing,Midtown	13
+2,18,Flushing,Upper East Side	7
+2,18,Flushing,Gramercy	6
+2,18,Flushing,Upper West Side	6
+2,18,Flushing,Chelsea	5
+2,18,Flushing,Garment District	5
+2,18,Flushing,Murray Hill	5
+2,18,Flushing,Astoria-Long Island City	4
+2,18,Flushing,Greenwich Village	4
+2,18,UNKNOWN,Flushing	295
+2,18,Midtown,Flushing	114
+2,18,Upper East Side,Flushing	43
+2,18,Garment District,Flushing	33
+2,18,Gramercy,Flushing	33
+2,18,Murray Hill,Flushing	21
+2,18,Upper West Side,Flushing	19
+2,18,Chelsea,Flushing	16
+2,18,Clinton,Flushing	15
+2,18,Financial District,Flushing	12
+2,19,Flushing,Midtown	12
+2,19,Flushing,Gramercy	9
+2,19,Flushing,Upper East Side	6
+2,19,Flushing,Murray Hill	5
+2,19,Flushing,Auburndale	4
+2,19,Flushing,Forest Hills	4
+2,19,Flushing,Jackson Heights	4
+2,19,Flushing,Nkew Gardens	4
+2,19,Flushing,Chelsea	3
+2,19,Flushing,Jamaica	3
+2,19,UNKNOWN,Flushing	242
+2,19,Midtown,Flushing	108
+2,19,Murray Hill,Flushing	50
+2,19,Upper East Side,Flushing	38
+2,19,Gramercy,Flushing	34
+2,19,Garment District,Flushing	30
+2,19,Greenwich Village,Flushing	15
+2,19,Upper West Side,Flushing	14
+2,19,Chelsea,Flushing	13
+2,19,Clinton,Flushing	12
+2,2,Flushing,Jackson Heights	3
+2,2,Flushing,Woodside	3
+2,2,Flushing,East Village	2
+2,2,Flushing,Maspeth	2
+2,2,Flushing,Nkew Gardens	2
+2,2,Flushing,Queensboro Hill	2
+2,2,Flushing,Astoria-Long Island City	1
+2,2,Flushing,Central Park	1
+2,2,Flushing,Chelsea	1
+2,2,Flushing,Chinatown	1
+2,2,UNKNOWN,Flushing	27
+2,2,Midtown,Flushing	18
+2,2,Astoria-Long Island City,Flushing	14
+2,2,Lower East Side,Flushing	12
+2,2,Greenwich Village,Flushing	9
+2,2,Garment District,Flushing	8
+2,2,Gramercy,Flushing	7
+2,2,Jackson Heights,Flushing	6
+2,2,Chelsea,Flushing	4
+2,2,Clinton,Flushing	4
+2,20,Flushing,Midtown	16
+2,20,Flushing,Jackson Heights	12
+2,20,Flushing,Lower East Side	6
+2,20,Flushing,Garment District	5
+2,20,Flushing,Upper East Side	5
+2,20,Flushing,Astoria-Long Island City	4
+2,20,Flushing,Clinton	4
+2,20,Flushing,Upper West Side	4
+2,20,Flushing,Chelsea	3
+2,20,Flushing,Gramercy	3
+2,20,UNKNOWN,Flushing	225
+2,20,Midtown,Flushing	92
+2,20,Gramercy,Flushing	43
+2,20,Upper East Side,Flushing	32
+2,20,Garment District,Flushing	22
+2,20,Financial District,Flushing	20
+2,20,Chelsea,Flushing	16
+2,20,Murray Hill,Flushing	13
+2,20,Clinton,Flushing	11
+2,20,Greenwich Village,Flushing	11
+2,21,Flushing,Midtown	21
+2,21,Flushing,Upper East Side	11
+2,21,Flushing,Jackson Heights	9
+2,21,Flushing,Upper West Side	9
+2,21,Flushing,Gramercy	7
+2,21,Flushing,Murray Hill	7
+2,21,Flushing,Forest Hills	6
+2,21,Flushing,Clinton	4
+2,21,Flushing,Garment District	4
+2,21,Flushing,Carroll Gardens	3
+2,21,UNKNOWN,Flushing	275
+2,21,Midtown,Flushing	107
+2,21,Murray Hill,Flushing	44
+2,21,Financial District,Flushing	36
+2,21,Garment District,Flushing	34
+2,21,Upper East Side,Flushing	32
+2,21,Gramercy,Flushing	27
+2,21,Chelsea,Flushing	15
+2,21,Upper West Side,Flushing	15
+2,21,Greenwich Village,Flushing	14
+2,22,Flushing,Midtown	37
+2,22,Flushing,Upper East Side	14
+2,22,Flushing,Jackson Heights	13
+2,22,Flushing,Murray Hill	12
+2,22,Flushing,Gramercy	9
+2,22,Flushing,Williamsburg	8
+2,22,Flushing,Chelsea	7
+2,22,Flushing,Upper West Side	6
+2,22,Flushing,Nkew Gardens	5
+2,22,Flushing,West Village	5
+2,22,UNKNOWN,Flushing	303
+2,22,Midtown,Flushing	119
+2,22,Murray Hill,Flushing	44
+2,22,Garment District,Flushing	34
+2,22,Gramercy,Flushing	24
+2,22,Upper East Side,Flushing	23
+2,22,Financial District,Flushing	18
+2,22,Chelsea,Flushing	17
+2,22,Greenwich Village,Flushing	15
+2,22,Astoria-Long Island City,Flushing	12
+2,23,Flushing,Midtown	28
+2,23,Flushing,Jackson Heights	23
+2,23,Flushing,Murray Hill	9
+2,23,Flushing,Upper West Side	9
+2,23,Flushing,Astoria-Long Island City	8
+2,23,Flushing,Forest Hills	8
+2,23,Flushing,Upper East Side	8
+2,23,Flushing,Garment District	7
+2,23,Flushing,Queensboro Hill	7
+2,23,Flushing,Chelsea	6
+2,23,UNKNOWN,Flushing	273
+2,23,Midtown,Flushing	90
+2,23,Murray Hill,Flushing	29
+2,23,Gramercy,Flushing	28
+2,23,Garment District,Flushing	25
+2,23,Jackson Heights,Flushing	20
+2,23,Astoria-Long Island City,Flushing	18
+2,23,Greenwich Village,Flushing	18
+2,23,Upper East Side,Flushing	17
+2,23,Chelsea,Flushing	16
+2,3,Flushing,Queensboro Hill	6
+2,3,Flushing,Jackson Heights	3
+2,3,Flushing,Astoria-Long Island City	2
+2,3,Flushing,Clearview	2
+2,3,Flushing,Midtown	2
+2,3,Flushing,Downtown	1
+2,3,Flushing,East Village	1
+2,3,Flushing,Garment District	1
+2,3,Flushing,Soundview	1
+2,3,Flushing,Upper East Side	1
+2,3,Astoria-Long Island City,Flushing	15
+2,3,Midtown,Flushing	14
+2,3,UNKNOWN,Flushing	13
+2,3,Garment District,Flushing	10
+2,3,Chelsea,Flushing	9
+2,3,Greenwich Village,Flushing	7
+2,3,Jackson Heights,Flushing	7
+2,3,Lower East Side,Flushing	7
+2,3,Gramercy,Flushing	4
+2,3,Upper East Side,Flushing	4
+2,4,Flushing,Queensboro Hill	7
+2,4,Flushing,Astoria-Long Island City	2
+2,4,Flushing,Forest Hills	2
+2,4,Flushing,Jackson Heights	2
+2,4,Flushing,Nkew Gardens	2
+2,4,Flushing,South Bronx	2
+2,4,Flushing,Sunny Side	2
+2,4,Flushing,Clearview	1
+2,4,Flushing,Douglastown-Little Neck	1
+2,4,Flushing,Harlem	1
+2,4,UNKNOWN,Flushing	23
+2,4,Astoria-Long Island City,Flushing	10
+2,4,Midtown,Flushing	9
+2,4,Garment District,Flushing	8
+2,4,Jackson Heights,Flushing	7
+2,4,Gramercy,Flushing	4
+2,4,Greenwich Village,Flushing	4
+2,4,Murray Hill,Flushing	4
+2,4,Sunny Side,Flushing	4
+2,4,Upper East Side,Flushing	4
+2,5,Flushing,Midtown	6
+2,5,Flushing,Queensboro Hill	6
+2,5,Flushing,Jackson Heights	5
+2,5,Flushing,Gramercy	3
+2,5,Flushing,Financial District	2
+2,5,Flushing,Nkew Gardens	2
+2,5,Flushing,Upper West Side	2
+2,5,Flushing,Battery Park	1
+2,5,Flushing,Chelsea	1
+2,5,Flushing,Clinton	1
+2,5,UNKNOWN,Flushing	73
+2,5,Murray Hill,Flushing	13
+2,5,Upper East Side,Flushing	11
+2,5,Garment District,Flushing	9
+2,5,Astoria-Long Island City,Flushing	6
+2,5,Jackson Heights,Flushing	5
+2,5,Midtown,Flushing	5
+2,5,Chelsea,Flushing	4
+2,5,Clinton,Flushing	3
+2,5,East Village,Flushing	3
+2,6,Flushing,Midtown	9
+2,6,Flushing,Upper East Side	8
+2,6,Flushing,Garment District	4
+2,6,Flushing,Gramercy	3
+2,6,Flushing,Jackson Heights	3
+2,6,Flushing,Murray Hill	3
+2,6,Flushing,West Village	3
+2,6,Flushing,Astoria-Long Island City	2
+2,6,Flushing,Clinton	2
+2,6,Flushing,Financial District	2
+2,6,UNKNOWN,Flushing	114
+2,6,Upper East Side,Flushing	22
+2,6,Garment District,Flushing	14
+2,6,Midtown,Flushing	12
+2,6,Murray Hill,Flushing	12
+2,6,Upper West Side,Flushing	12
+2,6,Woodside,Flushing	12
+2,6,Forest Hills,Flushing	10
+2,6,Astoria-Long Island City,Flushing	9
+2,6,Sunny Side,Flushing	7
+2,7,Flushing,Midtown	9
+2,7,Flushing,Gramercy	6
+2,7,Flushing,Upper East Side	5
+2,7,Flushing,Queensboro Hill	4
+2,7,Flushing,Upper West Side	4
+2,7,Flushing,Chelsea	3
+2,7,Flushing,Jackson Heights	3
+2,7,Flushing,Murray Hill	3
+2,7,Flushing,Financial District	2
+2,7,Flushing,Greenwich Village	2
+2,7,UNKNOWN,Flushing	167
+2,7,Midtown,Flushing	19
+2,7,Astoria-Long Island City,Flushing	17
+2,7,Garment District,Flushing	15
+2,7,Yorkville,Flushing	13
+2,7,Upper East Side,Flushing	11
+2,7,Gramercy,Flushing	9
+2,7,Sunny Side,Flushing	9
+2,7,Jackson Heights,Flushing	8
+2,7,Murray Hill,Flushing	8
+2,8,Flushing,Midtown	19
+2,8,Flushing,Chelsea	10
+2,8,Flushing,Gramercy	7
+2,8,Flushing,Murray Hill	6
+2,8,Flushing,Jackson Heights	5
+2,8,Flushing,North Sutton Area	3
+2,8,Flushing,East Brooklyn	2
+2,8,Flushing,Financial District	2
+2,8,Flushing,Garment District	2
+2,8,Flushing,Nkew Gardens	2
+2,8,UNKNOWN,Flushing	230
+2,8,Midtown,Flushing	35
+2,8,Murray Hill,Flushing	31
+2,8,Astoria-Long Island City,Flushing	27
+2,8,Upper East Side,Flushing	22
+2,8,Forest Hills,Flushing	21
+2,8,East Harlem,Flushing	12
+2,8,Gramercy,Flushing	11
+2,8,Lower East Side,Flushing	10
+2,8,Yorkville,Flushing	10
+2,9,Flushing,Chelsea	7
+2,9,Flushing,Midtown	7
+2,9,Flushing,Murray Hill	5
+2,9,Flushing,Jackson Heights	4
+2,9,Flushing,Nkew Gardens	3
+2,9,Flushing,Astoria-Long Island City	2
+2,9,Flushing,Clearview	2
+2,9,Flushing,Clinton	2
+2,9,Flushing,Financial District	2
+2,9,Flushing,Forest Hills	2
+2,9,UNKNOWN,Flushing	232
+2,9,Midtown,Flushing	50
+2,9,Upper East Side,Flushing	20
+2,9,Murray Hill,Flushing	18
+2,9,Garment District,Flushing	14
+2,9,Upper West Side,Flushing	14
+2,9,Astoria-Long Island City,Flushing	13
+2,9,Gramercy,Flushing	12
+2,9,Chelsea,Flushing	10
+2,9,Jackson Heights,Flushing	10
+3,0,Flushing,Midtown	15
+3,0,Flushing,Gramercy	10
+3,0,Flushing,Jackson Heights	9
+3,0,Flushing,Chelsea	7
+3,0,Flushing,Maspeth	7
+3,0,Flushing,Nkew Gardens	7
+3,0,Flushing,Upper West Side	7
+3,0,Flushing,Woodside	7
+3,0,Flushing,Astoria-Long Island City	6
+3,0,Flushing,Upper East Side	6
+3,0,UNKNOWN,Flushing	171
+3,0,Midtown,Flushing	50
+3,0,Gramercy,Flushing	22
+3,0,Garment District,Flushing	20
+3,0,Astoria-Long Island City,Flushing	19
+3,0,Murray Hill,Flushing	18
+3,0,Upper East Side,Flushing	17
+3,0,Chelsea,Flushing	14
+3,0,Greenwich Village,Flushing	14
+3,0,Jackson Heights,Flushing	14
+3,1,Flushing,Queensboro Hill	12
+3,1,Flushing,Astoria-Long Island City	9
+3,1,Flushing,Nkew Gardens	8
+3,1,Flushing,Jackson Heights	7
+3,1,Flushing,Upper East Side	4
+3,1,Flushing,East Village	3
+3,1,Flushing,Garment District	3
+3,1,Flushing,Woodside	3
+3,1,Flushing,Forest Hills	2
+3,1,Flushing,Maspeth	2
+3,1,UNKNOWN,Flushing	69
+3,1,Midtown,Flushing	34
+3,1,Astoria-Long Island City,Flushing	26
+3,1,Gramercy,Flushing	18
+3,1,Sunny Side,Flushing	17
+3,1,Garment District,Flushing	12
+3,1,Murray Hill,Flushing	11
+3,1,Upper East Side,Flushing	11
+3,1,Lower East Side,Flushing	10
+3,1,Chelsea,Flushing	9
+3,10,Flushing,Midtown	12
+3,10,Flushing,Chelsea	6
+3,10,Flushing,Astoria-Long Island City	4
+3,10,Flushing,Gramercy	3
+3,10,Flushing,Jackson Heights	3
+3,10,Flushing,Woodside	3
+3,10,Flushing,Murray Hill	2
+3,10,Flushing,Nkew Gardens	2
+3,10,Flushing,Queensboro Hill	2
+3,10,Flushing,Tribeca	2
+3,10,UNKNOWN,Flushing	257
+3,10,Midtown,Flushing	67
+3,10,Upper East Side,Flushing	35
+3,10,Murray Hill,Flushing	16
+3,10,Garment District,Flushing	14
+3,10,Gramercy,Flushing	13
+3,10,Upper West Side,Flushing	12
+3,10,Chelsea,Flushing	10
+3,10,Financial District,Flushing	10
+3,10,Yorkville,Flushing	9
+3,11,Flushing,Midtown	8
+3,11,Flushing,Jackson Heights	6
+3,11,Flushing,Gramercy	5
+3,11,Flushing,Garment District	4
+3,11,Flushing,Chelsea	3
+3,11,Flushing,Nkew Gardens	3
+3,11,Flushing,Upper East Side	3
+3,11,Flushing,Bedford-Stuyvesant	2
+3,11,Flushing,Central Park	2
+3,11,Flushing,Clinton	2
+3,11,UNKNOWN,Flushing	236
+3,11,Midtown,Flushing	72
+3,11,Upper East Side,Flushing	44
+3,11,Clinton,Flushing	17
+3,11,Garment District,Flushing	17
+3,11,Astoria-Long Island City,Flushing	15
+3,11,Financial District,Flushing	15
+3,11,Murray Hill,Flushing	13
+3,11,Gramercy,Flushing	10
+3,11,Upper West Side,Flushing	10
+3,12,Flushing,Midtown	16
+3,12,Flushing,Jackson Heights	6
+3,12,Flushing,Auburndale	4
+3,12,Flushing,Clinton	4
+3,12,Flushing,Upper East Side	4
+3,12,Flushing,Chelsea	2
+3,12,Flushing,Garment District	2
+3,12,Flushing,Queensboro Hill	2
+3,12,Flushing,Astoria-Long Island City	1
+3,12,Flushing,Bedford-Stuyvesant	1
+3,12,UNKNOWN,Flushing	254
+3,12,Midtown,Flushing	62
+3,12,Upper East Side,Flushing	32
+3,12,Gramercy,Flushing	18
+3,12,Garment District,Flushing	16
+3,12,Murray Hill,Flushing	16
+3,12,Chelsea,Flushing	12
+3,12,Clinton,Flushing	11
+3,12,Financial District,Flushing	11
+3,12,Jackson Heights,Flushing	9
+3,13,Flushing,Midtown	10
+3,13,Flushing,Garment District	5
+3,13,Flushing,Financial District	4
+3,13,Flushing,Nkew Gardens	4
+3,13,Flushing,Astoria-Long Island City	3
+3,13,Flushing,Queensboro Hill	3
+3,13,Flushing,Clinton	2
+3,13,Flushing,Forest Hills	2
+3,13,Flushing,Jackson Heights	2
+3,13,Flushing,Murray Hill	2
+3,13,UNKNOWN,Flushing	244
+3,13,Midtown,Flushing	58
+3,13,Garment District,Flushing	28
+3,13,Forest Hills,Flushing	22
+3,13,Upper East Side,Flushing	20
+3,13,Gramercy,Flushing	16
+3,13,Murray Hill,Flushing	12
+3,13,Upper West Side,Flushing	11
+3,13,Jackson Heights,Flushing	10
+3,13,Chelsea,Flushing	8
+3,14,Flushing,Midtown	8
+3,14,Flushing,Chelsea	6
+3,14,Flushing,Jackson Heights	5
+3,14,Flushing,Queensboro Hill	5
+3,14,Flushing,Clinton	4
+3,14,Flushing,Garment District	4
+3,14,Flushing,Forest Hills	3
+3,14,Flushing,Nkew Gardens	3
+3,14,Flushing,Upper West Side	3
+3,14,Flushing,Greenwich Village	2
+3,14,UNKNOWN,Flushing	324
+3,14,Midtown,Flushing	64
+3,14,Gramercy,Flushing	25
+3,14,Garment District,Flushing	24
+3,14,Upper East Side,Flushing	24
+3,14,Murray Hill,Flushing	14
+3,14,Sunny Side,Flushing	12
+3,14,Chelsea,Flushing	11
+3,14,Clinton,Flushing	11
+3,14,Jackson Heights,Flushing	11
+3,15,Flushing,Midtown	14
+3,15,Flushing,Jackson Heights	8
+3,15,Flushing,Queensboro Hill	6
+3,15,Flushing,Forest Hills	4
+3,15,Flushing,Garment District	4
+3,15,Flushing,Astoria-Long Island City	3
+3,15,Flushing,Gramercy	3
+3,15,Flushing,Chelsea	2
+3,15,Flushing,Little Italy	2
+3,15,Flushing,Lower East Side	2
+3,15,UNKNOWN,Flushing	303
+3,15,Midtown,Flushing	66
+3,15,Upper East Side,Flushing	32
+3,15,Garment District,Flushing	23
+3,15,Gramercy,Flushing	10
+3,15,Astoria-Long Island City,Flushing	7
+3,15,Clinton,Flushing	7
+3,15,Jackson Heights,Flushing	7
+3,15,Sunny Side,Flushing	7
+3,15,Chelsea,Flushing	6
+3,16,Flushing,Midtown	30
+3,16,Flushing,Jackson Heights	8
+3,16,Flushing,Queensboro Hill	6
+3,16,Flushing,Garment District	5
+3,16,Flushing,Murray Hill	5
+3,16,Flushing,Upper East Side	5
+3,16,Flushing,Chelsea	4
+3,16,Flushing,Gramercy	4
+3,16,Flushing,Clinton	3
+3,16,Flushing,Astoria-Long Island City	2
+3,16,UNKNOWN,Flushing	314
+3,16,Midtown,Flushing	45
+3,16,Upper East Side,Flushing	17
+3,16,Garment District,Flushing	13
+3,16,Gramercy,Flushing	9
+3,16,Jackson Heights,Flushing	9
+3,16,Astoria-Long Island City,Flushing	8
+3,16,Upper West Side,Flushing	7
+3,16,Financial District,Flushing	6
+3,16,Murray Hill,Flushing	6
+3,17,Flushing,Midtown	23
+3,17,Flushing,Chelsea	10
+3,17,Flushing,Jackson Heights	10
+3,17,Flushing,Upper East Side	7
+3,17,Flushing,Clinton	6
+3,17,Flushing,Gramercy	5
+3,17,Flushing,Astoria-Long Island City	4
+3,17,Flushing,Auburndale	4
+3,17,Flushing,Soho	4
+3,17,Flushing,Battery Park	3
+3,17,UNKNOWN,Flushing	296
+3,17,Midtown,Flushing	67
+3,17,Upper East Side,Flushing	37
+3,17,Sunny Side,Flushing	34
+3,17,Astoria-Long Island City,Flushing	29
+3,17,Garment District,Flushing	23
+3,17,Gramercy,Flushing	22
+3,17,Murray Hill,Flushing	19
+3,17,Jackson Heights,Flushing	16
+3,17,Chelsea,Flushing	12
+3,18,Flushing,Midtown	22
+3,18,Flushing,Jackson Heights	12
+3,18,Flushing,Auburndale	7
+3,18,Flushing,Upper East Side	7
+3,18,Flushing,Garment District	6
+3,18,Flushing,Chelsea	5
+3,18,Flushing,Astoria-Long Island City	4
+3,18,Flushing,Sunny Side	4
+3,18,Flushing,Clinton	3
+3,18,Flushing,Forest Hills	3
+3,18,UNKNOWN,Flushing	302
+3,18,Midtown,Flushing	126
+3,18,Upper East Side,Flushing	67
+3,18,Murray Hill,Flushing	40
+3,18,Astoria-Long Island City,Flushing	33
+3,18,Gramercy,Flushing	33
+3,18,Sunny Side,Flushing	29
+3,18,Jackson Heights,Flushing	26
+3,18,Garment District,Flushing	24
+3,18,Upper West Side,Flushing	20
+3,19,Flushing,Midtown	17
+3,19,Flushing,Jackson Heights	7
+3,19,Flushing,Gramercy	4
+3,19,Flushing,Astoria-Long Island City	3
+3,19,Flushing,Harlem	3
+3,19,Flushing,Murray Hill	3
+3,19,Flushing,Sunny Side	3
+3,19,Flushing,Upper East Side	3
+3,19,Flushing,Utopia	3
+3,19,Flushing,Central Park	2
+3,19,UNKNOWN,Flushing	232
+3,19,Midtown,Flushing	107
+3,19,Upper East Side,Flushing	50
+3,19,Gramercy,Flushing	40
+3,19,Garment District,Flushing	37
+3,19,Murray Hill,Flushing	33
+3,19,Astoria-Long Island City,Flushing	20
+3,19,Clinton,Flushing	19
+3,19,Jackson Heights,Flushing	16
+3,19,Upper West Side,Flushing	15
+3,2,Flushing,Queensboro Hill	15
+3,2,Flushing,Jackson Heights	6
+3,2,Flushing,Nkew Gardens	6
+3,2,Flushing,Union Port	3
+3,2,Flushing,Utopia	3
+3,2,Flushing,Woodside	3
+3,2,Flushing,Astoria-Long Island City	2
+3,2,Flushing,Auburndale	2
+3,2,Flushing,Clearview	2
+3,2,Flushing,Central Park	1
+3,2,UNKNOWN,Flushing	25
+3,2,Midtown,Flushing	20
+3,2,Garment District,Flushing	14
+3,2,Clinton,Flushing	11
+3,2,Astoria-Long Island City,Flushing	10
+3,2,Jackson Heights,Flushing	10
+3,2,Upper East Side,Flushing	8
+3,2,Gramercy,Flushing	5
+3,2,Sunny Side,Flushing	5
+3,2,Greenwich Village,Flushing	4
+3,20,Flushing,Midtown	12
+3,20,Flushing,Chelsea	9
+3,20,Flushing,Jackson Heights	8
+3,20,Flushing,Upper East Side	4
+3,20,Flushing,Clinton	3
+3,20,Flushing,Forest Hills	3
+3,20,Flushing,Murray Hill	3
+3,20,Flushing,Nkew Gardens	3
+3,20,Flushing,Upper West Side	3
+3,20,Flushing,Astoria-Long Island City	2
+3,20,UNKNOWN,Flushing	255
+3,20,Midtown,Flushing	107
+3,20,Upper East Side,Flushing	39
+3,20,Murray Hill,Flushing	36
+3,20,Garment District,Flushing	34
+3,20,Gramercy,Flushing	29
+3,20,Financial District,Flushing	23
+3,20,Greenwich Village,Flushing	17
+3,20,East Village,Flushing	13
+3,20,Upper West Side,Flushing	12
+3,21,Flushing,Midtown	14
+3,21,Flushing,Jackson Heights	6
+3,21,Flushing,Upper East Side	6
+3,21,Flushing,Astoria-Long Island City	5
+3,21,Flushing,Garment District	5
+3,21,Flushing,Fort Green	4
+3,21,Flushing,Murray Hill	4
+3,21,Flushing,West Village	4
+3,21,Flushing,Battery Park	3
+3,21,Flushing,Central Park	3
+3,21,UNKNOWN,Flushing	308
+3,21,Midtown,Flushing	139
+3,21,Gramercy,Flushing	49
+3,21,Garment District,Flushing	45
+3,21,Murray Hill,Flushing	43
+3,21,Financial District,Flushing	32
+3,21,Upper East Side,Flushing	29
+3,21,Upper West Side,Flushing	25
+3,21,Chelsea,Flushing	22
+3,21,Astoria-Long Island City,Flushing	14
+3,22,Flushing,Midtown	21
+3,22,Flushing,Upper East Side	13
+3,22,Flushing,Gramercy	12
+3,22,Flushing,Murray Hill	10
+3,22,Flushing,Jackson Heights	8
+3,22,Flushing,Upper West Side	7
+3,22,Flushing,Chelsea	6
+3,22,Flushing,Financial District	6
+3,22,Flushing,Greenwich Village	5
+3,22,Flushing,Astoria-Long Island City	4
+3,22,UNKNOWN,Flushing	296
+3,22,Midtown,Flushing	156
+3,22,Murray Hill,Flushing	63
+3,22,Garment District,Flushing	41
+3,22,Upper East Side,Flushing	32
+3,22,Gramercy,Flushing	30
+3,22,Upper West Side,Flushing	26
+3,22,Chelsea,Flushing	23
+3,22,Financial District,Flushing	21
+3,22,Clinton,Flushing	16
+3,23,Flushing,Midtown	32
+3,23,Flushing,Upper East Side	13
+3,23,Flushing,Upper West Side	12
+3,23,Flushing,West Village	11
+3,23,Flushing,Jackson Heights	10
+3,23,Flushing,Gramercy	9
+3,23,Flushing,Park Slope	7
+3,23,Flushing,Lower East Side	5
+3,23,Flushing,Utopia	5
+3,23,Flushing,Astoria-Long Island City	4
+3,23,UNKNOWN,Flushing	292
+3,23,Midtown,Flushing	103
+3,23,Upper East Side,Flushing	42
+3,23,Murray Hill,Flushing	40
+3,23,Garment District,Flushing	37
+3,23,Gramercy,Flushing	30
+3,23,Astoria-Long Island City,Flushing	29
+3,23,Chelsea,Flushing	27
+3,23,Greenwich Village,Flushing	24
+3,23,Financial District,Flushing	20
+3,3,Flushing,Queensboro Hill	19
+3,3,Flushing,Jackson Heights	5
+3,3,Flushing,Auburndale	4
+3,3,Flushing,Clearview	3
+3,3,Flushing,Forest Hills	2
+3,3,Flushing,Parkchester	2
+3,3,Flushing,Bay Ridge	1
+3,3,Flushing,Douglastown-Little Neck	1
+3,3,Flushing,East Village	1
+3,3,Flushing,Hunts Point	1
+3,3,UNKNOWN,Flushing	24
+3,3,Jackson Heights,Flushing	10
+3,3,Midtown,Flushing	10
+3,3,Astoria-Long Island City,Flushing	9
+3,3,Clinton,Flushing	7
+3,3,Garment District,Flushing	7
+3,3,Lower East Side,Flushing	6
+3,3,Gramercy,Flushing	5
+3,3,Sunny Side,Flushing	4
+3,3,Auburndale,Flushing	3
+3,4,Flushing,Queensboro Hill	14
+3,4,Flushing,Nkew Gardens	3
+3,4,Flushing,Auburndale	2
+3,4,Flushing,Jackson Heights	2
+3,4,Flushing,Parkchester	2
+3,4,Flushing,Astoria-Long Island City	1
+3,4,Flushing,Clearview	1
+3,4,Flushing,Clinton	1
+3,4,Flushing,Morningside Heights	1
+3,4,Flushing,Murray Hill	1
+3,4,UNKNOWN,Flushing	14
+3,4,Midtown,Flushing	10
+3,4,Garment District,Flushing	8
+3,4,Jackson Heights,Flushing	8
+3,4,Sunny Side,Flushing	7
+3,4,Greenwich Village,Flushing	6
+3,4,Astoria-Long Island City,Flushing	5
+3,4,Upper East Side,Flushing	4
+3,4,East Village,Flushing	3
+3,4,Forest Hills,Flushing	3
+3,5,Flushing,Queensboro Hill	7
+3,5,Flushing,Jackson Heights	6
+3,5,Flushing,Nkew Gardens	3
+3,5,Flushing,Astoria-Long Island City	2
+3,5,Flushing,East Village	2
+3,5,Flushing,Gramercy	2
+3,5,Flushing,Murray Hill	2
+3,5,Flushing,Ridgewood	2
+3,5,Flushing,Upper East Side	2
+3,5,Flushing,Bedford-Stuyvesant	1
+3,5,UNKNOWN,Flushing	50
+3,5,Murray Hill,Flushing	14
+3,5,Garment District,Flushing	10
+3,5,Upper East Side,Flushing	9
+3,5,Midtown,Flushing	7
+3,5,Astoria-Long Island City,Flushing	5
+3,5,Jackson Heights,Flushing	4
+3,5,Queensboro Hill,Flushing	4
+3,5,Forest Hills,Flushing	3
+3,5,Gramercy,Flushing	3
+3,6,Flushing,Garment District	5
+3,6,Flushing,Upper East Side	5
+3,6,Flushing,Gramercy	4
+3,6,Flushing,Chelsea	3
+3,6,Flushing,Jackson Heights	3
+3,6,Flushing,Midtown	3
+3,6,Flushing,Murray Hill	3
+3,6,Flushing,Queensboro Hill	3
+3,6,Flushing,Clinton	2
+3,6,Flushing,Nkew Gardens	2
+3,6,UNKNOWN,Flushing	119
+3,6,Upper East Side,Flushing	16
+3,6,Astoria-Long Island City,Flushing	15
+3,6,Upper West Side,Flushing	13
+3,6,Midtown,Flushing	11
+3,6,Forest Hills,Flushing	8
+3,6,Garment District,Flushing	7
+3,6,Sunny Side,Flushing	6
+3,6,Chelsea,Flushing	5
+3,6,Clinton,Flushing	5
+3,7,Flushing,Midtown	16
+3,7,Flushing,Garment District	7
+3,7,Flushing,Upper East Side	6
+3,7,Flushing,Gramercy	4
+3,7,Flushing,Sunny Side	4
+3,7,Flushing,Chinatown	3
+3,7,Flushing,Queensboro Hill	3
+3,7,Flushing,Battery Park	2
+3,7,Flushing,Chelsea	2
+3,7,Flushing,Greenwich Village	2
+3,7,UNKNOWN,Flushing	166
+3,7,Midtown,Flushing	22
+3,7,Astoria-Long Island City,Flushing	15
+3,7,Upper East Side,Flushing	13
+3,7,Gramercy,Flushing	12
+3,7,Yorkville,Flushing	11
+3,7,Murray Hill,Flushing	10
+3,7,Forest Hills,Flushing	9
+3,7,Jackson Heights,Flushing	9
+3,7,Upper West Side,Flushing	9
+3,8,Flushing,Jackson Heights	32
+3,8,Flushing,Midtown	15
+3,8,Flushing,Garment District	7
+3,8,Flushing,Gramercy	4
+3,8,Flushing,Murray Hill	4
+3,8,Flushing,Upper East Side	4
+3,8,Flushing,Chelsea	3
+3,8,Flushing,Financial District	3
+3,8,Flushing,Sunny Side	3
+3,8,Flushing,West Village	3
+3,8,UNKNOWN,Flushing	198
+3,8,Midtown,Flushing	31
+3,8,Upper East Side,Flushing	25
+3,8,Murray Hill,Flushing	23
+3,8,Astoria-Long Island City,Flushing	22
+3,8,Forest Hills,Flushing	20
+3,8,Gramercy,Flushing	15
+3,8,Garment District,Flushing	11
+3,8,Sunny Side,Flushing	10
+3,8,East Harlem,Flushing	9
+3,9,Flushing,Midtown	9
+3,9,Flushing,Chelsea	5
+3,9,Flushing,Jackson Heights	5
+3,9,Flushing,Queensboro Hill	5
+3,9,Flushing,Gramercy	4
+3,9,Flushing,Douglastown-Little Neck	2
+3,9,Flushing,Harlem	2
+3,9,Flushing,Murray Hill	2
+3,9,Flushing,Sunny Side	2
+3,9,Flushing,Astoria-Long Island City	1
+3,9,UNKNOWN,Flushing	208
+3,9,Midtown,Flushing	62
+3,9,Upper East Side,Flushing	25
+3,9,Garment District,Flushing	21
+3,9,Forest Hills,Flushing	17
+3,9,Murray Hill,Flushing	15
+3,9,Gramercy,Flushing	13
+3,9,Sunny Side,Flushing	12
+3,9,Yorkville,Flushing	11
+3,9,Astoria-Long Island City,Flushing	9
+4,0,Flushing,Midtown	24
+4,0,Flushing,Jackson Heights	18
+4,0,Flushing,Forest Hills	7
+4,0,Flushing,Gramercy	7
+4,0,Flushing,Queensboro Hill	7
+4,0,Flushing,Utopia	6
+4,0,Flushing,Upper East Side	5
+4,0,Flushing,Upper West Side	5
+4,0,Flushing,Auburndale	4
+4,0,Flushing,Greenwich Village	4
+4,0,UNKNOWN,Flushing	144
+4,0,Midtown,Flushing	74
+4,0,Garment District,Flushing	25
+4,0,Gramercy,Flushing	24
+4,0,Astoria-Long Island City,Flushing	20
+4,0,Upper East Side,Flushing	18
+4,0,Murray Hill,Flushing	15
+4,0,Chelsea,Flushing	14
+4,0,Jackson Heights,Flushing	12
+4,0,Upper West Side,Flushing	12
+4,1,Flushing,Queensboro Hill	12
+4,1,Flushing,Jackson Heights	10
+4,1,Flushing,Astoria-Long Island City	4
+4,1,Flushing,Auburndale	4
+4,1,Flushing,Midtown	4
+4,1,Flushing,Nkew Gardens	4
+4,1,Flushing,Upper East Side	4
+4,1,Flushing,Utopia	3
+4,1,Flushing,Forest Hills	2
+4,1,Flushing,Gramercy	2
+4,1,UNKNOWN,Flushing	66
+4,1,Midtown,Flushing	53
+4,1,Garment District,Flushing	22
+4,1,Gramercy,Flushing	15
+4,1,Clinton,Flushing	14
+4,1,Astoria-Long Island City,Flushing	13
+4,1,Jackson Heights,Flushing	12
+4,1,Chelsea,Flushing	11
+4,1,Sunny Side,Flushing	9
+4,1,East Village,Flushing	8
+4,10,Flushing,Midtown	9
+4,10,Flushing,Chelsea	6
+4,10,Flushing,Garment District	4
+4,10,Flushing,Nkew Gardens	4
+4,10,Flushing,Jackson Heights	3
+4,10,Flushing,Murray Hill	2
+4,10,Flushing,Queensboro Hill	2
+4,10,Flushing,Upper East Side	2
+4,10,Flushing,Auburndale	1
+4,10,Flushing,East Village	1
+4,10,UNKNOWN,Flushing	206
+4,10,Midtown,Flushing	70
+4,10,Upper East Side,Flushing	40
+4,10,Gramercy,Flushing	21
+4,10,Garment District,Flushing	18
+4,10,Murray Hill,Flushing	17
+4,10,Upper West Side,Flushing	17
+4,10,Financial District,Flushing	13
+4,10,Sunny Side,Flushing	11
+4,10,Astoria-Long Island City,Flushing	8
+4,11,Flushing,Midtown	12
+4,11,Flushing,Garment District	4
+4,11,Flushing,Astoria-Long Island City	3
+4,11,Flushing,Gramercy	3
+4,11,Flushing,Greenwich Village	3
+4,11,Flushing,Jackson Heights	2
+4,11,Flushing,Queensboro Hill	2
+4,11,Flushing,Upper West Side	2
+4,11,Flushing,Auburndale	1
+4,11,Flushing,Battery Park	1
+4,11,UNKNOWN,Flushing	229
+4,11,Midtown,Flushing	75
+4,11,Upper East Side,Flushing	36
+4,11,Garment District,Flushing	16
+4,11,Gramercy,Flushing	15
+4,11,Clinton,Flushing	14
+4,11,Chelsea,Flushing	13
+4,11,Murray Hill,Flushing	12
+4,11,Financial District,Flushing	11
+4,11,Lower East Side,Flushing	10
+4,12,Flushing,Midtown	12
+4,12,Flushing,Jackson Heights	6
+4,12,Flushing,Nkew Gardens	4
+4,12,Flushing,Queensboro Hill	4
+4,12,Flushing,Chelsea	3
+4,12,Flushing,Upper East Side	3
+4,12,Flushing,Astoria-Long Island City	2
+4,12,Flushing,Clinton	2
+4,12,Flushing,Garment District	2
+4,12,Flushing,Murray Hill	2
+4,12,UNKNOWN,Flushing	232
+4,12,Midtown,Flushing	77
+4,12,Upper East Side,Flushing	34
+4,12,Garment District,Flushing	29
+4,12,Gramercy,Flushing	16
+4,12,Chelsea,Flushing	14
+4,12,Murray Hill,Flushing	13
+4,12,Clinton,Flushing	12
+4,12,Financial District,Flushing	12
+4,12,Jackson Heights,Flushing	10
+4,13,Flushing,Midtown	15
+4,13,Flushing,Clinton	4
+4,13,Flushing,Jackson Heights	4
+4,13,Flushing,Nkew Gardens	4
+4,13,Flushing,Upper West Side	4
+4,13,Flushing,Murray Hill	3
+4,13,Flushing,Upper East Side	3
+4,13,Flushing,Chelsea	2
+4,13,Flushing,Forest Hills	2
+4,13,Flushing,Gramercy	2
+4,13,UNKNOWN,Flushing	248
+4,13,Midtown,Flushing	75
+4,13,Garment District,Flushing	20
+4,13,Upper East Side,Flushing	16
+4,13,Murray Hill,Flushing	12
+4,13,Gramercy,Flushing	11
+4,13,Chelsea,Flushing	10
+4,13,Upper West Side,Flushing	10
+4,13,Astoria-Long Island City,Flushing	8
+4,13,Forest Hills,Flushing	8
+4,14,Flushing,Midtown	12
+4,14,Flushing,Murray Hill	5
+4,14,Flushing,Astoria-Long Island City	4
+4,14,Flushing,Forest Hills	4
+4,14,Flushing,Jackson Heights	4
+4,14,Flushing,Chelsea	3
+4,14,Flushing,Garment District	3
+4,14,Flushing,Gramercy	3
+4,14,Flushing,Upper East Side	3
+4,14,Flushing,Upper West Side	3
+4,14,UNKNOWN,Flushing	261
+4,14,Midtown,Flushing	49
+4,14,Upper East Side,Flushing	22
+4,14,Garment District,Flushing	20
+4,14,Gramercy,Flushing	19
+4,14,Chelsea,Flushing	11
+4,14,Astoria-Long Island City,Flushing	9
+4,14,Clinton,Flushing	8
+4,14,Financial District,Flushing	8
+4,14,Murray Hill,Flushing	8
+4,15,Flushing,Midtown	12
+4,15,Flushing,Tribeca	6
+4,15,Flushing,Garment District	5
+4,15,Flushing,Gramercy	5
+4,15,Flushing,Jackson Heights	5
+4,15,Flushing,Queensboro Hill	5
+4,15,Flushing,Upper East Side	5
+4,15,Flushing,Astoria-Long Island City	4
+4,15,Flushing,Clinton	3
+4,15,Flushing,East Village	3
+4,15,UNKNOWN,Flushing	262
+4,15,Midtown,Flushing	44
+4,15,Upper East Side,Flushing	35
+4,15,Astoria-Long Island City,Flushing	18
+4,15,Garment District,Flushing	15
+4,15,Murray Hill,Flushing	13
+4,15,Nkew Gardens,Flushing	9
+4,15,Financial District,Flushing	8
+4,15,Gramercy,Flushing	8
+4,15,Sunny Side,Flushing	8
+4,16,Flushing,Midtown	21
+4,16,Flushing,Jackson Heights	8
+4,16,Flushing,Murray Hill	6
+4,16,Flushing,Clinton	5
+4,16,Flushing,Chelsea	4
+4,16,Flushing,Garment District	4
+4,16,Flushing,Lower East Side	4
+4,16,Flushing,Upper East Side	4
+4,16,Flushing,Upper West Side	3
+4,16,Flushing,Astoria-Long Island City	2
+4,16,UNKNOWN,Flushing	286
+4,16,Midtown,Flushing	34
+4,16,Upper East Side,Flushing	16
+4,16,Garment District,Flushing	15
+4,16,Murray Hill,Flushing	10
+4,16,Upper West Side,Flushing	10
+4,16,Chelsea,Flushing	9
+4,16,Clinton,Flushing	7
+4,16,Gramercy,Flushing	7
+4,16,Financial District,Flushing	6
+4,17,Flushing,Midtown	15
+4,17,Flushing,Upper East Side	14
+4,17,Flushing,Jackson Heights	13
+4,17,Flushing,Forest Hills	7
+4,17,Flushing,Queensboro Hill	6
+4,17,Flushing,Lower East Side	5
+4,17,Flushing,Astoria-Long Island City	3
+4,17,Flushing,Soho	3
+4,17,Flushing,Auburndale	2
+4,17,Flushing,Chelsea	2
+4,17,UNKNOWN,Flushing	277
+4,17,Midtown,Flushing	50
+4,17,Upper East Side,Flushing	39
+4,17,Astoria-Long Island City,Flushing	19
+4,17,Garment District,Flushing	13
+4,17,Gramercy,Flushing	11
+4,17,Jackson Heights,Flushing	10
+4,17,Chelsea,Flushing	8
+4,17,Clinton,Flushing	8
+4,17,Downtown,Flushing	8
+4,18,Flushing,Midtown	13
+4,18,Flushing,Forest Hills	11
+4,18,Flushing,Gramercy	5
+4,18,Flushing,Astoria-Long Island City	4
+4,18,Flushing,Garment District	4
+4,18,Flushing,Jackson Heights	4
+4,18,Flushing,Queensboro Hill	4
+4,18,Flushing,Upper East Side	4
+4,18,Flushing,Greenwich Village	3
+4,18,Flushing,Soho	3
+4,18,UNKNOWN,Flushing	279
+4,18,Midtown,Flushing	106
+4,18,Upper East Side,Flushing	49
+4,18,Gramercy,Flushing	25
+4,18,Garment District,Flushing	21
+4,18,Upper West Side,Flushing	20
+4,18,Chelsea,Flushing	16
+4,18,Astoria-Long Island City,Flushing	15
+4,18,Murray Hill,Flushing	15
+4,18,Greenwich Village,Flushing	13
+4,19,Flushing,Gramercy	7
+4,19,Flushing,Jackson Heights	7
+4,19,Flushing,Midtown	7
+4,19,Flushing,Forest Hills	5
+4,19,Flushing,Upper West Side	5
+4,19,Flushing,Queensboro Hill	4
+4,19,Flushing,Upper East Side	4
+4,19,Flushing,Garment District	3
+4,19,Flushing,Astoria-Long Island City	2
+4,19,Flushing,Clearview	2
+4,19,UNKNOWN,Flushing	231
+4,19,Midtown,Flushing	105
+4,19,Upper East Side,Flushing	52
+4,19,Gramercy,Flushing	33
+4,19,Garment District,Flushing	32
+4,19,Murray Hill,Flushing	27
+4,19,Chelsea,Flushing	25
+4,19,Astoria-Long Island City,Flushing	20
+4,19,Soho,Flushing	17
+4,19,Upper West Side,Flushing	17
+4,2,Flushing,Jackson Heights	8
+4,2,Flushing,Queensboro Hill	7
+4,2,Flushing,Nkew Gardens	3
+4,2,Flushing,Astoria-Long Island City	2
+4,2,Flushing,Auburndale	2
+4,2,Flushing,Throggs Neck	2
+4,2,Flushing,Woodside	2
+4,2,Flushing,Bedford-Stuyvesant	1
+4,2,Flushing,Douglastown-Little Neck	1
+4,2,Flushing,East Brooklyn	1
+4,2,Midtown,Flushing	25
+4,2,UNKNOWN,Flushing	18
+4,2,Garment District,Flushing	13
+4,2,Astoria-Long Island City,Flushing	12
+4,2,Upper East Side,Flushing	10
+4,2,Chelsea,Flushing	8
+4,2,Lower East Side,Flushing	8
+4,2,East Village,Flushing	7
+4,2,Gramercy,Flushing	7
+4,2,Greenwich Village,Flushing	5
+4,20,Flushing,Midtown	12
+4,20,Flushing,Upper West Side	7
+4,20,Flushing,Jackson Heights	5
+4,20,Flushing,Upper East Side	5
+4,20,Flushing,Auburndale	4
+4,20,Flushing,Gramercy	4
+4,20,Flushing,Astoria-Long Island City	2
+4,20,Flushing,Central Park	2
+4,20,Flushing,Clinton	2
+4,20,Flushing,Jamaica	2
+4,20,UNKNOWN,Flushing	275
+4,20,Midtown,Flushing	104
+4,20,Upper East Side,Flushing	48
+4,20,Garment District,Flushing	46
+4,20,Gramercy,Flushing	32
+4,20,Murray Hill,Flushing	30
+4,20,Chelsea,Flushing	25
+4,20,Financial District,Flushing	20
+4,20,Greenwich Village,Flushing	17
+4,20,Soho,Flushing	12
+4,21,Flushing,Midtown	9
+4,21,Flushing,Upper East Side	8
+4,21,Flushing,Upper West Side	8
+4,21,Flushing,Chelsea	6
+4,21,Flushing,Garment District	5
+4,21,Flushing,Gramercy	5
+4,21,Flushing,Jackson Heights	4
+4,21,Flushing,Queensboro Hill	4
+4,21,Flushing,Financial District	3
+4,21,Flushing,Murray Hill	3
+4,21,UNKNOWN,Flushing	308
+4,21,Midtown,Flushing	130
+4,21,Financial District,Flushing	45
+4,21,Gramercy,Flushing	42
+4,21,Garment District,Flushing	38
+4,21,Murray Hill,Flushing	32
+4,21,Chelsea,Flushing	27
+4,21,Upper East Side,Flushing	27
+4,21,Upper West Side,Flushing	25
+4,21,Greenwich Village,Flushing	23
+4,22,Flushing,Midtown	30
+4,22,Flushing,Upper East Side	14
+4,22,Flushing,Jackson Heights	13
+4,22,Flushing,Gramercy	8
+4,22,Flushing,Astoria-Long Island City	7
+4,22,Flushing,Forest Hills	6
+4,22,Flushing,Murray Hill	6
+4,22,Flushing,Chelsea	5
+4,22,Flushing,Financial District	5
+4,22,Flushing,Garment District	5
+4,22,UNKNOWN,Flushing	285
+4,22,Midtown,Flushing	153
+4,22,Gramercy,Flushing	60
+4,22,Garment District,Flushing	44
+4,22,Murray Hill,Flushing	43
+4,22,Greenwich Village,Flushing	29
+4,22,Financial District,Flushing	27
+4,22,Upper East Side,Flushing	24
+4,22,Chelsea,Flushing	20
+4,22,Upper West Side,Flushing	19
+4,23,Flushing,Midtown	29
+4,23,Flushing,Jackson Heights	13
+4,23,Flushing,Upper West Side	13
+4,23,Flushing,Upper East Side	11
+4,23,Flushing,Chelsea	8
+4,23,Flushing,Financial District	8
+4,23,Flushing,Forest Hills	8
+4,23,Flushing,West Village	7
+4,23,Flushing,Astoria-Long Island City	6
+4,23,Flushing,Fort Green	6
+4,23,UNKNOWN,Flushing	271
+4,23,Midtown,Flushing	117
+4,23,Upper East Side,Flushing	52
+4,23,Gramercy,Flushing	43
+4,23,Murray Hill,Flushing	34
+4,23,Garment District,Flushing	33
+4,23,Chelsea,Flushing	27
+4,23,Greenwich Village,Flushing	25
+4,23,Astoria-Long Island City,Flushing	19
+4,23,East Village,Flushing	19
+4,3,Flushing,Jackson Heights	5
+4,3,Flushing,Queensboro Hill	4
+4,3,Flushing,Auburndale	3
+4,3,Flushing,Forest Hills	3
+4,3,Flushing,Jamaica	2
+4,3,Flushing,Utopia	2
+4,3,Flushing,Astoria-Long Island City	1
+4,3,Flushing,Bedford-Stuyvesant	1
+4,3,Flushing,Clearview	1
+4,3,Flushing,Financial District	1
+4,3,Midtown,Flushing	15
+4,3,UNKNOWN,Flushing	15
+4,3,Garment District,Flushing	12
+4,3,Astoria-Long Island City,Flushing	10
+4,3,Chelsea,Flushing	9
+4,3,Sunny Side,Flushing	8
+4,3,Gramercy,Flushing	6
+4,3,Greenwich Village,Flushing	6
+4,3,East Village,Flushing	5
+4,3,Chinatown,Flushing	4
+4,4,Flushing,Queensboro Hill	7
+4,4,Flushing,Jackson Heights	4
+4,4,Flushing,Clearview	3
+4,4,Flushing,Auburndale	2
+4,4,Flushing,Forest Hills	2
+4,4,Flushing,Utopia	2
+4,4,Flushing,Woodside	2
+4,4,Flushing,Astoria-Long Island City	1
+4,4,Flushing,Clinton	1
+4,4,Flushing,Financial District	1
+4,4,Midtown,Flushing	12
+4,4,Astoria-Long Island City,Flushing	10
+4,4,Jackson Heights,Flushing	9
+4,4,Garment District,Flushing	8
+4,4,Sunny Side,Flushing	8
+4,4,UNKNOWN,Flushing	7
+4,4,Clinton,Flushing	6
+4,4,Gramercy,Flushing	6
+4,4,Chelsea,Flushing	4
+4,4,East Village,Flushing	4
+4,5,Flushing,Jackson Heights	5
+4,5,Flushing,Queensboro Hill	5
+4,5,Flushing,Astoria-Long Island City	3
+4,5,Flushing,Lower East Side	3
+4,5,Flushing,Midtown	3
+4,5,Flushing,Financial District	2
+4,5,Flushing,Central Park	1
+4,5,Flushing,Clinton	1
+4,5,Flushing,Corona	1
+4,5,Flushing,Downtown	1
+4,5,UNKNOWN,Flushing	74
+4,5,Murray Hill,Flushing	13
+4,5,Garment District,Flushing	10
+4,5,Jackson Heights,Flushing	10
+4,5,Upper East Side,Flushing	10
+4,5,Midtown,Flushing	6
+4,5,Astoria-Long Island City,Flushing	5
+4,5,Queensboro Hill,Flushing	5
+4,5,Chelsea,Flushing	4
+4,5,Clinton,Flushing	4
+4,6,Flushing,Midtown	7
+4,6,Flushing,Garment District	6
+4,6,Flushing,Murray Hill	5
+4,6,Flushing,Clinton	4
+4,6,Flushing,Gramercy	4
+4,6,Flushing,Jackson Heights	4
+4,6,Flushing,Queensboro Hill	4
+4,6,Flushing,Upper East Side	4
+4,6,Flushing,Astoria-Long Island City	2
+4,6,Flushing,Battery Park	2
+4,6,UNKNOWN,Flushing	100
+4,6,Upper East Side,Flushing	11
+4,6,Upper West Side,Flushing	11
+4,6,Clinton,Flushing	9
+4,6,Midtown,Flushing	9
+4,6,Gramercy,Flushing	7
+4,6,Jackson Heights,Flushing	7
+4,6,Astoria-Long Island City,Flushing	6
+4,6,Forest Hills,Flushing	6
+4,6,Murray Hill,Flushing	6
+4,7,Flushing,Midtown	11
+4,7,Flushing,Chinatown	4
+4,7,Flushing,Garment District	4
+4,7,Flushing,Gramercy	3
+4,7,Flushing,Astoria-Long Island City	2
+4,7,Flushing,Chelsea	2
+4,7,Flushing,Clearview	2
+4,7,Flushing,Clinton	2
+4,7,Flushing,Financial District	2
+4,7,Flushing,Harlem	2
+4,7,UNKNOWN,Flushing	129
+4,7,Battery Park,Flushing	34
+4,7,Astoria-Long Island City,Flushing	24
+4,7,Upper East Side,Flushing	17
+4,7,Midtown,Flushing	16
+4,7,Garment District,Flushing	15
+4,7,Yorkville,Flushing	11
+4,7,Murray Hill,Flushing	9
+4,7,Sunny Side,Flushing	8
+4,7,Upper West Side,Flushing	8
+4,8,Flushing,Jackson Heights	11
+4,8,Flushing,Clinton	8
+4,8,Flushing,Midtown	8
+4,8,Flushing,Financial District	5
+4,8,Flushing,Murray Hill	4
+4,8,Flushing,Soho	4
+4,8,Flushing,Garment District	3
+4,8,Flushing,Gramercy	3
+4,8,Flushing,Little Italy	3
+4,8,Flushing,Queensboro Hill	3
+4,8,UNKNOWN,Flushing	183
+4,8,Murray Hill,Flushing	34
+4,8,Forest Hills,Flushing	22
+4,8,Midtown,Flushing	18
+4,8,Astoria-Long Island City,Flushing	16
+4,8,East Harlem,Flushing	15
+4,8,Upper East Side,Flushing	15
+4,8,Gramercy,Flushing	14
+4,8,Garment District,Flushing	10
+4,8,Yorkville,Flushing	10
+4,9,Flushing,Midtown	16
+4,9,Flushing,Queensboro Hill	4
+4,9,Flushing,Clinton	3
+4,9,Flushing,Garment District	2
+4,9,Flushing,Gramercy	2
+4,9,Flushing,Jamaica	2
+4,9,Flushing,Middle Village	2
+4,9,Flushing,Nkew Gardens	2
+4,9,Flushing,Sunny Side	2
+4,9,Flushing,Tribeca	2
+4,9,UNKNOWN,Flushing	191
+4,9,Midtown,Flushing	51
+4,9,Gramercy,Flushing	25
+4,9,Upper East Side,Flushing	24
+4,9,Astoria-Long Island City,Flushing	18
+4,9,Forest Hills,Flushing	18
+4,9,Chelsea,Flushing	17
+4,9,Murray Hill,Flushing	14
+4,9,Garment District,Flushing	11
+4,9,Financial District,Flushing	10
+5,0,Flushing,Midtown	16
+5,0,Flushing,Queensboro Hill	9
+5,0,Flushing,Astoria-Long Island City	7
+5,0,Flushing,Upper West Side	6
+5,0,Flushing,Utopia	6
+5,0,Flushing,Forest Hills	5
+5,0,Flushing,Gramercy	5
+5,0,Flushing,Jackson Heights	5
+5,0,Flushing,Upper East Side	5
+5,0,Flushing,Garment District	4
+5,0,UNKNOWN,Flushing	185
+5,0,Midtown,Flushing	92
+5,0,Gramercy,Flushing	32
+5,0,Garment District,Flushing	25
+5,0,Murray Hill,Flushing	21
+5,0,Upper East Side,Flushing	20
+5,0,Chelsea,Flushing	17
+5,0,Astoria-Long Island City,Flushing	16
+5,0,Greenwich Village,Flushing	16
+5,0,East Village,Flushing	15
+5,1,Flushing,Jackson Heights	12
+5,1,Flushing,Queensboro Hill	9
+5,1,Flushing,Nkew Gardens	6
+5,1,Flushing,Astoria-Long Island City	3
+5,1,Flushing,Jamaica	3
+5,1,Flushing,Midtown	3
+5,1,Flushing,Utopia	3
+5,1,Flushing,Auburndale	2
+5,1,Flushing,East Brooklyn	2
+5,1,Flushing,Forest Hills	2
+5,1,UNKNOWN,Flushing	70
+5,1,Midtown,Flushing	45
+5,1,Astoria-Long Island City,Flushing	22
+5,1,Gramercy,Flushing	21
+5,1,Murray Hill,Flushing	17
+5,1,Upper East Side,Flushing	16
+5,1,Garment District,Flushing	14
+5,1,Lower East Side,Flushing	13
+5,1,Chelsea,Flushing	11
+5,1,Clinton,Flushing	11
+5,10,Flushing,Midtown	8
+5,10,Flushing,Astoria-Long Island City	3
+5,10,Flushing,Forest Hills	3
+5,10,Flushing,Garment District	3
+5,10,Flushing,Gramercy	3
+5,10,Flushing,Jamaica	3
+5,10,Flushing,Lower East Side	3
+5,10,Flushing,Queensboro Hill	3
+5,10,Flushing,Chelsea	2
+5,10,Flushing,Jackson Heights	2
+5,10,UNKNOWN,Flushing	234
+5,10,Midtown,Flushing	133
+5,10,Murray Hill,Flushing	86
+5,10,Upper East Side,Flushing	43
+5,10,Garment District,Flushing	39
+5,10,Astoria-Long Island City,Flushing	24
+5,10,Clinton,Flushing	22
+5,10,Gramercy,Flushing	22
+5,10,Sunny Side,Flushing	19
+5,10,Financial District,Flushing	18
+5,11,Flushing,Midtown	9
+5,11,Flushing,Jackson Heights	5
+5,11,Flushing,Garment District	3
+5,11,Flushing,Gramercy	3
+5,11,Flushing,Nkew Gardens	3
+5,11,Flushing,Auburndale	2
+5,11,Flushing,Corona	2
+5,11,Flushing,Financial District	2
+5,11,Flushing,Forest Hills	2
+5,11,Flushing,Lower East Side	2
+5,11,UNKNOWN,Flushing	253
+5,11,Midtown,Flushing	112
+5,11,Upper East Side,Flushing	60
+5,11,Murray Hill,Flushing	38
+5,11,Gramercy,Flushing	35
+5,11,Garment District,Flushing	26
+5,11,Astoria-Long Island City,Flushing	19
+5,11,Upper West Side,Flushing	18
+5,11,Clinton,Flushing	14
+5,11,Chelsea,Flushing	11
+5,12,Flushing,Midtown	9
+5,12,Flushing,Queensboro Hill	5
+5,12,Flushing,Auburndale	4
+5,12,Flushing,Garment District	4
+5,12,Flushing,Forest Hills	3
+5,12,Flushing,Jackson Heights	3
+5,12,Flushing,Astoria-Long Island City	2
+5,12,Flushing,Chelsea	2
+5,12,Flushing,Murray Hill	2
+5,12,Flushing,Carnegie Hill	1
+5,12,UNKNOWN,Flushing	259
+5,12,Midtown,Flushing	109
+5,12,Upper East Side,Flushing	60
+5,12,Gramercy,Flushing	35
+5,12,Garment District,Flushing	22
+5,12,Astoria-Long Island City,Flushing	21
+5,12,Upper West Side,Flushing	20
+5,12,Financial District,Flushing	19
+5,12,Chelsea,Flushing	17
+5,12,Murray Hill,Flushing	13
+5,13,Flushing,Midtown	13
+5,13,Flushing,Forest Hills	7
+5,13,Flushing,Clinton	3
+5,13,Flushing,Garment District	3
+5,13,Flushing,Sunny Side	3
+5,13,Flushing,Chelsea	2
+5,13,Flushing,Gramercy	2
+5,13,Flushing,Jackson Heights	2
+5,13,Flushing,Murray Hill	2
+5,13,Flushing,Nkew Gardens	2
+5,13,UNKNOWN,Flushing	247
+5,13,Midtown,Flushing	70
+5,13,Upper East Side,Flushing	44
+5,13,Garment District,Flushing	28
+5,13,Gramercy,Flushing	25
+5,13,Financial District,Flushing	17
+5,13,Murray Hill,Flushing	17
+5,13,Astoria-Long Island City,Flushing	16
+5,13,Forest Hills,Flushing	15
+5,13,Chelsea,Flushing	14
+5,14,Flushing,Midtown	16
+5,14,Flushing,Jackson Heights	6
+5,14,Flushing,Upper East Side	5
+5,14,Flushing,Chelsea	4
+5,14,Flushing,Gramercy	4
+5,14,Flushing,Queensboro Hill	4
+5,14,Flushing,Upper West Side	4
+5,14,Flushing,Clinton	3
+5,14,Flushing,Murray Hill	3
+5,14,Flushing,Woodside	3
+5,14,UNKNOWN,Flushing	310
+5,14,Midtown,Flushing	46
+5,14,Upper East Side,Flushing	20
+5,14,Garment District,Flushing	17
+5,14,Gramercy,Flushing	16
+5,14,Financial District,Flushing	14
+5,14,Murray Hill,Flushing	12
+5,14,Forest Hills,Flushing	10
+5,14,Jackson Heights,Flushing	10
+5,14,Astoria-Long Island City,Flushing	8
+5,15,Flushing,Midtown	18
+5,15,Flushing,Queensboro Hill	8
+5,15,Flushing,Auburndale	6
+5,15,Flushing,Jackson Heights	6
+5,15,Flushing,Murray Hill	6
+5,15,Flushing,Upper East Side	6
+5,15,Flushing,Chelsea	4
+5,15,Flushing,Astoria-Long Island City	3
+5,15,Flushing,Clinton	3
+5,15,Flushing,Garment District	3
+5,15,UNKNOWN,Flushing	270
+5,15,Midtown,Flushing	39
+5,15,Upper East Side,Flushing	27
+5,15,Garment District,Flushing	15
+5,15,Gramercy,Flushing	13
+5,15,Astoria-Long Island City,Flushing	12
+5,15,Murray Hill,Flushing	8
+5,15,Upper West Side,Flushing	8
+5,15,Financial District,Flushing	7
+5,15,Nkew Gardens,Flushing	6
+5,16,Flushing,Midtown	22
+5,16,Flushing,Jackson Heights	9
+5,16,Flushing,Upper East Side	8
+5,16,Flushing,Murray Hill	6
+5,16,Flushing,Chelsea	5
+5,16,Flushing,Clinton	5
+5,16,Flushing,Gramercy	5
+5,16,Flushing,Nkew Gardens	4
+5,16,Flushing,Queensboro Hill	4
+5,16,Flushing,Upper West Side	4
+5,16,UNKNOWN,Flushing	285
+5,16,Midtown,Flushing	37
+5,16,Upper East Side,Flushing	14
+5,16,Jackson Heights,Flushing	13
+5,16,Chelsea,Flushing	10
+5,16,Upper West Side,Flushing	9
+5,16,Astoria-Long Island City,Flushing	8
+5,16,Garment District,Flushing	7
+5,16,Murray Hill,Flushing	7
+5,16,Clinton,Flushing	6
+5,17,Flushing,Midtown	28
+5,17,Flushing,Upper East Side	13
+5,17,Flushing,Jackson Heights	12
+5,17,Flushing,Queensboro Hill	8
+5,17,Flushing,Murray Hill	7
+5,17,Flushing,Nkew Gardens	7
+5,17,Flushing,Clinton	6
+5,17,Flushing,Gramercy	6
+5,17,Flushing,Chelsea	5
+5,17,Flushing,Greenwich Village	5
+5,17,UNKNOWN,Flushing	307
+5,17,Midtown,Flushing	69
+5,17,Upper East Side,Flushing	30
+5,17,Garment District,Flushing	17
+5,17,Chelsea,Flushing	15
+5,17,Gramercy,Flushing	15
+5,17,Astoria-Long Island City,Flushing	13
+5,17,Murray Hill,Flushing	12
+5,17,Upper West Side,Flushing	12
+5,17,Financial District,Flushing	11
+5,18,Flushing,Midtown	13
+5,18,Flushing,Jackson Heights	7
+5,18,Flushing,Chelsea	6
+5,18,Flushing,Gramercy	6
+5,18,Flushing,Murray Hill	6
+5,18,Flushing,Auburndale	5
+5,18,Flushing,Garment District	5
+5,18,Flushing,Upper East Side	5
+5,18,Flushing,Upper West Side	4
+5,18,Flushing,Forest Hills	3
+5,18,UNKNOWN,Flushing	305
+5,18,Midtown,Flushing	97
+5,18,Upper East Side,Flushing	41
+5,18,Gramercy,Flushing	25
+5,18,Garment District,Flushing	22
+5,18,Murray Hill,Flushing	18
+5,18,Astoria-Long Island City,Flushing	15
+5,18,Chelsea,Flushing	14
+5,18,Upper West Side,Flushing	14
+5,18,Clinton,Flushing	10
+5,19,Flushing,Midtown	21
+5,19,Flushing,Garment District	6
+5,19,Flushing,Gramercy	6
+5,19,Flushing,Jackson Heights	6
+5,19,Flushing,Upper East Side	6
+5,19,Flushing,Soho	5
+5,19,Flushing,East Village	3
+5,19,Flushing,Queensboro Hill	3
+5,19,Flushing,Upper West Side	3
+5,19,Flushing,Astoria-Long Island City	2
+5,19,UNKNOWN,Flushing	270
+5,19,Midtown,Flushing	87
+5,19,Upper East Side,Flushing	38
+5,19,Gramercy,Flushing	33
+5,19,Garment District,Flushing	32
+5,19,Upper West Side,Flushing	14
+5,19,Chelsea,Flushing	13
+5,19,Greenwich Village,Flushing	13
+5,19,Murray Hill,Flushing	11
+5,19,Astoria-Long Island City,Flushing	10
+5,2,Flushing,Nkew Gardens	4
+5,2,Flushing,Queensboro Hill	4
+5,2,Flushing,Jackson Heights	3
+5,2,Flushing,Utopia	3
+5,2,Flushing,Woodhaven-Richmond Hill	3
+5,2,Flushing,Garment District	2
+5,2,Flushing,Glendale	2
+5,2,Flushing,Ridgewood	2
+5,2,Flushing,Sunny Side	2
+5,2,Flushing,Auburndale	1
+5,2,UNKNOWN,Flushing	33
+5,2,Midtown,Flushing	31
+5,2,Garment District,Flushing	16
+5,2,Astoria-Long Island City,Flushing	12
+5,2,Chelsea,Flushing	11
+5,2,Jackson Heights,Flushing	10
+5,2,Greenwich Village,Flushing	9
+5,2,Lower East Side,Flushing	9
+5,2,East Village,Flushing	8
+5,2,Gramercy,Flushing	8
+5,20,Flushing,Gramercy	8
+5,20,Flushing,Jackson Heights	8
+5,20,Flushing,Midtown	8
+5,20,Flushing,Upper East Side	4
+5,20,Flushing,Upper West Side	4
+5,20,Flushing,East Village	3
+5,20,Flushing,Garment District	3
+5,20,Flushing,Woodside	3
+5,20,Flushing,Chelsea	2
+5,20,Flushing,Clinton	2
+5,20,UNKNOWN,Flushing	266
+5,20,Midtown,Flushing	97
+5,20,Garment District,Flushing	41
+5,20,Upper East Side,Flushing	38
+5,20,Gramercy,Flushing	33
+5,20,Murray Hill,Flushing	27
+5,20,Chelsea,Flushing	23
+5,20,Financial District,Flushing	17
+5,20,Greenwich Village,Flushing	10
+5,20,East Village,Flushing	9
+5,21,Flushing,Midtown	15
+5,21,Flushing,Jackson Heights	10
+5,21,Flushing,Upper West Side	8
+5,21,Flushing,Upper East Side	7
+5,21,Flushing,Chelsea	5
+5,21,Flushing,Greenwich Village	5
+5,21,Flushing,Astoria-Long Island City	4
+5,21,Flushing,Forest Hills	4
+5,21,Flushing,Auburndale	3
+5,21,Flushing,Central Park	3
+5,21,UNKNOWN,Flushing	312
+5,21,Midtown,Flushing	113
+5,21,Garment District,Flushing	43
+5,21,Gramercy,Flushing	42
+5,21,Upper East Side,Flushing	38
+5,21,Murray Hill,Flushing	36
+5,21,Financial District,Flushing	28
+5,21,Clinton,Flushing	18
+5,21,Upper West Side,Flushing	17
+5,21,Greenwich Village,Flushing	16
+5,22,Flushing,Midtown	21
+5,22,Flushing,Upper East Side	15
+5,22,Flushing,Gramercy	12
+5,22,Flushing,Upper West Side	9
+5,22,Flushing,Murray Hill	7
+5,22,Flushing,Greenwich Village	6
+5,22,Flushing,Chelsea	5
+5,22,Flushing,Jackson Heights	5
+5,22,Flushing,Park Slope	5
+5,22,Flushing,Soho	5
+5,22,UNKNOWN,Flushing	279
+5,22,Midtown,Flushing	153
+5,22,Garment District,Flushing	47
+5,22,Gramercy,Flushing	40
+5,22,Murray Hill,Flushing	37
+5,22,Upper East Side,Flushing	34
+5,22,Financial District,Flushing	23
+5,22,Chelsea,Flushing	21
+5,22,Tribeca,Flushing	20
+5,22,Upper West Side,Flushing	20
+5,23,Flushing,Midtown	28
+5,23,Flushing,Jackson Heights	11
+5,23,Flushing,Upper East Side	9
+5,23,Flushing,Upper West Side	7
+5,23,Flushing,Murray Hill	6
+5,23,Flushing,Nkew Gardens	6
+5,23,Flushing,Queensboro Hill	5
+5,23,Flushing,West Village	5
+5,23,Flushing,Astoria-Long Island City	4
+5,23,Flushing,Gramercy	4
+5,23,UNKNOWN,Flushing	304
+5,23,Midtown,Flushing	141
+5,23,Gramercy,Flushing	64
+5,23,Upper East Side,Flushing	52
+5,23,Garment District,Flushing	51
+5,23,Murray Hill,Flushing	46
+5,23,Chelsea,Flushing	26
+5,23,East Village,Flushing	24
+5,23,Astoria-Long Island City,Flushing	23
+5,23,Financial District,Flushing	18
+5,3,Flushing,Queensboro Hill	8
+5,3,Flushing,Jackson Heights	4
+5,3,Flushing,Auburndale	2
+5,3,Flushing,Bushwick	1
+5,3,Flushing,Clearview	1
+5,3,Flushing,East Harlem	1
+5,3,Flushing,Forest Hills	1
+5,3,Flushing,Morningside Heights	1
+5,3,Flushing,Sunny Side	1
+5,3,Flushing,Sunset Park	1
+5,3,Midtown,Flushing	23
+5,3,UNKNOWN,Flushing	12
+5,3,Astoria-Long Island City,Flushing	9
+5,3,Jackson Heights,Flushing	9
+5,3,Garment District,Flushing	8
+5,3,Greenwich Village,Flushing	8
+5,3,East Village,Flushing	7
+5,3,Sunny Side,Flushing	6
+5,3,Chelsea,Flushing	4
+5,3,Lower East Side,Flushing	4
+5,4,Flushing,Jackson Heights	5
+5,4,Flushing,Queensboro Hill	5
+5,4,Flushing,Midtown	2
+5,4,Flushing,Auburndale	1
+5,4,Flushing,Bay Ridge	1
+5,4,Flushing,East Harlem	1
+5,4,Flushing,Financial District	1
+5,4,Flushing,Glendale	1
+5,4,Flushing,Jamaica	1
+5,4,Flushing,Murray Hill	1
+5,4,Astoria-Long Island City,Flushing	19
+5,4,Chelsea,Flushing	11
+5,4,Jackson Heights,Flushing	11
+5,4,Midtown,Flushing	10
+5,4,UNKNOWN,Flushing	10
+5,4,Garment District,Flushing	8
+5,4,Sunny Side,Flushing	8
+5,4,East Village,Flushing	6
+5,4,Murray Hill,Flushing	5
+5,4,Gramercy,Flushing	4
+5,5,Flushing,Jackson Heights	6
+5,5,Flushing,Queensboro Hill	6
+5,5,Flushing,Midtown	5
+5,5,Flushing,Auburndale	2
+5,5,Flushing,Clearview	2
+5,5,Flushing,Gramercy	2
+5,5,Flushing,Astoria-Long Island City	1
+5,5,Flushing,Battery Park	1
+5,5,Flushing,Boerum Hill	1
+5,5,Flushing,Chelsea	1
+5,5,UNKNOWN,Flushing	69
+5,5,Astoria-Long Island City,Flushing	14
+5,5,Morningside Heights,Flushing	12
+5,5,Murray Hill,Flushing	10
+5,5,Jackson Heights,Flushing	7
+5,5,Upper East Side,Flushing	5
+5,5,Chelsea,Flushing	4
+5,5,Clinton,Flushing	4
+5,5,Gramercy,Flushing	4
+5,5,Midtown,Flushing	4
+5,6,Flushing,Midtown	14
+5,6,Flushing,Queensboro Hill	8
+5,6,Flushing,Garment District	5
+5,6,Flushing,Gramercy	4
+5,6,Flushing,Upper East Side	3
+5,6,Flushing,Astoria-Long Island City	2
+5,6,Flushing,Auburndale	2
+5,6,Flushing,Financial District	2
+5,6,Flushing,Jamaica	2
+5,6,Flushing,Nkew Gardens	2
+5,6,UNKNOWN,Flushing	95
+5,6,Upper West Side,Flushing	17
+5,6,Midtown,Flushing	13
+5,6,Garment District,Flushing	9
+5,6,Upper East Side,Flushing	9
+5,6,Astoria-Long Island City,Flushing	8
+5,6,Murray Hill,Flushing	8
+5,6,Forest Hills,Flushing	7
+5,6,Clinton,Flushing	6
+5,6,Gramercy,Flushing	6
+5,7,Flushing,Midtown	16
+5,7,Flushing,Upper East Side	5
+5,7,Flushing,Gramercy	4
+5,7,Flushing,Auburndale	3
+5,7,Flushing,Garment District	3
+5,7,Flushing,Greenwich Village	3
+5,7,Flushing,Battery Park	2
+5,7,Flushing,East Village	2
+5,7,Flushing,Jackson Heights	2
+5,7,Flushing,Lower East Side	2
+5,7,UNKNOWN,Flushing	157
+5,7,Astoria-Long Island City,Flushing	23
+5,7,Midtown,Flushing	21
+5,7,Upper East Side,Flushing	21
+5,7,Garment District,Flushing	12
+5,7,Yorkville,Flushing	12
+5,7,Forest Hills,Flushing	9
+5,7,Sunny Side,Flushing	9
+5,7,Jackson Heights,Flushing	7
+5,7,Murray Hill,Flushing	5
+5,8,Flushing,Midtown	19
+5,8,Flushing,Jackson Heights	13
+5,8,Flushing,Chelsea	4
+5,8,Flushing,Upper East Side	4
+5,8,Flushing,Financial District	3
+5,8,Flushing,Garment District	3
+5,8,Flushing,Gramercy	3
+5,8,Flushing,Lower East Side	3
+5,8,Flushing,Clearview	2
+5,8,Flushing,Clinton	2
+5,8,UNKNOWN,Flushing	208
+5,8,Midtown,Flushing	58
+5,8,Murray Hill,Flushing	39
+5,8,Upper East Side,Flushing	28
+5,8,East Harlem,Flushing	21
+5,8,Astoria-Long Island City,Flushing	17
+5,8,Forest Hills,Flushing	17
+5,8,Gramercy,Flushing	14
+5,8,Jackson Heights,Flushing	8
+5,8,Garment District,Flushing	7
+5,9,Flushing,Midtown	14
+5,9,Flushing,Jackson Heights	7
+5,9,Flushing,Financial District	3
+5,9,Flushing,Upper East Side	3
+5,9,Flushing,Upper West Side	3
+5,9,Flushing,Woodside	3
+5,9,Flushing,Chelsea	2
+5,9,Flushing,Forest Hills	2
+5,9,Flushing,Garment District	2
+5,9,Flushing,Queensboro Hill	2
+5,9,UNKNOWN,Flushing	272
+5,9,Midtown,Flushing	79
+5,9,Upper East Side,Flushing	34
+5,9,Garment District,Flushing	22
+5,9,Murray Hill,Flushing	20
+5,9,Forest Hills,Flushing	18
+5,9,Gramercy,Flushing	18
+5,9,Astoria-Long Island City,Flushing	16
+5,9,Chelsea,Flushing	10
+5,9,Financial District,Flushing	10
+6,0,Flushing,Queensboro Hill	8
+6,0,Flushing,Midtown	7
+6,0,Flushing,Jackson Heights	6
+6,0,Flushing,Forest Hills	5
+6,0,Flushing,Astoria-Long Island City	4
+6,0,Flushing,Clinton	4
+6,0,Flushing,Jamaica	4
+6,0,Flushing,Nkew Gardens	4
+6,0,Flushing,Upper West Side	4
+6,0,Flushing,Gramercy	3
+6,0,UNKNOWN,Flushing	184
+6,0,Midtown,Flushing	99
+6,0,Garment District,Flushing	47
+6,0,Gramercy,Flushing	41
+6,0,Upper East Side,Flushing	37
+6,0,Murray Hill,Flushing	33
+6,0,Astoria-Long Island City,Flushing	30
+6,0,Chelsea,Flushing	27
+6,0,East Village,Flushing	27
+6,0,Lower East Side,Flushing	25
+6,1,Flushing,Queensboro Hill	7
+6,1,Flushing,Jackson Heights	4
+6,1,Flushing,Nkew Gardens	4
+6,1,Flushing,Astoria-Long Island City	3
+6,1,Flushing,Jamaica	3
+6,1,Flushing,Midtown	3
+6,1,Flushing,Upper East Side	3
+6,1,Flushing,Auburndale	2
+6,1,Flushing,Clinton	2
+6,1,Flushing,Murray Hill	2
+6,1,UNKNOWN,Flushing	99
+6,1,Midtown,Flushing	67
+6,1,Garment District,Flushing	30
+6,1,Astoria-Long Island City,Flushing	29
+6,1,Gramercy,Flushing	26
+6,1,Greenwich Village,Flushing	19
+6,1,East Village,Flushing	17
+6,1,Chelsea,Flushing	14
+6,1,Upper East Side,Flushing	14
+6,1,Lower East Side,Flushing	13
+6,10,Flushing,Midtown	5
+6,10,Flushing,Garment District	4
+6,10,Flushing,Astoria-Long Island City	3
+6,10,Flushing,Gramercy	3
+6,10,Flushing,Jackson Heights	3
+6,10,Flushing,Upper East Side	3
+6,10,Flushing,Upper West Side	3
+6,10,Flushing,Carnegie Hill	2
+6,10,Flushing,Forest Hills	2
+6,10,Flushing,Jamaica	2
+6,10,UNKNOWN,Flushing	241
+6,10,Midtown,Flushing	88
+6,10,Upper East Side,Flushing	43
+6,10,Garment District,Flushing	32
+6,10,Gramercy,Flushing	18
+6,10,Upper West Side,Flushing	18
+6,10,Murray Hill,Flushing	17
+6,10,Astoria-Long Island City,Flushing	13
+6,10,Chelsea,Flushing	12
+6,10,Financial District,Flushing	12
+6,11,Flushing,Midtown	11
+6,11,Flushing,Gramercy	4
+6,11,Flushing,Jackson Heights	4
+6,11,Flushing,Murray Hill	4
+6,11,Flushing,Astoria-Long Island City	3
+6,11,Flushing,Queensboro Hill	3
+6,11,Flushing,Upper West Side	3
+6,11,Flushing,West Village	3
+6,11,Flushing,Financial District	2
+6,11,Flushing,Garment District	2
+6,11,UNKNOWN,Flushing	228
+6,11,Midtown,Flushing	85
+6,11,Upper East Side,Flushing	42
+6,11,Garment District,Flushing	26
+6,11,Gramercy,Flushing	19
+6,11,Murray Hill,Flushing	17
+6,11,Chelsea,Flushing	14
+6,11,Clinton,Flushing	13
+6,11,Jackson Heights,Flushing	13
+6,11,Financial District,Flushing	12
+6,12,Flushing,Jackson Heights	6
+6,12,Flushing,Midtown	6
+6,12,Flushing,Astoria-Long Island City	4
+6,12,Flushing,Chelsea	4
+6,12,Flushing,Gramercy	4
+6,12,Flushing,Murray Hill	4
+6,12,Flushing,Clinton	3
+6,12,Flushing,Forest Hills	3
+6,12,Flushing,Garment District	3
+6,12,Flushing,East Harlem	2
+6,12,UNKNOWN,Flushing	212
+6,12,Midtown,Flushing	82
+6,12,Upper East Side,Flushing	42
+6,12,Garment District,Flushing	20
+6,12,Chelsea,Flushing	17
+6,12,Financial District,Flushing	17
+6,12,Murray Hill,Flushing	17
+6,12,Gramercy,Flushing	16
+6,12,Astoria-Long Island City,Flushing	13
+6,12,East Village,Flushing	11
+6,13,Flushing,Midtown	9
+6,13,Flushing,Jackson Heights	8
+6,13,Flushing,Upper East Side	5
+6,13,Flushing,Gramercy	4
+6,13,Flushing,Nkew Gardens	4
+6,13,Flushing,Murray Hill	3
+6,13,Flushing,Astoria-Long Island City	2
+6,13,Flushing,Central Park	2
+6,13,Flushing,Chelsea	2
+6,13,Flushing,Clinton	2
+6,13,UNKNOWN,Flushing	222
+6,13,Midtown,Flushing	68
+6,13,Upper East Side,Flushing	33
+6,13,Gramercy,Flushing	30
+6,13,Murray Hill,Flushing	17
+6,13,Upper West Side,Flushing	16
+6,13,Garment District,Flushing	15
+6,13,Forest Hills,Flushing	14
+6,13,Financial District,Flushing	12
+6,13,Chelsea,Flushing	11
+6,14,Flushing,Jackson Heights	12
+6,14,Flushing,Midtown	12
+6,14,Flushing,Chelsea	5
+6,14,Flushing,Gramercy	4
+6,14,Flushing,Queensboro Hill	4
+6,14,Flushing,Astoria-Long Island City	3
+6,14,Flushing,Auburndale	3
+6,14,Flushing,Forest Hills	3
+6,14,Flushing,Nkew Gardens	3
+6,14,Flushing,Upper East Side	3
+6,14,UNKNOWN,Flushing	274
+6,14,Midtown,Flushing	86
+6,14,Upper East Side,Flushing	41
+6,14,Garment District,Flushing	27
+6,14,Gramercy,Flushing	24
+6,14,Murray Hill,Flushing	17
+6,14,Jackson Heights,Flushing	16
+6,14,Forest Hills,Flushing	13
+6,14,Upper West Side,Flushing	13
+6,14,Astoria-Long Island City,Flushing	8
+6,15,Flushing,Midtown	18
+6,15,Flushing,Upper East Side	10
+6,15,Flushing,Jackson Heights	6
+6,15,Flushing,Murray Hill	6
+6,15,Flushing,Clinton	5
+6,15,Flushing,Gramercy	4
+6,15,Flushing,Chelsea	3
+6,15,Flushing,Forest Hills	3
+6,15,Flushing,Astoria-Long Island City	2
+6,15,Flushing,Chinatown	2
+6,15,UNKNOWN,Flushing	273
+6,15,Midtown,Flushing	48
+6,15,Upper East Side,Flushing	30
+6,15,Garment District,Flushing	19
+6,15,Gramercy,Flushing	16
+6,15,Jackson Heights,Flushing	12
+6,15,Chelsea,Flushing	11
+6,15,Astoria-Long Island City,Flushing	9
+6,15,Clinton,Flushing	9
+6,15,Murray Hill,Flushing	9
+6,16,Flushing,Jackson Heights	13
+6,16,Flushing,Midtown	13
+6,16,Flushing,Upper East Side	8
+6,16,Flushing,Gramercy	7
+6,16,Flushing,Garment District	6
+6,16,Flushing,Astoria-Long Island City	5
+6,16,Flushing,Murray Hill	5
+6,16,Flushing,Clinton	4
+6,16,Flushing,Upper West Side	4
+6,16,Flushing,Chelsea	3
+6,16,UNKNOWN,Flushing	315
+6,16,Midtown,Flushing	30
+6,16,Upper East Side,Flushing	18
+6,16,Jackson Heights,Flushing	12
+6,16,Garment District,Flushing	9
+6,16,Clinton,Flushing	7
+6,16,Financial District,Flushing	7
+6,16,Upper West Side,Flushing	7
+6,16,Gramercy,Flushing	6
+6,16,Murray Hill,Flushing	6
+6,17,Flushing,Midtown	19
+6,17,Flushing,Upper East Side	13
+6,17,Flushing,Gramercy	9
+6,17,Flushing,Jackson Heights	6
+6,17,Flushing,Murray Hill	6
+6,17,Flushing,Upper West Side	6
+6,17,Flushing,Chelsea	4
+6,17,Flushing,Garment District	4
+6,17,Flushing,Greenwich Village	4
+6,17,Flushing,Financial District	3
+6,17,UNKNOWN,Flushing	324
+6,17,Midtown,Flushing	66
+6,17,Upper East Side,Flushing	37
+6,17,Astoria-Long Island City,Flushing	17
+6,17,Garment District,Flushing	17
+6,17,Gramercy,Flushing	15
+6,17,Financial District,Flushing	11
+6,17,Chelsea,Flushing	10
+6,17,Murray Hill,Flushing	10
+6,17,Downtown,Flushing	7
+6,18,Flushing,Midtown	19
+6,18,Flushing,Jackson Heights	12
+6,18,Flushing,Chelsea	6
+6,18,Flushing,Upper East Side	6
+6,18,Flushing,Gramercy	5
+6,18,Flushing,Murray Hill	5
+6,18,Flushing,East Village	4
+6,18,Flushing,Forest Hills	4
+6,18,Flushing,Greenwich Village	4
+6,18,Flushing,High Bridge	4
+6,18,UNKNOWN,Flushing	317
+6,18,Midtown,Flushing	91
+6,18,Upper East Side,Flushing	73
+6,18,Murray Hill,Flushing	42
+6,18,Gramercy,Flushing	31
+6,18,Astoria-Long Island City,Flushing	22
+6,18,Upper West Side,Flushing	19
+6,18,Chelsea,Flushing	17
+6,18,Soho,Flushing	17
+6,18,Garment District,Flushing	16
+6,19,Flushing,Midtown	13
+6,19,Flushing,Jackson Heights	9
+6,19,Flushing,Garment District	5
+6,19,Flushing,Murray Hill	5
+6,19,Flushing,Upper East Side	5
+6,19,Flushing,Upper West Side	5
+6,19,Flushing,Astoria-Long Island City	4
+6,19,Flushing,Forest Hills	4
+6,19,Flushing,Gramercy	4
+6,19,Flushing,Queensboro Hill	4
+6,19,UNKNOWN,Flushing	287
+6,19,Midtown,Flushing	102
+6,19,Upper East Side,Flushing	50
+6,19,Garment District,Flushing	48
+6,19,Gramercy,Flushing	36
+6,19,Murray Hill,Flushing	25
+6,19,Astoria-Long Island City,Flushing	21
+6,19,Chelsea,Flushing	19
+6,19,Greenwich Village,Flushing	16
+6,19,Soho,Flushing	15
+6,2,Flushing,Nkew Gardens	9
+6,2,Flushing,Queensboro Hill	8
+6,2,Flushing,Jackson Heights	7
+6,2,Flushing,Auburndale	3
+6,2,Flushing,Forest Hills	3
+6,2,Flushing,Astoria-Long Island City	2
+6,2,Flushing,Utopia	2
+6,2,Flushing,Clearview	1
+6,2,Flushing,Clinton	1
+6,2,Flushing,Country Club	1
+6,2,Midtown,Flushing	42
+6,2,UNKNOWN,Flushing	36
+6,2,Garment District,Flushing	25
+6,2,Gramercy,Flushing	18
+6,2,Astoria-Long Island City,Flushing	17
+6,2,Chelsea,Flushing	15
+6,2,Murray Hill,Flushing	14
+6,2,East Village,Flushing	13
+6,2,Greenwich Village,Flushing	11
+6,2,Jackson Heights,Flushing	11
+6,20,Flushing,Midtown	13
+6,20,Flushing,Jackson Heights	12
+6,20,Flushing,Astoria-Long Island City	6
+6,20,Flushing,Upper West Side	6
+6,20,Flushing,Upper East Side	5
+6,20,Flushing,Garment District	4
+6,20,Flushing,Gramercy	4
+6,20,Flushing,Murray Hill	4
+6,20,Flushing,Clinton	3
+6,20,Flushing,Financial District	3
+6,20,UNKNOWN,Flushing	258
+6,20,Midtown,Flushing	111
+6,20,Garment District,Flushing	53
+6,20,Upper East Side,Flushing	45
+6,20,Gramercy,Flushing	30
+6,20,Murray Hill,Flushing	24
+6,20,Financial District,Flushing	17
+6,20,Astoria-Long Island City,Flushing	15
+6,20,Clinton,Flushing	15
+6,20,Greenwich Village,Flushing	15
+6,21,Flushing,Jackson Heights	16
+6,21,Flushing,Midtown	12
+6,21,Flushing,Gramercy	8
+6,21,Flushing,Upper West Side	5
+6,21,Flushing,Forest Hills	4
+6,21,Flushing,Maspeth	4
+6,21,Flushing,Upper East Side	4
+6,21,Flushing,Astoria-Long Island City	3
+6,21,Flushing,Chelsea	3
+6,21,Flushing,Clinton	3
+6,21,UNKNOWN,Flushing	317
+6,21,Midtown,Flushing	101
+6,21,Garment District,Flushing	48
+6,21,Upper East Side,Flushing	38
+6,21,Gramercy,Flushing	37
+6,21,Murray Hill,Flushing	25
+6,21,Upper West Side,Flushing	25
+6,21,Chelsea,Flushing	21
+6,21,Lower East Side,Flushing	16
+6,21,Clinton,Flushing	15
+6,22,Flushing,Midtown	18
+6,22,Flushing,Jackson Heights	13
+6,22,Flushing,Astoria-Long Island City	8
+6,22,Flushing,Upper East Side	6
+6,22,Flushing,Gramercy	5
+6,22,Flushing,Lower East Side	5
+6,22,Flushing,Queensboro Hill	5
+6,22,Flushing,Forest Hills	4
+6,22,Flushing,Garment District	4
+6,22,Flushing,Chelsea	3
+6,22,UNKNOWN,Flushing	266
+6,22,Midtown,Flushing	112
+6,22,Gramercy,Flushing	39
+6,22,Garment District,Flushing	36
+6,22,Upper East Side,Flushing	32
+6,22,Chelsea,Flushing	28
+6,22,Murray Hill,Flushing	28
+6,22,Greenwich Village,Flushing	23
+6,22,East Village,Flushing	20
+6,22,Upper West Side,Flushing	18
+6,23,Flushing,Jackson Heights	16
+6,23,Flushing,Midtown	16
+6,23,Flushing,Gramercy	7
+6,23,Flushing,Astoria-Long Island City	5
+6,23,Flushing,Upper East Side	5
+6,23,Flushing,Greenwich Village	3
+6,23,Flushing,Lower East Side	3
+6,23,Flushing,Middle Village	3
+6,23,Flushing,Queensboro Hill	3
+6,23,Flushing,Upper West Side	3
+6,23,UNKNOWN,Flushing	303
+6,23,Midtown,Flushing	128
+6,23,Gramercy,Flushing	50
+6,23,Garment District,Flushing	42
+6,23,Upper East Side,Flushing	40
+6,23,Murray Hill,Flushing	33
+6,23,East Village,Flushing	30
+6,23,Astoria-Long Island City,Flushing	26
+6,23,Lower East Side,Flushing	23
+6,23,Upper West Side,Flushing	21
+6,3,Flushing,Queensboro Hill	13
+6,3,Flushing,Auburndale	8
+6,3,Flushing,Nkew Gardens	8
+6,3,Flushing,Jackson Heights	6
+6,3,Flushing,Astoria-Long Island City	2
+6,3,Flushing,Sunny Side	2
+6,3,Flushing,Clearview	1
+6,3,Flushing,Financial District	1
+6,3,Flushing,Mapleton-Flatlands	1
+6,3,Flushing,Midtown	1
+6,3,Midtown,Flushing	22
+6,3,UNKNOWN,Flushing	17
+6,3,Astoria-Long Island City,Flushing	16
+6,3,Garment District,Flushing	16
+6,3,Greenwich Village,Flushing	13
+6,3,East Village,Flushing	9
+6,3,Jackson Heights,Flushing	9
+6,3,Lower East Side,Flushing	9
+6,3,Gramercy,Flushing	8
+6,3,Chelsea,Flushing	7
+6,4,Flushing,Queensboro Hill	15
+6,4,Flushing,Nkew Gardens	5
+6,4,Flushing,Clearview	4
+6,4,Flushing,Woodside	3
+6,4,Flushing,Jackson Heights	2
+6,4,Flushing,Utopia	2
+6,4,Flushing,Astoria-Long Island City	1
+6,4,Flushing,Battery Park	1
+6,4,Flushing,Carroll Gardens	1
+6,4,Flushing,Chelsea	1
+6,4,Midtown,Flushing	20
+6,4,UNKNOWN,Flushing	19
+6,4,Astoria-Long Island City,Flushing	13
+6,4,Garment District,Flushing	13
+6,4,Sunny Side,Flushing	13
+6,4,Upper East Side,Flushing	8
+6,4,Lower East Side,Flushing	7
+6,4,Gramercy,Flushing	6
+6,4,Jackson Heights,Flushing	6
+6,4,Clinton,Flushing	5
+6,5,Flushing,Queensboro Hill	6
+6,5,Flushing,Jackson Heights	5
+6,5,Flushing,Forest Hills	4
+6,5,Flushing,Astoria-Long Island City	3
+6,5,Flushing,Gramercy	3
+6,5,Flushing,Midtown	3
+6,5,Flushing,Nkew Gardens	2
+6,5,Flushing,Sunny Side	2
+6,5,Flushing,Battery Park	1
+6,5,Flushing,Bay Ridge	1
+6,5,UNKNOWN,Flushing	49
+6,5,Midtown,Flushing	14
+6,5,Murray Hill,Flushing	13
+6,5,Astoria-Long Island City,Flushing	10
+6,5,Jackson Heights,Flushing	8
+6,5,Upper East Side,Flushing	8
+6,5,Chelsea,Flushing	6
+6,5,Garment District,Flushing	6
+6,5,East Village,Flushing	5
+6,5,Gramercy,Flushing	5
+6,6,Flushing,Midtown	4
+6,6,Flushing,Clinton	3
+6,6,Flushing,Murray Hill	3
+6,6,Flushing,Queensboro Hill	3
+6,6,Flushing,Upper East Side	3
+6,6,Flushing,Gramercy	2
+6,6,Flushing,Lower East Side	2
+6,6,Flushing,Tribeca	2
+6,6,Flushing,Utopia	2
+6,6,Flushing,Auburndale	1
+6,6,UNKNOWN,Flushing	101
+6,6,Upper East Side,Flushing	12
+6,6,Astoria-Long Island City,Flushing	10
+6,6,Garment District,Flushing	10
+6,6,Gramercy,Flushing	10
+6,6,Midtown,Flushing	10
+6,6,Forest Hills,Flushing	9
+6,6,East Harlem,Flushing	7
+6,6,Carroll Gardens,Flushing	6
+6,6,Murray Hill,Flushing	6
+6,7,Flushing,Midtown	13
+6,7,Flushing,Chelsea	4
+6,7,Flushing,Financial District	4
+6,7,Flushing,Upper East Side	4
+6,7,Flushing,Gramercy	3
+6,7,Flushing,Murray Hill	3
+6,7,Flushing,Upper West Side	3
+6,7,Flushing,Battery Park	2
+6,7,Flushing,Clinton	2
+6,7,Flushing,Tribeca	2
+6,7,UNKNOWN,Flushing	134
+6,7,Astoria-Long Island City,Flushing	28
+6,7,Upper East Side,Flushing	25
+6,7,Midtown,Flushing	17
+6,7,East Harlem,Flushing	11
+6,7,Garment District,Flushing	10
+6,7,Upper West Side,Flushing	8
+6,7,Murray Hill,Flushing	7
+6,7,Yorkville,Flushing	7
+6,7,Forest Hills,Flushing	6
+6,8,Flushing,Jackson Heights	17
+6,8,Flushing,Midtown	14
+6,8,Flushing,Garment District	4
+6,8,Flushing,Gramercy	4
+6,8,Flushing,Murray Hill	3
+6,8,Flushing,Queensboro Hill	3
+6,8,Flushing,Soho	3
+6,8,Flushing,Upper East Side	3
+6,8,Flushing,Utopia	3
+6,8,Flushing,Forest Hills	2
+6,8,UNKNOWN,Flushing	181
+6,8,Midtown,Flushing	37
+6,8,Upper East Side,Flushing	36
+6,8,Murray Hill,Flushing	22
+6,8,Astoria-Long Island City,Flushing	15
+6,8,Forest Hills,Flushing	14
+6,8,Gramercy,Flushing	14
+6,8,Jackson Heights,Flushing	10
+6,8,Sunny Side,Flushing	8
+6,8,East Harlem,Flushing	6
+6,9,Flushing,Midtown	11
+6,9,Flushing,Chelsea	4
+6,9,Flushing,Upper East Side	4
+6,9,Flushing,Clinton	3
+6,9,Flushing,Jackson Heights	3
+6,9,Flushing,Middle Village	3
+6,9,Flushing,Murray Hill	3
+6,9,Flushing,Astoria-Long Island City	2
+6,9,Flushing,Auburndale	2
+6,9,Flushing,Lower East Side	2
+6,9,UNKNOWN,Flushing	224
+6,9,Midtown,Flushing	37
+6,9,Upper East Side,Flushing	30
+6,9,Forest Hills,Flushing	20
+6,9,Gramercy,Flushing	17
+6,9,Garment District,Flushing	16
+6,9,Astoria-Long Island City,Flushing	15
+6,9,Nkew Gardens,Flushing	12
+6,9,Murray Hill,Flushing	10
+6,9,Upper West Side,Flushing	10
+7,0,Flushing,Jackson Heights	17
+7,0,Flushing,Midtown	16
+7,0,Flushing,Upper West Side	7
+7,0,Flushing,Forest Hills	6
+7,0,Flushing,Gramercy	6
+7,0,Flushing,Nkew Gardens	5
+7,0,Flushing,Upper East Side	5
+7,0,Flushing,Astoria-Long Island City	4
+7,0,Flushing,Clinton	4
+7,0,Flushing,Fort Green	4
+7,0,UNKNOWN,Flushing	195
+7,0,Midtown,Flushing	95
+7,0,Gramercy,Flushing	48
+7,0,Garment District,Flushing	44
+7,0,Astoria-Long Island City,Flushing	36
+7,0,Murray Hill,Flushing	36
+7,0,Chelsea,Flushing	28
+7,0,Upper West Side,Flushing	23
+7,0,East Village,Flushing	22
+7,0,Upper East Side,Flushing	22
+7,1,Flushing,Jackson Heights	13
+7,1,Flushing,Midtown	10
+7,1,Flushing,Nkew Gardens	9
+7,1,Flushing,Astoria-Long Island City	7
+7,1,Flushing,Queensboro Hill	6
+7,1,Flushing,Auburndale	5
+7,1,Flushing,Bedford-Stuyvesant	4
+7,1,Flushing,Forest Hills	4
+7,1,Flushing,Utopia	4
+7,1,Flushing,Bushwick	3
+7,1,Midtown,Flushing	102
+7,1,UNKNOWN,Flushing	97
+7,1,Astoria-Long Island City,Flushing	56
+7,1,Gramercy,Flushing	50
+7,1,East Village,Flushing	39
+7,1,Chelsea,Flushing	35
+7,1,Garment District,Flushing	30
+7,1,Greenwich Village,Flushing	26
+7,1,Jackson Heights,Flushing	25
+7,1,Lower East Side,Flushing	23
+7,10,Flushing,Midtown	12
+7,10,Flushing,Forest Hills	5
+7,10,Flushing,Jackson Heights	4
+7,10,Flushing,Garment District	3
+7,10,Flushing,Queensboro Hill	3
+7,10,Flushing,Sunny Side	3
+7,10,Flushing,Astoria-Long Island City	2
+7,10,Flushing,Chelsea	2
+7,10,Flushing,Clinton	2
+7,10,Flushing,Douglastown-Little Neck	2
+7,10,UNKNOWN,Flushing	251
+7,10,Midtown,Flushing	176
+7,10,Upper East Side,Flushing	80
+7,10,Gramercy,Flushing	66
+7,10,Garment District,Flushing	42
+7,10,Murray Hill,Flushing	40
+7,10,Astoria-Long Island City,Flushing	38
+7,10,Upper West Side,Flushing	35
+7,10,Chelsea,Flushing	25
+7,10,Forest Hills,Flushing	22
+7,11,Flushing,Queensboro Hill	7
+7,11,Flushing,Jackson Heights	5
+7,11,Flushing,Garment District	4
+7,11,Flushing,Upper West Side	4
+7,11,Flushing,Auburndale	3
+7,11,Flushing,Midtown	3
+7,11,Flushing,Upper East Side	3
+7,11,Flushing,East Village	2
+7,11,Flushing,Forest Hills	2
+7,11,Flushing,Fort Green	2
+7,11,UNKNOWN,Flushing	252
+7,11,Midtown,Flushing	163
+7,11,Upper East Side,Flushing	108
+7,11,Gramercy,Flushing	66
+7,11,Garment District,Flushing	45
+7,11,Murray Hill,Flushing	38
+7,11,Chelsea,Flushing	30
+7,11,Upper West Side,Flushing	28
+7,11,Clinton,Flushing	27
+7,11,Astoria-Long Island City,Flushing	22
+7,12,Flushing,Jackson Heights	9
+7,12,Flushing,Midtown	8
+7,12,Flushing,Queensboro Hill	8
+7,12,Flushing,Murray Hill	4
+7,12,Flushing,Astoria-Long Island City	3
+7,12,Flushing,Clinton	3
+7,12,Flushing,Forest Hills	3
+7,12,Flushing,Greenwich Village	3
+7,12,Flushing,Upper West Side	3
+7,12,Flushing,Chelsea	2
+7,12,UNKNOWN,Flushing	259
+7,12,Midtown,Flushing	142
+7,12,Upper East Side,Flushing	98
+7,12,Garment District,Flushing	54
+7,12,Gramercy,Flushing	44
+7,12,Upper West Side,Flushing	41
+7,12,Astoria-Long Island City,Flushing	35
+7,12,Murray Hill,Flushing	28
+7,12,Financial District,Flushing	25
+7,12,East Village,Flushing	20
+7,13,Flushing,Jackson Heights	15
+7,13,Flushing,Midtown	11
+7,13,Flushing,Forest Hills	7
+7,13,Flushing,Garment District	5
+7,13,Flushing,Murray Hill	5
+7,13,Flushing,Upper East Side	5
+7,13,Flushing,Astoria-Long Island City	4
+7,13,Flushing,Chelsea	4
+7,13,Flushing,Upper West Side	4
+7,13,Flushing,Clinton	3
+7,13,UNKNOWN,Flushing	245
+7,13,Midtown,Flushing	84
+7,13,Upper East Side,Flushing	73
+7,13,Garment District,Flushing	48
+7,13,Gramercy,Flushing	37
+7,13,Astoria-Long Island City,Flushing	27
+7,13,Jackson Heights,Flushing	26
+7,13,Forest Hills,Flushing	21
+7,13,Murray Hill,Flushing	20
+7,13,Upper West Side,Flushing	20
+7,14,Flushing,Midtown	12
+7,14,Flushing,Upper East Side	7
+7,14,Flushing,Gramercy	6
+7,14,Flushing,Jackson Heights	6
+7,14,Flushing,Queensboro Hill	5
+7,14,Flushing,Woodside	5
+7,14,Flushing,Financial District	4
+7,14,Flushing,Auburndale	3
+7,14,Flushing,Clinton	3
+7,14,Flushing,Garment District	3
+7,14,UNKNOWN,Flushing	262
+7,14,Midtown,Flushing	98
+7,14,Upper East Side,Flushing	66
+7,14,Garment District,Flushing	39
+7,14,Gramercy,Flushing	29
+7,14,Astoria-Long Island City,Flushing	26
+7,14,Upper West Side,Flushing	19
+7,14,Murray Hill,Flushing	17
+7,14,Chelsea,Flushing	14
+7,14,Clinton,Flushing	12
+7,15,Flushing,Midtown	23
+7,15,Flushing,Jackson Heights	13
+7,15,Flushing,Forest Hills	7
+7,15,Flushing,Upper East Side	7
+7,15,Flushing,Garment District	6
+7,15,Flushing,Astoria-Long Island City	4
+7,15,Flushing,Chelsea	4
+7,15,Flushing,Gramercy	4
+7,15,Flushing,Nkew Gardens	4
+7,15,Flushing,Queensboro Hill	4
+7,15,UNKNOWN,Flushing	272
+7,15,Midtown,Flushing	92
+7,15,Upper East Side,Flushing	70
+7,15,Garment District,Flushing	46
+7,15,Gramercy,Flushing	31
+7,15,Astoria-Long Island City,Flushing	25
+7,15,Murray Hill,Flushing	23
+7,15,Upper West Side,Flushing	15
+7,15,Jackson Heights,Flushing	14
+7,15,Sunny Side,Flushing	14
+7,16,Flushing,Midtown	19
+7,16,Flushing,Jackson Heights	15
+7,16,Flushing,Upper East Side	11
+7,16,Flushing,Chelsea	6
+7,16,Flushing,Forest Hills	6
+7,16,Flushing,Astoria-Long Island City	5
+7,16,Flushing,Upper West Side	5
+7,16,Flushing,West Village	5
+7,16,Flushing,East Village	4
+7,16,Flushing,Gramercy	4
+7,16,UNKNOWN,Flushing	246
+7,16,Midtown,Flushing	63
+7,16,Upper East Side,Flushing	45
+7,16,Garment District,Flushing	27
+7,16,Gramercy,Flushing	21
+7,16,Astoria-Long Island City,Flushing	19
+7,16,Jackson Heights,Flushing	13
+7,16,Upper West Side,Flushing	13
+7,16,East Village,Flushing	10
+7,16,Chelsea,Flushing	8
+7,17,Flushing,Midtown	33
+7,17,Flushing,Chelsea	12
+7,17,Flushing,Astoria-Long Island City	11
+7,17,Flushing,Upper West Side	10
+7,17,Flushing,Murray Hill	9
+7,17,Flushing,Upper East Side	8
+7,17,Flushing,Garment District	6
+7,17,Flushing,Jackson Heights	6
+7,17,Flushing,East Village	5
+7,17,Flushing,Auburndale	4
+7,17,UNKNOWN,Flushing	251
+7,17,Midtown,Flushing	91
+7,17,Upper East Side,Flushing	53
+7,17,Garment District,Flushing	35
+7,17,Gramercy,Flushing	30
+7,17,Murray Hill,Flushing	21
+7,17,Chelsea,Flushing	17
+7,17,Sunny Side,Flushing	17
+7,17,Upper West Side,Flushing	17
+7,17,Astoria-Long Island City,Flushing	15
+7,18,Flushing,Midtown	37
+7,18,Flushing,Upper East Side	19
+7,18,Flushing,Jackson Heights	14
+7,18,Flushing,Astoria-Long Island City	9
+7,18,Flushing,Upper West Side	9
+7,18,Flushing,Gramercy	7
+7,18,Flushing,Chelsea	5
+7,18,Flushing,East Village	5
+7,18,Flushing,Garment District	5
+7,18,Flushing,Financial District	4
+7,18,UNKNOWN,Flushing	231
+7,18,Midtown,Flushing	130
+7,18,Upper East Side,Flushing	75
+7,18,Gramercy,Flushing	41
+7,18,Garment District,Flushing	35
+7,18,Murray Hill,Flushing	34
+7,18,Chelsea,Flushing	26
+7,18,Astoria-Long Island City,Flushing	23
+7,18,Greenwich Village,Flushing	22
+7,18,Upper West Side,Flushing	22
+7,19,Flushing,Midtown	17
+7,19,Flushing,Jackson Heights	14
+7,19,Flushing,Chelsea	8
+7,19,Flushing,Gramercy	7
+7,19,Flushing,Queensboro Hill	7
+7,19,Flushing,Forest Hills	6
+7,19,Flushing,Murray Hill	6
+7,19,Flushing,East Village	5
+7,19,Flushing,Greenwich Village	5
+7,19,Flushing,Astoria-Long Island City	4
+7,19,UNKNOWN,Flushing	216
+7,19,Midtown,Flushing	112
+7,19,Upper East Side,Flushing	47
+7,19,Garment District,Flushing	35
+7,19,Gramercy,Flushing	33
+7,19,Chelsea,Flushing	30
+7,19,Murray Hill,Flushing	28
+7,19,Astoria-Long Island City,Flushing	21
+7,19,Clinton,Flushing	20
+7,19,Soho,Flushing	18
+7,2,Flushing,Queensboro Hill	12
+7,2,Flushing,Jackson Heights	8
+7,2,Flushing,Nkew Gardens	7
+7,2,Flushing,Sunny Side	6
+7,2,Flushing,Forest Hills	5
+7,2,Flushing,Midtown	4
+7,2,Flushing,Astoria-Long Island City	3
+7,2,Flushing,Clearview	3
+7,2,Flushing,Murray Hill	3
+7,2,Flushing,Fort Green	2
+7,2,Midtown,Flushing	81
+7,2,UNKNOWN,Flushing	52
+7,2,Garment District,Flushing	49
+7,2,East Village,Flushing	38
+7,2,Astoria-Long Island City,Flushing	37
+7,2,Gramercy,Flushing	35
+7,2,Greenwich Village,Flushing	29
+7,2,Chelsea,Flushing	28
+7,2,Lower East Side,Flushing	27
+7,2,Clinton,Flushing	26
+7,20,Flushing,Jackson Heights	15
+7,20,Flushing,Midtown	12
+7,20,Flushing,Upper East Side	6
+7,20,Flushing,Astoria-Long Island City	5
+7,20,Flushing,Forest Hills	5
+7,20,Flushing,Gramercy	5
+7,20,Flushing,Murray Hill	5
+7,20,Flushing,Queensboro Hill	4
+7,20,Flushing,Chelsea	3
+7,20,Flushing,Clearview	3
+7,20,UNKNOWN,Flushing	205
+7,20,Midtown,Flushing	65
+7,20,Garment District,Flushing	33
+7,20,Gramercy,Flushing	22
+7,20,Murray Hill,Flushing	20
+7,20,Upper East Side,Flushing	20
+7,20,Chelsea,Flushing	13
+7,20,Upper West Side,Flushing	13
+7,20,Astoria-Long Island City,Flushing	12
+7,20,East Village,Flushing	12
+7,21,Flushing,Midtown	14
+7,21,Flushing,Jackson Heights	7
+7,21,Flushing,Upper East Side	7
+7,21,Flushing,Chelsea	4
+7,21,Flushing,Garment District	4
+7,21,Flushing,Astoria-Long Island City	3
+7,21,Flushing,West Village	3
+7,21,Flushing,Auburndale	2
+7,21,Flushing,Gramercy	2
+7,21,Flushing,Jamaica	2
+7,21,UNKNOWN,Flushing	171
+7,21,Midtown,Flushing	63
+7,21,Upper East Side,Flushing	43
+7,21,Garment District,Flushing	40
+7,21,Gramercy,Flushing	27
+7,21,Upper West Side,Flushing	24
+7,21,Chelsea,Flushing	15
+7,21,Astoria-Long Island City,Flushing	14
+7,21,Greenwich Village,Flushing	14
+7,21,Murray Hill,Flushing	14
+7,22,Flushing,Midtown	15
+7,22,Flushing,Jackson Heights	14
+7,22,Flushing,Upper East Side	9
+7,22,Flushing,Forest Hills	4
+7,22,Flushing,Maspeth	4
+7,22,Flushing,Murray Hill	4
+7,22,Flushing,Queensboro Hill	4
+7,22,Flushing,West Village	4
+7,22,Flushing,Astoria-Long Island City	3
+7,22,Flushing,Auburndale	3
+7,22,UNKNOWN,Flushing	233
+7,22,Midtown,Flushing	48
+7,22,Garment District,Flushing	37
+7,22,Upper East Side,Flushing	30
+7,22,Gramercy,Flushing	25
+7,22,Chelsea,Flushing	16
+7,22,East Village,Flushing	15
+7,22,Astoria-Long Island City,Flushing	14
+7,22,Murray Hill,Flushing	13
+7,22,Upper West Side,Flushing	11
+7,23,Flushing,Midtown	16
+7,23,Flushing,Jackson Heights	11
+7,23,Flushing,Gramercy	7
+7,23,Flushing,Upper East Side	7
+7,23,Flushing,East Village	6
+7,23,Flushing,Clinton	5
+7,23,Flushing,Murray Hill	5
+7,23,Flushing,Astoria-Long Island City	4
+7,23,Flushing,Chelsea	4
+7,23,Flushing,Financial District	3
+7,23,UNKNOWN,Flushing	192
+7,23,Midtown,Flushing	66
+7,23,Upper East Side,Flushing	35
+7,23,Garment District,Flushing	33
+7,23,Gramercy,Flushing	24
+7,23,Astoria-Long Island City,Flushing	19
+7,23,Chelsea,Flushing	15
+7,23,Upper West Side,Flushing	15
+7,23,Clinton,Flushing	13
+7,23,East Village,Flushing	12
+7,3,Flushing,Auburndale	8
+7,3,Flushing,Jackson Heights	8
+7,3,Flushing,Nkew Gardens	7
+7,3,Flushing,Queensboro Hill	7
+7,3,Flushing,Astoria-Long Island City	5
+7,3,Flushing,Jamaica	3
+7,3,Flushing,Woodside	3
+7,3,Flushing,Clearview	2
+7,3,Flushing,Maspeth	2
+7,3,Flushing,Midtown	2
+7,3,Midtown,Flushing	49
+7,3,Garment District,Flushing	46
+7,3,Astoria-Long Island City,Flushing	45
+7,3,UNKNOWN,Flushing	42
+7,3,Gramercy,Flushing	38
+7,3,Clinton,Flushing	31
+7,3,East Village,Flushing	31
+7,3,Lower East Side,Flushing	31
+7,3,Greenwich Village,Flushing	30
+7,3,Chelsea,Flushing	24
+7,4,Flushing,Nkew Gardens	11
+7,4,Flushing,Jackson Heights	9
+7,4,Flushing,Astoria-Long Island City	8
+7,4,Flushing,Queensboro Hill	8
+7,4,Flushing,Utopia	6
+7,4,Flushing,Forest Hills	4
+7,4,Flushing,Auburndale	3
+7,4,Flushing,Jamaica	3
+7,4,Flushing,Douglastown-Little Neck	2
+7,4,Flushing,Financial District	2
+7,4,Midtown,Flushing	44
+7,4,Astoria-Long Island City,Flushing	40
+7,4,UNKNOWN,Flushing	33
+7,4,Garment District,Flushing	30
+7,4,Gramercy,Flushing	26
+7,4,Greenwich Village,Flushing	24
+7,4,Jackson Heights,Flushing	24
+7,4,Lower East Side,Flushing	24
+7,4,Clinton,Flushing	21
+7,4,Chelsea,Flushing	19
+7,5,Flushing,Queensboro Hill	11
+7,5,Flushing,Nkew Gardens	10
+7,5,Flushing,Jackson Heights	5
+7,5,Flushing,Woodside	5
+7,5,Flushing,Parkchester	4
+7,5,Flushing,Astoria-Long Island City	3
+7,5,Flushing,Auburndale	3
+7,5,Flushing,Jamaica	3
+7,5,Flushing,Garment District	2
+7,5,Flushing,Midtown	2
+7,5,UNKNOWN,Flushing	61
+7,5,Upper East Side,Flushing	24
+7,5,Garment District,Flushing	19
+7,5,Midtown,Flushing	18
+7,5,Astoria-Long Island City,Flushing	15
+7,5,Chelsea,Flushing	15
+7,5,Gramercy,Flushing	11
+7,5,Greenwich Village,Flushing	11
+7,5,Jackson Heights,Flushing	11
+7,5,Sunny Side,Flushing	11
+7,6,Flushing,Jackson Heights	12
+7,6,Flushing,Midtown	7
+7,6,Flushing,Queensboro Hill	5
+7,6,Flushing,Forest Hills	4
+7,6,Flushing,Astoria-Long Island City	3
+7,6,Flushing,Auburndale	3
+7,6,Flushing,Financial District	3
+7,6,Flushing,Upper East Side	3
+7,6,Flushing,Upper West Side	3
+7,6,Flushing,Gramercy	2
+7,6,UNKNOWN,Flushing	101
+7,6,Midtown,Flushing	31
+7,6,Jackson Heights,Flushing	29
+7,6,Upper East Side,Flushing	26
+7,6,Astoria-Long Island City,Flushing	24
+7,6,Clinton,Flushing	20
+7,6,Chelsea,Flushing	19
+7,6,Gramercy,Flushing	19
+7,6,Garment District,Flushing	17
+7,6,Sunny Side,Flushing	17
+7,7,Flushing,Midtown	7
+7,7,Flushing,Chinatown	5
+7,7,Flushing,Garment District	5
+7,7,Flushing,Queensboro Hill	4
+7,7,Flushing,Financial District	3
+7,7,Flushing,Jackson Heights	3
+7,7,Flushing,Murray Hill	3
+7,7,Flushing,Sunny Side	3
+7,7,Flushing,Astoria-Long Island City	2
+7,7,Flushing,Carnegie Hill	2
+7,7,UNKNOWN,Flushing	139
+7,7,Upper East Side,Flushing	62
+7,7,Midtown,Flushing	47
+7,7,Gramercy,Flushing	34
+7,7,Jackson Heights,Flushing	30
+7,7,Astoria-Long Island City,Flushing	22
+7,7,Upper West Side,Flushing	22
+7,7,Forest Hills,Flushing	20
+7,7,Sunny Side,Flushing	17
+7,7,Garment District,Flushing	16
+7,8,Flushing,Midtown	10
+7,8,Flushing,Jackson Heights	8
+7,8,Flushing,Carnegie Hill	6
+7,8,Flushing,Middle Village	6
+7,8,Flushing,Sunny Side	6
+7,8,Flushing,Upper East Side	6
+7,8,Flushing,Nkew Gardens	5
+7,8,Flushing,Chelsea	4
+7,8,Flushing,Astoria-Long Island City	3
+7,8,Flushing,Auburndale	3
+7,8,UNKNOWN,Flushing	165
+7,8,Upper East Side,Flushing	56
+7,8,Midtown,Flushing	45
+7,8,Financial District,Flushing	40
+7,8,Astoria-Long Island City,Flushing	35
+7,8,East Village,Flushing	35
+7,8,Forest Hills,Flushing	24
+7,8,Gramercy,Flushing	23
+7,8,Garment District,Flushing	21
+7,8,Jackson Heights,Flushing	20
+7,9,Flushing,Midtown	9
+7,9,Flushing,Queensboro Hill	6
+7,9,Flushing,Jackson Heights	5
+7,9,Flushing,Jamaica	5
+7,9,Flushing,Forest Hills	4
+7,9,Flushing,Auburndale	3
+7,9,Flushing,Garment District	3
+7,9,Flushing,Harlem	2
+7,9,Flushing,Sunny Side	2
+7,9,Flushing,Astoria-Long Island City	1
+7,9,UNKNOWN,Flushing	181
+7,9,Midtown,Flushing	124
+7,9,Upper East Side,Flushing	50
+7,9,Astoria-Long Island City,Flushing	39
+7,9,Garment District,Flushing	34
+7,9,Forest Hills,Flushing	29
+7,9,Gramercy,Flushing	29
+7,9,Murray Hill,Flushing	27
+7,9,Jackson Heights,Flushing	26
+7,9,Upper West Side,Flushing	18

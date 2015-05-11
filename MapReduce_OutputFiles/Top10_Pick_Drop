@@ -1,0 +1,1680 @@
+1,0,Midtown,Upper East Side	19246
+1,0,Gramercy,East Village	15263
+1,0,Midtown,Gramercy	14564
+1,0,Gramercy,Midtown	13730
+1,0,Midtown,Upper West Side	13526
+1,0,Gramercy,Upper East Side	12736
+1,0,Chelsea,Midtown	12272
+1,0,Upper East Side,Midtown	12121
+1,0,Upper West Side,Upper East Side	12060
+1,0,Midtown,Chelsea	11966
+1,1,Midtown,Upper East Side	14865
+1,1,East Village,Gramercy	13940
+1,1,Gramercy,Upper East Side	12427
+1,1,Chelsea,Midtown	12252
+1,1,Gramercy,Midtown	12029
+1,1,East Village,Upper East Side	11573
+1,1,Midtown,Gramercy	11196
+1,1,Midtown,Upper West Side	10990
+1,1,Gramercy,East Village	10519
+1,1,Lower East Side,Gramercy	10273
+1,10,Upper East Side,Midtown	22413
+1,10,Midtown,Upper East Side	18129
+1,10,Midtown,Garment District	15782
+1,10,Upper West Side,Midtown	14420
+1,10,Upper West Side,Upper East Side	13575
+1,10,Upper East Side,Upper West Side	12812
+1,10,Gramercy,Midtown	10438
+1,10,Garment District,Midtown	10224
+1,10,Midtown,Upper West Side	9973
+1,10,Midtown,Clinton	8983
+1,11,Upper East Side,Midtown	25173
+1,11,Midtown,Upper East Side	20811
+1,11,Midtown,Garment District	19046
+1,11,Upper West Side,Midtown	15505
+1,11,Upper West Side,Upper East Side	15164
+1,11,Upper East Side,Upper West Side	15025
+1,11,Garment District,Midtown	13524
+1,11,Gramercy,Midtown	12494
+1,11,Midtown,Upper West Side	12488
+1,11,Midtown,Gramercy	11009
+1,12,Upper East Side,Midtown	28982
+1,12,Midtown,Upper East Side	23294
+1,12,Upper East Side,Upper West Side	17496
+1,12,Upper West Side,Midtown	17198
+1,12,Midtown,Garment District	16945
+1,12,Upper West Side,Upper East Side	15992
+1,12,Garment District,Midtown	15629
+1,12,Gramercy,Midtown	14026
+1,12,Midtown,Upper West Side	13758
+1,12,Midtown,Gramercy	13287
+1,13,Upper East Side,Midtown	29436
+1,13,Midtown,Upper East Side	22497
+1,13,Upper West Side,Midtown	17512
+1,13,Upper East Side,Upper West Side	16660
+1,13,Garment District,Midtown	16464
+1,13,Midtown,Garment District	15583
+1,13,Upper West Side,Upper East Side	15572
+1,13,Gramercy,Midtown	14312
+1,13,Midtown,Gramercy	13100
+1,13,Midtown,Upper West Side	13050
+1,14,Upper East Side,Midtown	29909
+1,14,Midtown,Upper East Side	22971
+1,14,Upper West Side,Midtown	18220
+1,14,Midtown,Garment District	17276
+1,14,Upper East Side,Upper West Side	16610
+1,14,Garment District,Midtown	15847
+1,14,Upper West Side,Upper East Side	15196
+1,14,Gramercy,Midtown	14222
+1,14,Midtown,Upper West Side	14013
+1,14,Chelsea,Midtown	12405
+1,15,Upper East Side,Midtown	24438
+1,15,Midtown,Upper East Side	23108
+1,15,Upper East Side,Upper West Side	16246
+1,15,Midtown,Garment District	15938
+1,15,Upper West Side,Upper East Side	15085
+1,15,Garment District,Midtown	14147
+1,15,Upper West Side,Midtown	13983
+1,15,Midtown,Upper West Side	13584
+1,15,Midtown,Gramercy	12848
+1,15,Gramercy,Midtown	11774
+1,16,Upper East Side,Midtown	21395
+1,16,Midtown,Upper East Side	20771
+1,16,Upper East Side,Upper West Side	15492
+1,16,Midtown,Garment District	13748
+1,16,Upper West Side,Upper East Side	13319
+1,16,Midtown,Upper West Side	13297
+1,16,Upper West Side,Midtown	12135
+1,16,Midtown,Gramercy	12065
+1,16,UNKNOWN,Midtown	11947
+1,16,Garment District,Midtown	11749
+1,17,Upper East Side,Midtown	22875
+1,17,Midtown,Upper East Side	22858
+1,17,Upper East Side,Upper West Side	16536
+1,17,Midtown,Gramercy	15022
+1,17,Upper West Side,Upper East Side	14674
+1,17,Midtown,Upper West Side	14397
+1,17,Midtown,Garment District	13806
+1,17,Upper West Side,Midtown	13454
+1,17,Garment District,Midtown	12013
+1,17,UNKNOWN,Midtown	11660
+1,18,Midtown,Upper East Side	25141
+1,18,Upper East Side,Midtown	20374
+1,18,Midtown,Gramercy	18030
+1,18,Midtown,Upper West Side	17781
+1,18,Upper East Side,Upper West Side	16568
+1,18,Upper West Side,Upper East Side	16443
+1,18,Midtown,Garment District	15424
+1,18,Upper West Side,Midtown	14955
+1,18,Garment District,Midtown	14605
+1,18,Gramercy,Midtown	12261
+1,19,Midtown,Upper East Side	23390
+1,19,Midtown,Gramercy	17182
+1,19,Midtown,Upper West Side	16693
+1,19,Upper East Side,Midtown	16521
+1,19,Garment District,Midtown	15253
+1,19,Upper West Side,Upper East Side	14628
+1,19,Upper East Side,Upper West Side	13943
+1,19,Midtown,Garment District	12633
+1,19,Upper West Side,Midtown	12352
+1,19,Gramercy,Midtown	11523
+1,2,East Village,Gramercy	15772
+1,2,East Village,Upper East Side	11939
+1,2,Lower East Side,Gramercy	11193
+1,2,Chelsea,Midtown	10831
+1,2,Midtown,Upper East Side	10796
+1,2,Gramercy,Upper East Side	9671
+1,2,Chelsea,Gramercy	9457
+1,2,Greenwich Village,Gramercy	9443
+1,2,East Village,Midtown	9042
+1,2,Gramercy,Midtown	8916
+1,20,Midtown,Upper East Side	20422
+1,20,Midtown,Gramercy	15065
+1,20,Garment District,Midtown	14609
+1,20,Midtown,Upper West Side	13815
+1,20,Upper East Side,Midtown	13540
+1,20,Upper West Side,Upper East Side	12405
+1,20,Upper East Side,Upper West Side	11953
+1,20,Gramercy,Midtown	11433
+1,20,Garment District,Upper East Side	11199
+1,20,UNKNOWN,Midtown	10226
+1,21,Midtown,Upper East Side	19149
+1,21,Midtown,Gramercy	13882
+1,21,Midtown,Upper West Side	13717
+1,21,Garment District,Midtown	12939
+1,21,Upper East Side,Midtown	12278
+1,21,Garment District,Upper East Side	11497
+1,21,Upper West Side,Upper East Side	11256
+1,21,Gramercy,Midtown	11187
+1,21,UNKNOWN,Midtown	10934
+1,21,Upper East Side,Upper West Side	10387
+1,22,Midtown,Upper East Side	15402
+1,22,Garment District,Midtown	11851
+1,22,Midtown,Upper West Side	11395
+1,22,Midtown,Gramercy	10876
+1,22,Gramercy,Midtown	10737
+1,22,UNKNOWN,Midtown	10030
+1,22,Garment District,Upper East Side	9899
+1,22,Upper East Side,Midtown	9571
+1,22,Chelsea,Midtown	9555
+1,22,Upper West Side,Upper East Side	9020
+1,23,Midtown,Upper East Side	11079
+1,23,Midtown,Upper West Side	8663
+1,23,UNKNOWN,Midtown	8420
+1,23,Garment District,Midtown	7911
+1,23,Midtown,Gramercy	7902
+1,23,Gramercy,Midtown	7505
+1,23,Chelsea,Midtown	7085
+1,23,Upper East Side,Midtown	6370
+1,23,UNKNOWN,Upper East Side	5905
+1,23,Upper West Side,Upper East Side	5744
+1,3,East Village,Gramercy	12406
+1,3,Lower East Side,Gramercy	9885
+1,3,East Village,Upper East Side	9311
+1,3,Chelsea,Midtown	8602
+1,3,Midtown,Upper East Side	7809
+1,3,East Village,Midtown	7712
+1,3,Chelsea,Gramercy	7600
+1,3,Lower East Side,Upper East Side	7206
+1,3,Lower East Side,East Village	7128
+1,3,Gramercy,Upper East Side	6901
+1,4,East Village,Gramercy	5373
+1,4,Midtown,Upper East Side	5118
+1,4,Chelsea,Midtown	5061
+1,4,Midtown,Upper West Side	4175
+1,4,East Village,Upper East Side	4161
+1,4,Chelsea,Gramercy	4129
+1,4,Lower East Side,Gramercy	3993
+1,4,Gramercy,Upper East Side	3807
+1,4,Midtown,Garment District	3634
+1,4,Midtown,Gramercy	3612
+1,5,Midtown,Garment District	2212
+1,5,Midtown,Upper East Side	1961
+1,5,Upper East Side,Midtown	1938
+1,5,Clinton,Midtown	1885
+1,5,Garment District,Midtown	1851
+1,5,Clinton,Chelsea	1848
+1,5,Chelsea,Midtown	1716
+1,5,Gramercy,Midtown	1668
+1,5,Gramercy,Upper East Side	1581
+1,5,East Village,Gramercy	1492
+1,6,Midtown,Garment District	3350
+1,6,Upper East Side,Midtown	2697
+1,6,Midtown,Upper East Side	2520
+1,6,Garment District,Midtown	2398
+1,6,Upper East Side,Garment District	2227
+1,6,Upper West Side,Upper East Side	2067
+1,6,Upper West Side,Midtown	1788
+1,6,Midtown,Clinton	1772
+1,6,Gramercy,Garment District	1750
+1,6,Gramercy,Upper East Side	1726
+1,7,Upper East Side,Midtown	5344
+1,7,Midtown,Garment District	5136
+1,7,Midtown,Upper East Side	3869
+1,7,Upper West Side,Midtown	3482
+1,7,Midtown,Clinton	3405
+1,7,Upper East Side,Garment District	3370
+1,7,Upper West Side,Upper East Side	3346
+1,7,Garment District,Midtown	3123
+1,7,Upper East Side,Upper West Side	2584
+1,7,Gramercy,Garment District	2507
+1,8,Upper East Side,Midtown	9383
+1,8,Midtown,Garment District	8317
+1,8,Midtown,Clinton	7395
+1,8,Upper West Side,Midtown	6594
+1,8,Upper West Side,Upper East Side	5962
+1,8,Upper East Side,Garment District	5822
+1,8,Midtown,Upper East Side	5810
+1,8,Upper East Side,Upper West Side	5413
+1,8,Garment District,Midtown	4884
+1,8,Gramercy,Garment District	4529
+1,9,Upper East Side,Midtown	15732
+1,9,Midtown,Garment District	11427
+1,9,Upper West Side,Midtown	11063
+1,9,Midtown,Upper East Side	10732
+1,9,Upper West Side,Upper East Side	9335
+1,9,Midtown,Clinton	9062
+1,9,Upper East Side,Upper West Side	8337
+1,9,Upper East Side,Garment District	7710
+1,9,Gramercy,Midtown	7077
+1,9,Garment District,Midtown	7005
+2,0,Midtown,Upper East Side	7196
+2,0,Midtown,Upper West Side	5669
+2,0,Garment District,Midtown	5032
+2,0,Midtown,Gramercy	4733
+2,0,UNKNOWN,Midtown	4565
+2,0,Chelsea,Midtown	4341
+2,0,Gramercy,Midtown	4259
+2,0,Midtown,Garment District	3781
+2,0,Midtown,Chelsea	3734
+2,0,Greenwich Village,Midtown	3505
+2,1,Midtown,Upper East Side	4315
+2,1,Midtown,Upper West Side	3422
+2,1,Midtown,Gramercy	2732
+2,1,Chelsea,Midtown	2697
+2,1,Garment District,Midtown	2532
+2,1,Midtown,Clinton	2370
+2,1,Midtown,Chelsea	2357
+2,1,Gramercy,Midtown	2204
+2,1,Midtown,Garment District	2188
+2,1,Greenwich Village,Midtown	2034
+2,10,Upper East Side,Midtown	40587
+2,10,Midtown,Upper East Side	24185
+2,10,Garment District,Midtown	22797
+2,10,Upper West Side,Midtown	21182
+2,10,Gramercy,Midtown	16483
+2,10,Midtown,Garment District	15975
+2,10,UNKNOWN,Midtown	15328
+2,10,Upper West Side,Upper East Side	14563
+2,10,Midtown,Gramercy	12921
+2,10,Upper East Side,Upper West Side	11949
+2,11,Upper East Side,Midtown	35093
+2,11,Midtown,Upper East Side	28026
+2,11,Garment District,Midtown	20747
+2,11,Upper West Side,Midtown	17590
+2,11,Midtown,Garment District	17217
+2,11,UNKNOWN,Midtown	15288
+2,11,Gramercy,Midtown	15244
+2,11,Midtown,Gramercy	14710
+2,11,Upper West Side,Upper East Side	14333
+2,11,Upper East Side,Upper West Side	13094
+2,12,Upper East Side,Midtown	34870
+2,12,Midtown,Upper East Side	31564
+2,12,Garment District,Midtown	20726
+2,12,Midtown,Gramercy	17214
+2,12,Upper West Side,Midtown	17053
+2,12,Midtown,Garment District	16850
+2,12,Gramercy,Midtown	15802
+2,12,Upper West Side,Upper East Side	14894
+2,12,Upper East Side,Upper West Side	14679
+2,12,UNKNOWN,Midtown	13600
+2,13,Upper East Side,Midtown	32284
+2,13,Midtown,Upper East Side	30311
+2,13,Garment District,Midtown	19670
+2,13,Midtown,Garment District	17525
+2,13,Midtown,Gramercy	16371
+2,13,Gramercy,Midtown	15712
+2,13,Upper West Side,Midtown	15365
+2,13,Upper East Side,Upper West Side	14262
+2,13,Upper West Side,Upper East Side	14182
+2,13,UNKNOWN,Midtown	13987
+2,14,Midtown,Upper East Side	33161
+2,14,Upper East Side,Midtown	31756
+2,14,Midtown,Garment District	20405
+2,14,Garment District,Midtown	19511
+2,14,Midtown,Gramercy	16794
+2,14,Upper East Side,Upper West Side	16582
+2,14,Gramercy,Midtown	15919
+2,14,Upper West Side,Upper East Side	15077
+2,14,Midtown,Upper West Side	15004
+2,14,Upper West Side,Midtown	14888
+2,15,Midtown,Upper East Side	32149
+2,15,Upper East Side,Midtown	28890
+2,15,Midtown,Garment District	19210
+2,15,Upper East Side,Upper West Side	19122
+2,15,Garment District,Midtown	17455
+2,15,Upper West Side,Upper East Side	16804
+2,15,Midtown,Upper West Side	15660
+2,15,Midtown,Gramercy	15580
+2,15,UNKNOWN,Midtown	14293
+2,15,Gramercy,Midtown	14214
+2,16,Midtown,Upper East Side	27818
+2,16,Upper East Side,Midtown	22946
+2,16,Upper East Side,Upper West Side	17321
+2,16,Midtown,Garment District	16459
+2,16,Midtown,Upper West Side	15340
+2,16,Garment District,Midtown	14257
+2,16,UNKNOWN,Midtown	14248
+2,16,Upper West Side,Upper East Side	14130
+2,16,Midtown,Gramercy	13271
+2,16,Upper West Side,Midtown	11630
+2,17,Midtown,Upper East Side	40943
+2,17,Upper East Side,Midtown	26644
+2,17,Midtown,Upper West Side	24866
+2,17,Upper East Side,Upper West Side	23597
+2,17,Midtown,Gramercy	18987
+2,17,Midtown,Garment District	17846
+2,17,Upper West Side,Upper East Side	16671
+2,17,Garment District,Midtown	15649
+2,17,UNKNOWN,Midtown	13908
+2,17,Upper West Side,Midtown	13711
+2,18,Midtown,Upper East Side	57365
+2,18,Midtown,Upper West Side	36574
+2,18,Upper East Side,Midtown	28309
+2,18,Midtown,Gramercy	26927
+2,18,Upper East Side,Upper West Side	26101
+2,18,Midtown,Garment District	19631
+2,18,Upper West Side,Upper East Side	19118
+2,18,Garment District,Midtown	17979
+2,18,Midtown,Chelsea	16715
+2,18,Upper West Side,Midtown	15220
+2,19,Midtown,Upper East Side	55520
+2,19,Midtown,Upper West Side	36990
+2,19,Midtown,Gramercy	28434
+2,19,Upper East Side,Midtown	23172
+2,19,Upper East Side,Upper West Side	21601
+2,19,Midtown,Garment District	19004
+2,19,Garment District,Midtown	18312
+2,19,Upper West Side,Upper East Side	17185
+2,19,Midtown,Chelsea	17086
+2,19,Gramercy,Midtown	13785
+2,2,Midtown,Upper East Side	2506
+2,2,Midtown,Upper West Side	2044
+2,2,Chelsea,Midtown	2040
+2,2,Garment District,Midtown	1783
+2,2,Midtown,Gramercy	1602
+2,2,Midtown,Clinton	1490
+2,2,Midtown,Astoria-Long Island City	1462
+2,2,Midtown,Chelsea	1420
+2,2,Greenwich Village,Midtown	1401
+2,2,Midtown,Garment District	1360
+2,20,Midtown,Upper East Side	48368
+2,20,Midtown,Upper West Side	32833
+2,20,Midtown,Gramercy	27487
+2,20,Upper East Side,Midtown	17745
+2,20,Upper East Side,Upper West Side	17204
+2,20,Midtown,Garment District	16802
+2,20,Midtown,Chelsea	15818
+2,20,Upper West Side,Upper East Side	14527
+2,20,Garment District,Midtown	14466
+2,20,Gramercy,Midtown	12956
+2,21,Midtown,Upper East Side	42010
+2,21,Midtown,Upper West Side	29577
+2,21,Midtown,Gramercy	25495
+2,21,Upper East Side,Midtown	15279
+2,21,Upper East Side,Upper West Side	14978
+2,21,Midtown,Garment District	14521
+2,21,Upper West Side,Upper East Side	14239
+2,21,Midtown,Chelsea	14072
+2,21,Garment District,Midtown	13434
+2,21,Gramercy,Midtown	12833
+2,22,Midtown,Upper East Side	32686
+2,22,Midtown,Upper West Side	23544
+2,22,Midtown,Gramercy	20924
+2,22,Upper West Side,Upper East Side	12823
+2,22,Upper East Side,Midtown	12635
+2,22,Gramercy,Midtown	12312
+2,22,Midtown,Garment District	12100
+2,22,Garment District,Midtown	12015
+2,22,Midtown,Chelsea	11960
+2,22,Upper East Side,Upper West Side	11189
+2,23,Midtown,Upper East Side	19344
+2,23,Midtown,Upper West Side	14927
+2,23,Midtown,Gramercy	13365
+2,23,Gramercy,Midtown	8429
+2,23,Midtown,Chelsea	8243
+2,23,Midtown,Garment District	8161
+2,23,Midtown,Clinton	7689
+2,23,Garment District,Midtown	7539
+2,23,UNKNOWN,Midtown	7519
+2,23,Upper West Side,Upper East Side	7294
+2,3,Midtown,Upper East Side	1571
+2,3,Chelsea,Midtown	1457
+2,3,Midtown,Upper West Side	1378
+2,3,Midtown,Astoria-Long Island City	1052
+2,3,Midtown,Gramercy	1033
+2,3,West Village,Midtown	967
+2,3,Midtown,Clinton	951
+2,3,Chelsea,Clinton	948
+2,3,East Village,Gramercy	947
+2,3,Garment District,Midtown	936
+2,4,Garment District,Midtown	1423
+2,4,Upper East Side,Midtown	1355
+2,4,Midtown,Upper East Side	1281
+2,4,Midtown,Garment District	1191
+2,4,Chelsea,Midtown	1103
+2,4,Midtown,Astoria-Long Island City	1075
+2,4,Midtown,Upper West Side	1025
+2,4,Upper West Side,Midtown	978
+2,4,Midtown,Gramercy	834
+2,4,Gramercy,Midtown	833
+2,5,Garment District,Midtown	7351
+2,5,Upper East Side,Midtown	5879
+2,5,Upper West Side,Midtown	3393
+2,5,Upper East Side,Garment District	3028
+2,5,Midtown,Garment District	2764
+2,5,Clinton,Midtown	2401
+2,5,Gramercy,Midtown	2289
+2,5,Chelsea,Midtown	2103
+2,5,Gramercy,Garment District	1980
+2,5,Midtown,Upper East Side	1699
+2,6,Upper East Side,Midtown	28887
+2,6,Garment District,Midtown	28090
+2,6,Upper West Side,Midtown	15321
+2,6,Gramercy,Midtown	13251
+2,6,Chelsea,Midtown	9361
+2,6,Clinton,Midtown	9201
+2,6,Garment District,Gramercy	7215
+2,6,Upper East Side,Garment District	6079
+2,6,Greenwich Village,Midtown	5999
+2,6,Midtown,Garment District	5991
+2,7,Upper East Side,Midtown	62571
+2,7,Garment District,Midtown	33746
+2,7,Gramercy,Midtown	28944
+2,7,Upper West Side,Midtown	28168
+2,7,Chelsea,Midtown	17063
+2,7,Clinton,Midtown	12795
+2,7,Midtown,Upper East Side	12616
+2,7,Murray Hill,Midtown	11746
+2,7,Greenwich Village,Midtown	11280
+2,7,UNKNOWN,Midtown	10866
+2,8,Upper East Side,Midtown	72482
+2,8,Upper West Side,Midtown	30923
+2,8,Gramercy,Midtown	29524
+2,8,Garment District,Midtown	25290
+2,8,Midtown,Upper East Side	18834
+2,8,Chelsea,Midtown	17055
+2,8,Murray Hill,Midtown	16049
+2,8,Midtown,Garment District	13716
+2,8,UNKNOWN,Midtown	13581
+2,8,Clinton,Midtown	13569
+2,9,Upper East Side,Midtown	57247
+2,9,Upper West Side,Midtown	26471
+2,9,Garment District,Midtown	25492
+2,9,Gramercy,Midtown	22443
+2,9,Midtown,Upper East Side	20773
+2,9,Midtown,Garment District	16045
+2,9,Chelsea,Midtown	15164
+2,9,UNKNOWN,Midtown	15037
+2,9,Midtown,Gramercy	14521
+2,9,Murray Hill,Midtown	14434
+3,0,Midtown,Upper East Side	11392
+3,0,Midtown,Upper West Side	9068
+3,0,Midtown,Gramercy	8402
+3,0,Midtown,Garment District	5350
+3,0,Midtown,Chelsea	5199
+3,0,Midtown,Clinton	5013
+3,0,Gramercy,Midtown	4986
+3,0,Garment District,Midtown	4794
+3,0,Chelsea,Midtown	4469
+3,0,Gramercy,Upper East Side	4075
+3,1,Midtown,Upper East Side	6537
+3,1,Midtown,Upper West Side	5154
+3,1,Midtown,Gramercy	4767
+3,1,Midtown,Chelsea	2983
+3,1,Midtown,Clinton	2973
+3,1,Midtown,Garment District	2840
+3,1,Gramercy,Midtown	2783
+3,1,Chelsea,Midtown	2775
+3,1,Midtown,Astoria-Long Island City	2582
+3,1,Garment District,Midtown	2378
+3,10,Upper East Side,Midtown	46550
+3,10,Midtown,Upper East Side	28467
+3,10,Garment District,Midtown	25178
+3,10,Upper West Side,Midtown	23347
+3,10,Gramercy,Midtown	19429
+3,10,Midtown,Garment District	17089
+3,10,Upper West Side,Upper East Side	16105
+3,10,Midtown,Gramercy	15596
+3,10,UNKNOWN,Midtown	14200
+3,10,Upper East Side,Upper West Side	13588
+3,11,Upper East Side,Midtown	39441
+3,11,Midtown,Upper East Side	32180
+3,11,Garment District,Midtown	23694
+3,11,Upper West Side,Midtown	19755
+3,11,Midtown,Garment District	18402
+3,11,Gramercy,Midtown	18103
+3,11,Midtown,Gramercy	18103
+3,11,Upper West Side,Upper East Side	16287
+3,11,Upper East Side,Upper West Side	14573
+3,11,UNKNOWN,Midtown	13617
+3,12,Upper East Side,Midtown	39102
+3,12,Midtown,Upper East Side	36489
+3,12,Garment District,Midtown	22819
+3,12,Midtown,Gramercy	20220
+3,12,Midtown,Garment District	19328
+3,12,Upper West Side,Midtown	18895
+3,12,Gramercy,Midtown	18509
+3,12,Upper West Side,Upper East Side	16805
+3,12,Upper East Side,Upper West Side	16233
+3,12,Midtown,Upper West Side	14203
+3,13,Upper East Side,Midtown	36385
+3,13,Midtown,Upper East Side	34917
+3,13,Garment District,Midtown	21578
+3,13,Midtown,Garment District	20283
+3,13,Midtown,Gramercy	19662
+3,13,Gramercy,Midtown	18288
+3,13,Upper West Side,Midtown	16914
+3,13,Upper West Side,Upper East Side	16170
+3,13,Upper East Side,Upper West Side	15941
+3,13,Midtown,Upper West Side	14331
+3,14,Midtown,Upper East Side	37506
+3,14,Upper East Side,Midtown	36111
+3,14,Midtown,Garment District	23374
+3,14,Garment District,Midtown	20956
+3,14,Midtown,Gramercy	19218
+3,14,Upper East Side,Upper West Side	18993
+3,14,Gramercy,Midtown	18588
+3,14,Upper West Side,Upper East Side	16519
+3,14,Midtown,Upper West Side	16512
+3,14,Upper West Side,Midtown	16505
+3,15,Midtown,Upper East Side	33952
+3,15,Upper East Side,Midtown	31409
+3,15,Midtown,Garment District	21316
+3,15,Upper East Side,Upper West Side	20160
+3,15,Garment District,Midtown	18748
+3,15,Upper West Side,Upper East Side	17961
+3,15,Midtown,Gramercy	16833
+3,15,Midtown,Upper West Side	16640
+3,15,Gramercy,Midtown	15799
+3,15,Upper West Side,Midtown	14523
+3,16,Midtown,Upper East Side	26034
+3,16,Upper East Side,Midtown	23981
+3,16,Upper East Side,Upper West Side	17639
+3,16,Midtown,Garment District	15570
+3,16,Upper West Side,Upper East Side	14742
+3,16,Midtown,Upper West Side	14451
+3,16,Garment District,Midtown	14164
+3,16,UNKNOWN,Midtown	13392
+3,16,Midtown,Gramercy	12773
+3,16,Gramercy,Midtown	12163
+3,17,Midtown,Upper East Side	35630
+3,17,Upper East Side,Midtown	30476
+3,17,Upper East Side,Upper West Side	25450
+3,17,Midtown,Upper West Side	22488
+3,17,Upper West Side,Upper East Side	18017
+3,17,Midtown,Gramercy	17700
+3,17,Midtown,Garment District	16578
+3,17,Upper West Side,Midtown	15248
+3,17,Garment District,Midtown	14591
+3,17,Gramercy,Midtown	14278
+3,18,Midtown,Upper East Side	52365
+3,18,Upper East Side,Midtown	36067
+3,18,Midtown,Upper West Side	34894
+3,18,Upper East Side,Upper West Side	30002
+3,18,Midtown,Gramercy	25412
+3,18,Upper West Side,Upper East Side	21595
+3,18,Upper West Side,Midtown	20025
+3,18,Midtown,Garment District	18390
+3,18,Gramercy,Midtown	17779
+3,18,Garment District,Midtown	17428
+3,19,Midtown,Upper East Side	56608
+3,19,Midtown,Upper West Side	39228
+3,19,Midtown,Gramercy	29927
+3,19,Upper East Side,Midtown	27868
+3,19,Upper East Side,Upper West Side	26003
+3,19,Midtown,Garment District	19727
+3,19,Upper West Side,Upper East Side	19662
+3,19,Midtown,Chelsea	18474
+3,19,Garment District,Midtown	17780
+3,19,Upper West Side,Midtown	15673
+3,2,Midtown,Upper East Side	3835
+3,2,Midtown,Upper West Side	3089
+3,2,Midtown,Gramercy	2865
+3,2,Chelsea,Midtown	2021
+3,2,Midtown,Clinton	1788
+3,2,Garment District,Midtown	1764
+3,2,Midtown,Astoria-Long Island City	1758
+3,2,Midtown,Chelsea	1720
+3,2,Midtown,Garment District	1621
+3,2,Gramercy,Midtown	1560
+3,20,Midtown,Upper East Side	52546
+3,20,Midtown,Upper West Side	36148
+3,20,Midtown,Gramercy	29554
+3,20,Upper East Side,Midtown	21333
+3,20,Upper East Side,Upper West Side	20608
+3,20,Midtown,Garment District	18886
+3,20,Midtown,Chelsea	17286
+3,20,Upper West Side,Upper East Side	17008
+3,20,Gramercy,Midtown	14840
+3,20,Garment District,Midtown	14132
+3,21,Midtown,Upper East Side	51890
+3,21,Midtown,Upper West Side	34688
+3,21,Midtown,Gramercy	29099
+3,21,Upper East Side,Midtown	18281
+3,21,Upper East Side,Upper West Side	18208
+3,21,Upper West Side,Upper East Side	18153
+3,21,Midtown,Garment District	17320
+3,21,Midtown,Chelsea	15909
+3,21,Gramercy,Midtown	15082
+3,21,Gramercy,Upper East Side	14346
+3,22,Midtown,Upper East Side	43248
+3,22,Midtown,Upper West Side	29224
+3,22,Midtown,Gramercy	25349
+3,22,Upper West Side,Upper East Side	16223
+3,22,Upper East Side,Midtown	15077
+3,22,Midtown,Garment District	14773
+3,22,Midtown,Chelsea	14431
+3,22,Gramercy,Midtown	14409
+3,22,Upper East Side,Upper West Side	13925
+3,22,Gramercy,Upper East Side	13107
+3,23,Midtown,Upper East Side	26375
+3,23,Midtown,Upper West Side	19295
+3,23,Midtown,Gramercy	16809
+3,23,Midtown,Garment District	10882
+3,23,Gramercy,Midtown	10475
+3,23,Midtown,Chelsea	10419
+3,23,Upper West Side,Upper East Side	9760
+3,23,Midtown,Clinton	9390
+3,23,Gramercy,Upper East Side	8957
+3,23,Upper East Side,Midtown	8850
+3,3,Midtown,Upper East Side	2161
+3,3,Midtown,Upper West Side	1938
+3,3,Midtown,Gramercy	1735
+3,3,Chelsea,Midtown	1412
+3,3,Midtown,Clinton	1256
+3,3,Midtown,Astoria-Long Island City	1221
+3,3,Upper East Side,Midtown	1159
+3,3,Midtown,Garment District	1016
+3,3,Midtown,Chelsea	1003
+3,3,Gramercy,Upper East Side	1001
+3,4,Midtown,Upper East Side	1687
+3,4,Upper East Side,Midtown	1571
+3,4,Garment District,Midtown	1563
+3,4,Midtown,Upper West Side	1434
+3,4,Midtown,Garment District	1370
+3,4,Midtown,Astoria-Long Island City	1165
+3,4,Upper West Side,Midtown	1136
+3,4,Midtown,Gramercy	1116
+3,4,Chelsea,Midtown	1030
+3,4,Gramercy,Midtown	1006
+3,5,Garment District,Midtown	8242
+3,5,Upper East Side,Midtown	6229
+3,5,Upper West Side,Midtown	3734
+3,5,Midtown,Garment District	2823
+3,5,Gramercy,Midtown	2779
+3,5,Clinton,Midtown	2585
+3,5,Upper East Side,Garment District	2389
+3,5,Midtown,Upper East Side	2288
+3,5,Chelsea,Midtown	2207
+3,5,Upper West Side,Upper East Side	1818
+3,6,Upper East Side,Midtown	33153
+3,6,Garment District,Midtown	29941
+3,6,Upper West Side,Midtown	17795
+3,6,Gramercy,Midtown	15038
+3,6,Chelsea,Midtown	10557
+3,6,Clinton,Midtown	10398
+3,6,Garment District,Gramercy	7383
+3,6,Greenwich Village,Midtown	6816
+3,6,Midtown,Upper East Side	6184
+3,6,Midtown,Garment District	6022
+3,7,Upper East Side,Midtown	72095
+3,7,Garment District,Midtown	37475
+3,7,Upper West Side,Midtown	34719
+3,7,Gramercy,Midtown	32373
+3,7,Chelsea,Midtown	19879
+3,7,Clinton,Midtown	14911
+3,7,Midtown,Upper East Side	14665
+3,7,Murray Hill,Midtown	13954
+3,7,Greenwich Village,Midtown	12667
+3,7,Upper West Side,Upper East Side	12272
+3,8,Upper East Side,Midtown	81629
+3,8,Upper West Side,Midtown	36320
+3,8,Gramercy,Midtown	32914
+3,8,Garment District,Midtown	28646
+3,8,Midtown,Upper East Side	21230
+3,8,Chelsea,Midtown	19636
+3,8,Murray Hill,Midtown	18308
+3,8,Midtown,Garment District	15719
+3,8,Midtown,Gramercy	15402
+3,8,Clinton,Midtown	14859
+3,9,Upper East Side,Midtown	65043
+3,9,Upper West Side,Midtown	30129
+3,9,Garment District,Midtown	27709
+3,9,Gramercy,Midtown	25937
+3,9,Midtown,Upper East Side	24459
+3,9,Midtown,Garment District	17140
+3,9,Chelsea,Midtown	16714
+3,9,Murray Hill,Midtown	16285
+3,9,Midtown,Gramercy	16185
+3,9,Upper West Side,Upper East Side	15024
+4,0,Midtown,Upper East Side	14131
+4,0,Midtown,Upper West Side	11286
+4,0,Midtown,Gramercy	9744
+4,0,Midtown,Garment District	6368
+4,0,Midtown,Chelsea	6337
+4,0,Midtown,Clinton	5927
+4,0,Gramercy,Midtown	5828
+4,0,Chelsea,Midtown	5354
+4,0,Gramercy,Upper East Side	5054
+4,0,Garment District,Midtown	4792
+4,1,Midtown,Upper East Side	7365
+4,1,Midtown,Upper West Side	5942
+4,1,Midtown,Gramercy	5357
+4,1,Midtown,Chelsea	3388
+4,1,Midtown,Clinton	3374
+4,1,Chelsea,Midtown	3194
+4,1,Midtown,Garment District	3127
+4,1,Midtown,Astoria-Long Island City	3061
+4,1,Gramercy,Midtown	2858
+4,1,West Village,Chelsea	2493
+4,10,Upper East Side,Midtown	47556
+4,10,Midtown,Upper East Side	28605
+4,10,Garment District,Midtown	25719
+4,10,Upper West Side,Midtown	23749
+4,10,Gramercy,Midtown	20327
+4,10,Midtown,Garment District	17618
+4,10,Upper West Side,Upper East Side	16336
+4,10,Midtown,Gramercy	16141
+4,10,Chelsea,Midtown	14125
+4,10,UNKNOWN,Midtown	13743
+4,11,Upper East Side,Midtown	40954
+4,11,Midtown,Upper East Side	32287
+4,11,Garment District,Midtown	25537
+4,11,Upper West Side,Midtown	19823
+4,11,Gramercy,Midtown	18934
+4,11,Midtown,Garment District	18824
+4,11,Midtown,Gramercy	18444
+4,11,Upper West Side,Upper East Side	16280
+4,11,Upper East Side,Upper West Side	14928
+4,11,Chelsea,Midtown	13889
+4,12,Upper East Side,Midtown	41010
+4,12,Midtown,Upper East Side	36119
+4,12,Garment District,Midtown	24357
+4,12,Midtown,Gramercy	20835
+4,12,Upper West Side,Midtown	19693
+4,12,Gramercy,Midtown	19413
+4,12,Midtown,Garment District	19311
+4,12,Upper East Side,Upper West Side	16537
+4,12,Upper West Side,Upper East Side	16512
+4,12,Midtown,Upper West Side	14765
+4,13,Upper East Side,Midtown	38981
+4,13,Midtown,Upper East Side	33735
+4,13,Garment District,Midtown	22681
+4,13,Midtown,Garment District	19870
+4,13,Gramercy,Midtown	19314
+4,13,Midtown,Gramercy	19085
+4,13,Upper West Side,Midtown	18709
+4,13,Upper East Side,Upper West Side	15989
+4,13,Upper West Side,Upper East Side	15764
+4,13,Midtown,Upper West Side	14155
+4,14,Midtown,Upper East Side	36616
+4,14,Upper East Side,Midtown	35070
+4,14,Midtown,Garment District	23449
+4,14,Garment District,Midtown	20975
+4,14,Midtown,Gramercy	19133
+4,14,Gramercy,Midtown	18262
+4,14,Upper East Side,Upper West Side	18219
+4,14,Upper West Side,Upper East Side	16606
+4,14,Upper West Side,Midtown	16337
+4,14,Midtown,Upper West Side	15821
+4,15,Midtown,Upper East Side	32446
+4,15,Upper East Side,Midtown	30405
+4,15,Midtown,Garment District	20486
+4,15,Upper East Side,Upper West Side	19502
+4,15,Garment District,Midtown	17903
+4,15,Upper West Side,Upper East Side	17518
+4,15,Midtown,Gramercy	16392
+4,15,Gramercy,Midtown	15369
+4,15,Midtown,Upper West Side	15225
+4,15,Upper West Side,Midtown	14628
+4,16,Midtown,Upper East Side	25317
+4,16,Upper East Side,Midtown	22786
+4,16,Upper East Side,Upper West Side	16980
+4,16,Upper West Side,Upper East Side	14427
+4,16,Midtown,Garment District	14314
+4,16,UNKNOWN,Midtown	13703
+4,16,Midtown,Upper West Side	13349
+4,16,Garment District,Midtown	12776
+4,16,Midtown,Gramercy	12001
+4,16,Upper West Side,Midtown	11475
+4,17,Midtown,Upper East Side	33632
+4,17,Upper East Side,Midtown	30428
+4,17,Upper East Side,Upper West Side	25834
+4,17,Midtown,Upper West Side	21012
+4,17,Upper West Side,Upper East Side	17763
+4,17,Midtown,Gramercy	16157
+4,17,Upper West Side,Midtown	15788
+4,17,Midtown,Garment District	14797
+4,17,Gramercy,Midtown	13381
+4,17,UNKNOWN,Midtown	12939
+4,18,Midtown,Upper East Side	49825
+4,18,Upper East Side,Midtown	34769
+4,18,Midtown,Upper West Side	34373
+4,18,Upper East Side,Upper West Side	30310
+4,18,Midtown,Gramercy	24283
+4,18,Upper West Side,Upper East Side	21556
+4,18,Upper West Side,Midtown	19679
+4,18,Midtown,Garment District	17500
+4,18,Gramercy,Midtown	16555
+4,18,Midtown,Chelsea	16395
+4,19,Midtown,Upper East Side	51434
+4,19,Midtown,Upper West Side	36775
+4,19,Upper East Side,Midtown	29982
+4,19,Midtown,Gramercy	27887
+4,19,Upper East Side,Upper West Side	26181
+4,19,Upper West Side,Upper East Side	19645
+4,19,Midtown,Garment District	18960
+4,19,Upper West Side,Midtown	17585
+4,19,Midtown,Chelsea	17513
+4,19,Garment District,Midtown	16984
+4,2,Midtown,Upper East Side	4118
+4,2,Midtown,Upper West Side	3238
+4,2,Midtown,Gramercy	2969
+4,2,Chelsea,Midtown	2386
+4,2,West Village,Chelsea	2162
+4,2,Midtown,Astoria-Long Island City	2138
+4,2,Midtown,Clinton	2061
+4,2,West Village,Midtown	1977
+4,2,Midtown,Chelsea	1879
+4,2,Garment District,Midtown	1739
+4,20,Midtown,Upper East Side	49873
+4,20,Midtown,Upper West Side	33639
+4,20,Midtown,Gramercy	28568
+4,20,Upper East Side,Midtown	21457
+4,20,Upper East Side,Upper West Side	20523
+4,20,Midtown,Garment District	18700
+4,20,Midtown,Chelsea	16757
+4,20,Upper West Side,Upper East Side	16625
+4,20,Gramercy,Midtown	15151
+4,20,Garment District,Midtown	14375
+4,21,Midtown,Upper East Side	49523
+4,21,Midtown,Upper West Side	33203
+4,21,Midtown,Gramercy	28357
+4,21,Upper East Side,Upper West Side	18662
+4,21,Upper West Side,Upper East Side	18541
+4,21,Upper East Side,Midtown	18427
+4,21,Midtown,Garment District	17390
+4,21,Midtown,Chelsea	15752
+4,21,Gramercy,Midtown	15374
+4,21,Gramercy,Upper East Side	14645
+4,22,Midtown,Upper East Side	45239
+4,22,Midtown,Upper West Side	29814
+4,22,Midtown,Gramercy	26094
+4,22,Upper West Side,Upper East Side	17260
+4,22,Midtown,Garment District	15569
+4,22,Upper East Side,Midtown	15488
+4,22,Gramercy,Midtown	14974
+4,22,Midtown,Chelsea	14503
+4,22,Gramercy,Upper East Side	14442
+4,22,Upper East Side,Upper West Side	14141
+4,23,Midtown,Upper East Side	29300
+4,23,Midtown,Upper West Side	20874
+4,23,Midtown,Gramercy	18437
+4,23,Midtown,Chelsea	11587
+4,23,Gramercy,Midtown	11476
+4,23,Midtown,Garment District	11239
+4,23,Gramercy,Upper East Side	10262
+4,23,Upper West Side,Upper East Side	10161
+4,23,Upper East Side,Midtown	9698
+4,23,Chelsea,Midtown	9670
+4,3,Midtown,Upper East Side	2216
+4,3,Midtown,Upper West Side	1927
+4,3,Chelsea,Midtown	1845
+4,3,Midtown,Gramercy	1646
+4,3,Midtown,Astoria-Long Island City	1349
+4,3,West Village,Chelsea	1348
+4,3,Chelsea,Gramercy	1301
+4,3,Chelsea,Clinton	1271
+4,3,Midtown,Clinton	1223
+4,3,West Village,Midtown	1206
+4,4,Midtown,Upper East Side	1690
+4,4,Garment District,Midtown	1592
+4,4,Upper East Side,Midtown	1575
+4,4,Midtown,Upper West Side	1331
+4,4,Midtown,Astoria-Long Island City	1312
+4,4,Chelsea,Midtown	1310
+4,4,Midtown,Garment District	1306
+4,4,Midtown,Gramercy	1147
+4,4,Upper West Side,Midtown	1044
+4,4,Midtown,Clinton	952
+4,5,Garment District,Midtown	8277
+4,5,Upper East Side,Midtown	6374
+4,5,Upper West Side,Midtown	3578
+4,5,Midtown,Garment District	2880
+4,5,Gramercy,Midtown	2741
+4,5,Clinton,Midtown	2607
+4,5,Upper East Side,Garment District	2380
+4,5,Chelsea,Midtown	2158
+4,5,Midtown,Upper East Side	2038
+4,5,Gramercy,Garment District	1664
+4,6,Upper East Side,Midtown	33142
+4,6,Garment District,Midtown	29533
+4,6,Upper West Side,Midtown	17733
+4,6,Gramercy,Midtown	14451
+4,6,Chelsea,Midtown	10479
+4,6,Clinton,Midtown	10088
+4,6,Garment District,Gramercy	7594
+4,6,Greenwich Village,Midtown	6907
+4,6,Midtown,Garment District	6543
+4,6,Midtown,Upper East Side	6215
+4,7,Upper East Side,Midtown	72226
+4,7,Garment District,Midtown	36572
+4,7,Upper West Side,Midtown	34121
+4,7,Gramercy,Midtown	33081
+4,7,Chelsea,Midtown	19829
+4,7,Clinton,Midtown	15328
+4,7,Midtown,Upper East Side	14737
+4,7,Murray Hill,Midtown	14136
+4,7,Greenwich Village,Midtown	13010
+4,7,Midtown,Garment District	12717
+4,8,Upper East Side,Midtown	83628
+4,8,Upper West Side,Midtown	35996
+4,8,Gramercy,Midtown	34196
+4,8,Garment District,Midtown	28360
+4,8,Midtown,Upper East Side	21628
+4,8,Chelsea,Midtown	19572
+4,8,Murray Hill,Midtown	18889
+4,8,Midtown,Garment District	17368
+4,8,Midtown,Gramercy	16137
+4,8,Clinton,Midtown	14815
+4,9,Upper East Side,Midtown	66688
+4,9,Upper West Side,Midtown	29463
+4,9,Garment District,Midtown	27965
+4,9,Gramercy,Midtown	26345
+4,9,Midtown,Upper East Side	24182
+4,9,Midtown,Garment District	18054
+4,9,Chelsea,Midtown	17618
+4,9,Midtown,Gramercy	17320
+4,9,Murray Hill,Midtown	16930
+4,9,Upper West Side,Upper East Side	14659
+5,0,Midtown,Upper East Side	16006
+5,0,Midtown,Upper West Side	12209
+5,0,Midtown,Gramercy	10713
+5,0,Midtown,Chelsea	7690
+5,0,Midtown,Garment District	7040
+5,0,Gramercy,Midtown	6885
+5,0,Chelsea,Midtown	6307
+5,0,Midtown,Clinton	6203
+5,0,Gramercy,Upper East Side	5995
+5,0,Garment District,Midtown	5243
+5,1,Midtown,Upper East Side	8606
+5,1,Midtown,Upper West Side	6573
+5,1,Midtown,Gramercy	5691
+5,1,Midtown,Chelsea	4100
+5,1,Chelsea,Midtown	4058
+5,1,Midtown,Clinton	3677
+5,1,Gramercy,Midtown	3542
+5,1,Midtown,Garment District	3511
+5,1,Midtown,Astoria-Long Island City	3498
+5,1,Gramercy,Upper East Side	3198
+5,10,Upper East Side,Midtown	47560
+5,10,Midtown,Upper East Side	28140
+5,10,Garment District,Midtown	24473
+5,10,Upper West Side,Midtown	23524
+5,10,Gramercy,Midtown	20483
+5,10,Midtown,Garment District	18033
+5,10,Midtown,Gramercy	15950
+5,10,Upper West Side,Upper East Side	15920
+5,10,Chelsea,Midtown	13938
+5,10,Upper East Side,Upper West Side	13390
+5,11,Upper East Side,Midtown	39062
+5,11,Midtown,Upper East Side	31994
+5,11,Garment District,Midtown	23208
+5,11,Upper West Side,Midtown	19878
+5,11,Midtown,Garment District	19128
+5,11,Gramercy,Midtown	18933
+5,11,Midtown,Gramercy	18249
+5,11,Upper West Side,Upper East Side	15957
+5,11,Upper East Side,Upper West Side	13848
+5,11,Chelsea,Midtown	13291
+5,12,Upper East Side,Midtown	38082
+5,12,Midtown,Upper East Side	36053
+5,12,Garment District,Midtown	22330
+5,12,Midtown,Gramercy	20536
+5,12,Gramercy,Midtown	19206
+5,12,Midtown,Garment District	19151
+5,12,Upper West Side,Midtown	18944
+5,12,Upper West Side,Upper East Side	16940
+5,12,Upper East Side,Upper West Side	15920
+5,12,Midtown,Upper West Side	14571
+5,13,Upper East Side,Midtown	35784
+5,13,Midtown,Upper East Side	33724
+5,13,Garment District,Midtown	20796
+5,13,Midtown,Garment District	20019
+5,13,Midtown,Gramercy	19046
+5,13,Gramercy,Midtown	18469
+5,13,Upper West Side,Midtown	17580
+5,13,Upper West Side,Upper East Side	16108
+5,13,Upper East Side,Upper West Side	15808
+5,13,Midtown,Upper West Side	14371
+5,14,Midtown,Upper East Side	35322
+5,14,Upper East Side,Midtown	34677
+5,14,Midtown,Garment District	22675
+5,14,Garment District,Midtown	20355
+5,14,Midtown,Gramercy	18314
+5,14,Gramercy,Midtown	18154
+5,14,Upper East Side,Upper West Side	17821
+5,14,Upper West Side,Upper East Side	16432
+5,14,Upper West Side,Midtown	16347
+5,14,Midtown,Upper West Side	15850
+5,15,Midtown,Upper East Side	30887
+5,15,Upper East Side,Midtown	29876
+5,15,Midtown,Garment District	19513
+5,15,Upper East Side,Upper West Side	19113
+5,15,Upper West Side,Upper East Side	17418
+5,15,Garment District,Midtown	17017
+5,15,Midtown,Upper West Side	15050
+5,15,Midtown,Gramercy	15021
+5,15,Upper West Side,Midtown	14677
+5,15,Gramercy,Midtown	14575
+5,16,Midtown,Upper East Side	22974
+5,16,Upper East Side,Midtown	21403
+5,16,Upper East Side,Upper West Side	16229
+5,16,Upper West Side,Upper East Side	14000
+5,16,UNKNOWN,Midtown	13166
+5,16,Midtown,Garment District	12871
+5,16,Midtown,Upper West Side	12634
+5,16,Garment District,Midtown	11778
+5,16,Upper West Side,Midtown	11503
+5,16,Midtown,Gramercy	10930
+5,17,Upper East Side,Midtown	29520
+5,17,Midtown,Upper East Side	28854
+5,17,Upper East Side,Upper West Side	25108
+5,17,Midtown,Upper West Side	18850
+5,17,Upper West Side,Upper East Side	17375
+5,17,Upper West Side,Midtown	15458
+5,17,Midtown,Gramercy	14730
+5,17,Midtown,Garment District	13049
+5,17,UNKNOWN,Midtown	12622
+5,17,Gramercy,Midtown	12204
+5,18,Midtown,Upper East Side	41529
+5,18,Upper East Side,Midtown	35179
+5,18,Midtown,Upper West Side	29399
+5,18,Upper East Side,Upper West Side	29220
+5,18,Upper West Side,Upper East Side	21601
+5,18,Midtown,Gramercy	21436
+5,18,Upper West Side,Midtown	20068
+5,18,Midtown,Chelsea	16388
+5,18,Gramercy,Midtown	16258
+5,18,Midtown,Garment District	14863
+5,19,Midtown,Upper East Side	43669
+5,19,Midtown,Upper West Side	32229
+5,19,Upper East Side,Midtown	30777
+5,19,Upper East Side,Upper West Side	25738
+5,19,Midtown,Gramercy	25357
+5,19,Upper West Side,Upper East Side	19694
+5,19,Upper West Side,Midtown	18072
+5,19,Midtown,Chelsea	17586
+5,19,Gramercy,Midtown	16990
+5,19,Midtown,Garment District	16035
+5,2,Midtown,Upper East Side	4731
+5,2,Midtown,Upper West Side	3805
+5,2,Chelsea,Midtown	3296
+5,2,Midtown,Gramercy	3195
+5,2,Midtown,Astoria-Long Island City	2494
+5,2,Chelsea,Gramercy	2460
+5,2,West Village,Chelsea	2440
+5,2,Midtown,Clinton	2266
+5,2,West Village,Midtown	2239
+5,2,Midtown,Chelsea	2221
+5,20,Midtown,Upper East Side	42141
+5,20,Midtown,Upper West Side	29227
+5,20,Midtown,Gramercy	25998
+5,20,Upper East Side,Midtown	23276
+5,20,Upper East Side,Upper West Side	21027
+5,20,Upper West Side,Upper East Side	17040
+5,20,Midtown,Garment District	16467
+5,20,Midtown,Chelsea	16054
+5,20,Gramercy,Midtown	15428
+5,20,Upper West Side,Midtown	14249
+5,21,Midtown,Upper East Side	43635
+5,21,Midtown,Upper West Side	28303
+5,21,Midtown,Gramercy	25736
+5,21,Upper East Side,Midtown	20041
+5,21,Upper West Side,Upper East Side	19619
+5,21,Upper East Side,Upper West Side	19177
+5,21,Gramercy,Midtown	15691
+5,21,Midtown,Garment District	15553
+5,21,Gramercy,Upper East Side	14900
+5,21,Upper West Side,Midtown	14396
+5,22,Midtown,Upper East Side	43921
+5,22,Midtown,Upper West Side	27282
+5,22,Midtown,Gramercy	25434
+5,22,Upper West Side,Upper East Side	17779
+5,22,Upper East Side,Midtown	16802
+5,22,Gramercy,Upper East Side	15418
+5,22,Gramercy,Midtown	15170
+5,22,Upper East Side,Upper West Side	15052
+5,22,Midtown,Garment District	14601
+5,22,Midtown,Chelsea	13990
+5,23,Midtown,Upper East Side	32922
+5,23,Midtown,Upper West Side	22443
+5,23,Midtown,Gramercy	20746
+5,23,Gramercy,Midtown	14293
+5,23,Gramercy,Upper East Side	13781
+5,23,Midtown,Chelsea	12661
+5,23,Midtown,Garment District	12509
+5,23,Upper East Side,Midtown	11780
+5,23,Upper West Side,Upper East Side	11550
+5,23,Chelsea,Midtown	10633
+5,3,Chelsea,Midtown	2718
+5,3,Midtown,Upper East Side	2601
+5,3,Midtown,Upper West Side	2235
+5,3,Chelsea,Gramercy	1918
+5,3,Midtown,Gramercy	1801
+5,3,Chelsea,Clinton	1575
+5,3,Midtown,Astoria-Long Island City	1483
+5,3,Midtown,Clinton	1467
+5,3,West Village,Chelsea	1464
+5,3,Chelsea,Upper East Side	1458
+5,4,Chelsea,Midtown	1845
+5,4,Midtown,Upper East Side	1771
+5,4,Upper East Side,Midtown	1682
+5,4,Garment District,Midtown	1606
+5,4,Midtown,Upper West Side	1538
+5,4,Midtown,Astoria-Long Island City	1464
+5,4,Midtown,Garment District	1438
+5,4,Chelsea,Gramercy	1249
+5,4,Midtown,Gramercy	1206
+5,4,Upper West Side,Midtown	1187
+5,5,Garment District,Midtown	7878
+5,5,Upper East Side,Midtown	6229
+5,5,Upper West Side,Midtown	3900
+5,5,Midtown,Garment District	3058
+5,5,Gramercy,Midtown	2687
+5,5,Clinton,Midtown	2455
+5,5,Upper East Side,Garment District	2379
+5,5,Chelsea,Midtown	2203
+5,5,Midtown,Upper East Side	2193
+5,5,Gramercy,Garment District	1674
+5,6,Upper East Side,Midtown	31751
+5,6,Garment District,Midtown	29292
+5,6,Upper West Side,Midtown	17432
+5,6,Gramercy,Midtown	14140
+5,6,Chelsea,Midtown	10126
+5,6,Clinton,Midtown	9774
+5,6,Garment District,Gramercy	7064
+5,6,Greenwich Village,Midtown	6578
+5,6,Midtown,Garment District	6209
+5,6,Midtown,Upper East Side	6040
+5,7,Upper East Side,Midtown	70114
+5,7,Garment District,Midtown	35878
+5,7,Upper West Side,Midtown	34019
+5,7,Gramercy,Midtown	31923
+5,7,Chelsea,Midtown	19686
+5,7,Midtown,Upper East Side	14328
+5,7,Clinton,Midtown	14308
+5,7,Murray Hill,Midtown	13746
+5,7,Greenwich Village,Midtown	12822
+5,7,Midtown,Garment District	12470
+5,8,Upper East Side,Midtown	81831
+5,8,Upper West Side,Midtown	34982
+5,8,Gramercy,Midtown	34174
+5,8,Garment District,Midtown	28075
+5,8,Midtown,Upper East Side	21019
+5,8,Chelsea,Midtown	19446
+5,8,Murray Hill,Midtown	18721
+5,8,Midtown,Garment District	17265
+5,8,Midtown,Gramercy	15734
+5,8,Clinton,Midtown	13972
+5,9,Upper East Side,Midtown	65815
+5,9,Upper West Side,Midtown	28496
+5,9,Garment District,Midtown	27553
+5,9,Gramercy,Midtown	27081
+5,9,Midtown,Upper East Side	24229
+5,9,Midtown,Garment District	18563
+5,9,Chelsea,Midtown	17555
+5,9,Murray Hill,Midtown	17050
+5,9,Midtown,Gramercy	17012
+5,9,Upper West Side,Upper East Side	13585
+6,0,Midtown,Upper East Side	19504
+6,0,Midtown,Upper West Side	14470
+6,0,Midtown,Gramercy	13073
+6,0,Gramercy,Midtown	10392
+6,0,Midtown,Chelsea	9220
+6,0,Gramercy,Upper East Side	9156
+6,0,Chelsea,Midtown	8914
+6,0,Midtown,Garment District	8862
+6,0,Midtown,Clinton	7557
+6,0,East Village,Gramercy	7330
+6,1,Midtown,Upper East Side	10990
+6,1,Midtown,Upper West Side	7981
+6,1,Midtown,Gramercy	7448
+6,1,Chelsea,Midtown	6020
+6,1,Gramercy,Midtown	5940
+6,1,Midtown,Chelsea	5536
+6,1,Gramercy,Upper East Side	5167
+6,1,East Village,Gramercy	5059
+6,1,Midtown,Clinton	4825
+6,1,West Village,Midtown	4805
+6,10,Upper East Side,Midtown	44514
+6,10,Midtown,Upper East Side	27964
+6,10,Upper West Side,Midtown	23074
+6,10,Garment District,Midtown	21897
+6,10,Gramercy,Midtown	19244
+6,10,Midtown,Garment District	17872
+6,10,Upper West Side,Upper East Side	15692
+6,10,Midtown,Gramercy	14604
+6,10,Chelsea,Midtown	13622
+6,10,Upper East Side,Upper West Side	13599
+6,11,Upper East Side,Midtown	37368
+6,11,Midtown,Upper East Side	31920
+6,11,Garment District,Midtown	20917
+6,11,Upper West Side,Midtown	19660
+6,11,Midtown,Garment District	19377
+6,11,Gramercy,Midtown	17468
+6,11,Midtown,Gramercy	17095
+6,11,Upper West Side,Upper East Side	16026
+6,11,Upper East Side,Upper West Side	14784
+6,11,Chelsea,Midtown	12951
+6,12,Upper East Side,Midtown	35958
+6,12,Midtown,Upper East Side	34447
+6,12,Garment District,Midtown	20886
+6,12,Midtown,Gramercy	19084
+6,12,Midtown,Garment District	18742
+6,12,Upper West Side,Midtown	18275
+6,12,Gramercy,Midtown	17108
+6,12,Upper West Side,Upper East Side	16317
+6,12,Upper East Side,Upper West Side	15787
+6,12,Midtown,Upper West Side	15038
+6,13,Upper East Side,Midtown	32999
+6,13,Midtown,Upper East Side	32414
+6,13,Garment District,Midtown	18953
+6,13,Midtown,Garment District	18837
+6,13,Midtown,Gramercy	16880
+6,13,Upper West Side,Midtown	16645
+6,13,Gramercy,Midtown	16405
+6,13,Upper East Side,Upper West Side	15941
+6,13,Upper West Side,Upper East Side	15658
+6,13,Midtown,Upper West Side	15049
+6,14,Midtown,Upper East Side	34529
+6,14,Upper East Side,Midtown	33577
+6,14,Midtown,Garment District	21328
+6,14,Garment District,Midtown	18794
+6,14,Upper East Side,Upper West Side	18350
+6,14,Midtown,Gramercy	17126
+6,14,Midtown,Upper West Side	17016
+6,14,Upper West Side,Upper East Side	16880
+6,14,Upper West Side,Midtown	16084
+6,14,Gramercy,Midtown	16056
+6,15,Midtown,Upper East Side	30989
+6,15,Upper East Side,Midtown	29571
+6,15,Midtown,Garment District	18435
+6,15,Upper East Side,Upper West Side	18046
+6,15,Garment District,Midtown	16567
+6,15,Midtown,Upper West Side	16026
+6,15,Upper West Side,Upper East Side	15624
+6,15,Upper West Side,Midtown	14741
+6,15,Midtown,Gramercy	14718
+6,15,Gramercy,Midtown	13065
+6,16,Midtown,Upper East Side	23766
+6,16,Upper East Side,Midtown	22135
+6,16,Upper East Side,Upper West Side	15424
+6,16,Midtown,Upper West Side	13519
+6,16,Upper West Side,Upper East Side	13455
+6,16,Midtown,Garment District	12200
+6,16,UNKNOWN,Midtown	11696
+6,16,Upper West Side,Midtown	11651
+6,16,Garment District,Midtown	11223
+6,16,Midtown,Gramercy	11027
+6,17,Upper East Side,Midtown	29811
+6,17,Midtown,Upper East Side	28282
+6,17,Upper East Side,Upper West Side	23022
+6,17,Midtown,Upper West Side	19062
+6,17,Upper West Side,Upper East Side	16216
+6,17,Upper West Side,Midtown	15893
+6,17,Midtown,Gramercy	14488
+6,17,Midtown,Garment District	12826
+6,17,Garment District,Midtown	11797
+6,17,Gramercy,Midtown	11756
+6,18,Midtown,Upper East Side	38634
+6,18,Upper East Side,Midtown	33252
+6,18,Midtown,Upper West Side	29171
+6,18,Upper East Side,Upper West Side	27278
+6,18,Midtown,Gramercy	22021
+6,18,Upper West Side,Upper East Side	19863
+6,18,Upper West Side,Midtown	18850
+6,18,Midtown,Garment District	15574
+6,18,Gramercy,Midtown	15035
+6,18,Garment District,Midtown	14657
+6,19,Midtown,Upper East Side	36218
+6,19,Upper East Side,Midtown	34187
+6,19,Midtown,Upper West Side	29452
+6,19,Upper East Side,Upper West Side	24646
+6,19,Midtown,Gramercy	23440
+6,19,Upper West Side,Midtown	20928
+6,19,Upper West Side,Upper East Side	19025
+6,19,Gramercy,Midtown	18858
+6,19,Garment District,Midtown	18049
+6,19,Midtown,Garment District	15723
+6,2,Midtown,Upper East Side	6478
+6,2,Midtown,Upper West Side	4881
+6,2,Midtown,Gramercy	4772
+6,2,Chelsea,Midtown	4424
+6,2,West Village,Chelsea	4301
+6,2,West Village,Midtown	4210
+6,2,Midtown,Chelsea	3338
+6,2,Gramercy,Midtown	3317
+6,2,Chelsea,Gramercy	3218
+6,2,Midtown,Astoria-Long Island City	3113
+6,20,Midtown,Upper East Side	33269
+6,20,Midtown,Gramercy	24439
+6,20,Upper East Side,Midtown	23876
+6,20,Midtown,Upper West Side	23127
+6,20,Upper East Side,Upper West Side	17931
+6,20,Gramercy,East Village	16254
+6,20,Gramercy,Midtown	15536
+6,20,Garment District,Midtown	15429
+6,20,Upper West Side,Upper East Side	15288
+6,20,Midtown,Garment District	14309
+6,21,Midtown,Upper East Side	31362
+6,21,Midtown,Gramercy	22782
+6,21,Midtown,Upper West Side	20824
+6,21,Upper East Side,Midtown	19735
+6,21,Upper West Side,Upper East Side	15882
+6,21,Upper East Side,Upper West Side	15805
+6,21,Gramercy,Midtown	15695
+6,21,Garment District,Midtown	15143
+6,21,Gramercy,East Village	14413
+6,21,Midtown,Garment District	13872
+6,22,Midtown,Upper East Side	32688
+6,22,Midtown,Gramercy	22401
+6,22,Midtown,Upper West Side	20156
+6,22,Upper East Side,Midtown	18916
+6,22,Upper West Side,Upper East Side	18193
+6,22,Gramercy,Midtown	16233
+6,22,Upper West Side,Midtown	15186
+6,22,Upper East Side,Upper West Side	14607
+6,22,Gramercy,East Village	13989
+6,22,Midtown,Garment District	13866
+6,23,Midtown,Upper East Side	26650
+6,23,Midtown,Gramercy	19269
+6,23,Midtown,Upper West Side	17687
+6,23,Gramercy,East Village	15494
+6,23,Gramercy,Midtown	15428
+6,23,Upper East Side,Midtown	14871
+6,23,Upper West Side,Upper East Side	14236
+6,23,Midtown,Chelsea	12895
+6,23,Midtown,Garment District	12765
+6,23,Gramercy,Upper East Side	12407
+6,3,Midtown,Upper East Side	3861
+6,3,Chelsea,Midtown	3437
+6,3,Midtown,Upper West Side	3187
+6,3,Midtown,Gramercy	3119
+6,3,West Village,Chelsea	2692
+6,3,West Village,Midtown	2627
+6,3,Chelsea,Gramercy	2376
+6,3,Chelsea,Clinton	2271
+6,3,Midtown,Astoria-Long Island City	2197
+6,3,Midtown,Clinton	2195
+6,4,Midtown,Upper East Side	2582
+6,4,Chelsea,Midtown	2317
+6,4,Midtown,Upper West Side	2001
+6,4,Midtown,Astoria-Long Island City	1989
+6,4,Garment District,Midtown	1979
+6,4,Midtown,Garment District	1895
+6,4,Upper East Side,Midtown	1872
+6,4,Midtown,Gramercy	1828
+6,4,Chelsea,Gramercy	1638
+6,4,Chelsea,Clinton	1548
+6,5,Garment District,Midtown	7787
+6,5,Upper East Side,Midtown	5853
+6,5,Upper West Side,Midtown	3504
+6,5,Midtown,Garment District	3047
+6,5,Midtown,Upper East Side	2724
+6,5,Clinton,Midtown	2544
+6,5,Gramercy,Midtown	2476
+6,5,Chelsea,Midtown	2232
+6,5,Upper East Side,Garment District	2160
+6,5,Upper West Side,Upper East Side	1700
+6,6,Upper East Side,Midtown	28567
+6,6,Garment District,Midtown	27521
+6,6,Upper West Side,Midtown	15357
+6,6,Gramercy,Midtown	12879
+6,6,Clinton,Midtown	9305
+6,6,Chelsea,Midtown	8734
+6,6,Garment District,Gramercy	6949
+6,6,Midtown,Upper East Side	6311
+6,6,Midtown,Garment District	6136
+6,6,Greenwich Village,Midtown	5766
+6,7,Upper East Side,Midtown	64943
+6,7,Garment District,Midtown	31571
+6,7,Upper West Side,Midtown	31132
+6,7,Gramercy,Midtown	29796
+6,7,Chelsea,Midtown	18020
+6,7,Clinton,Midtown	13929
+6,7,Midtown,Upper East Side	13104
+6,7,Murray Hill,Midtown	12162
+6,7,Greenwich Village,Midtown	12061
+6,7,Upper West Side,Upper East Side	11680
+6,8,Upper East Side,Midtown	80448
+6,8,Upper West Side,Midtown	35313
+6,8,Gramercy,Midtown	33320
+6,8,Garment District,Midtown	25564
+6,8,Midtown,Upper East Side	19387
+6,8,Chelsea,Midtown	18474
+6,8,Murray Hill,Midtown	17597
+6,8,Midtown,Garment District	15149
+6,8,Clinton,Midtown	14259
+6,8,Upper West Side,Upper East Side	14212
+6,9,Upper East Side,Midtown	64789
+6,9,Upper West Side,Midtown	29102
+6,9,Gramercy,Midtown	26026
+6,9,Garment District,Midtown	24101
+6,9,Midtown,Upper East Side	22795
+6,9,Midtown,Garment District	17292
+6,9,Chelsea,Midtown	16952
+6,9,Murray Hill,Midtown	15744
+6,9,Midtown,Gramercy	14871
+6,9,Upper West Side,Upper East Side	14219
+7,0,Midtown,Upper East Side	19244
+7,0,Gramercy,East Village	15004
+7,0,Midtown,Gramercy	14076
+7,0,Midtown,Upper West Side	13908
+7,0,Gramercy,Midtown	13063
+7,0,Gramercy,Upper East Side	11899
+7,0,East Village,Gramercy	11693
+7,0,Midtown,Garment District	11390
+7,0,Chelsea,Midtown	11285
+7,0,Midtown,Chelsea	10670
+7,1,East Village,Gramercy	14358
+7,1,Midtown,Upper East Side	13639
+7,1,Gramercy,Midtown	10189
+7,1,Chelsea,Midtown	10031
+7,1,Gramercy,Upper East Side	9897
+7,1,Lower East Side,Gramercy	9837
+7,1,Midtown,Upper West Side	9718
+7,1,Gramercy,East Village	9667
+7,1,East Village,Upper East Side	9574
+7,1,Midtown,Gramercy	9485
+7,10,Upper East Side,Midtown	26855
+7,10,Midtown,Upper East Side	20991
+7,10,Upper West Side,Midtown	16408
+7,10,Upper West Side,Upper East Side	14722
+7,10,Upper East Side,Upper West Side	14065
+7,10,Midtown,Garment District	13915
+7,10,Garment District,Midtown	12573
+7,10,Gramercy,Midtown	12315
+7,10,Midtown,Upper West Side	10709
+7,10,Upper East Side,Garment District	10089
+7,11,Upper East Side,Midtown	30805
+7,11,Midtown,Upper East Side	24445
+7,11,Upper West Side,Midtown	17691
+7,11,Garment District,Midtown	17520
+7,11,Upper East Side,Upper West Side	16014
+7,11,Midtown,Garment District	15572
+7,11,Upper West Side,Upper East Side	15549
+7,11,Gramercy,Midtown	14267
+7,11,Midtown,Upper West Side	13246
+7,11,Midtown,Gramercy	12694
+7,12,Upper East Side,Midtown	32835
+7,12,Midtown,Upper East Side	26136
+7,12,Garment District,Midtown	19289
+7,12,Upper West Side,Midtown	18476
+7,12,Upper East Side,Upper West Side	17582
+7,12,Upper West Side,Upper East Side	15956
+7,12,Gramercy,Midtown	15237
+7,12,Midtown,Upper West Side	14808
+7,12,Midtown,Gramercy	14543
+7,12,Midtown,Garment District	14372
+7,13,Upper East Side,Midtown	36057
+7,13,Midtown,Upper East Side	26357
+7,13,Garment District,Midtown	20527
+7,13,Upper West Side,Midtown	20189
+7,13,Upper East Side,Upper West Side	17007
+7,13,Gramercy,Midtown	16898
+7,13,Upper West Side,Upper East Side	15936
+7,13,Midtown,Upper West Side	14933
+7,13,Midtown,Gramercy	14781
+7,13,Midtown,Garment District	14237
+7,14,Upper East Side,Midtown	30659
+7,14,Midtown,Upper East Side	27876
+7,14,Garment District,Midtown	17017
+7,14,Upper West Side,Midtown	16734
+7,14,Upper East Side,Upper West Side	16398
+7,14,Upper West Side,Upper East Side	15773
+7,14,Midtown,Gramercy	15156
+7,14,Midtown,Garment District	15069
+7,14,Gramercy,Midtown	14978
+7,14,Midtown,Upper West Side	14303
+7,15,Upper East Side,Midtown	30719
+7,15,Midtown,Upper East Side	28769
+7,15,Upper East Side,Upper West Side	17185
+7,15,Garment District,Midtown	16660
+7,15,Upper West Side,Midtown	15879
+7,15,Upper West Side,Upper East Side	15820
+7,15,Midtown,Gramercy	15780
+7,15,Midtown,Upper West Side	15436
+7,15,Midtown,Garment District	14824
+7,15,Gramercy,Midtown	14487
+7,16,Upper East Side,Midtown	25510
+7,16,Midtown,Upper East Side	25210
+7,16,Upper East Side,Upper West Side	15757
+7,16,Upper West Side,Upper East Side	14450
+7,16,Midtown,Gramercy	13886
+7,16,Upper West Side,Midtown	13770
+7,16,Midtown,Upper West Side	13763
+7,16,Midtown,Garment District	12659
+7,16,Garment District,Midtown	12588
+7,16,Gramercy,Midtown	12385
+7,17,Upper East Side,Midtown	30768
+7,17,Midtown,Upper East Side	25958
+7,17,Upper East Side,Upper West Side	19780
+7,17,Midtown,Gramercy	16759
+7,17,Midtown,Upper West Side	16466
+7,17,Upper West Side,Midtown	15936
+7,17,Upper West Side,Upper East Side	14770
+7,17,Gramercy,Midtown	13608
+7,17,Midtown,Garment District	12971
+7,17,Garment District,Midtown	12795
+7,18,Upper East Side,Midtown	32587
+7,18,Midtown,Upper East Side	28368
+7,18,Upper East Side,Upper West Side	22065
+7,18,Midtown,Gramercy	20702
+7,18,Midtown,Upper West Side	20478
+7,18,Upper West Side,Midtown	19283
+7,18,Upper West Side,Upper East Side	18254
+7,18,Garment District,Midtown	16632
+7,18,Midtown,Garment District	16105
+7,18,Gramercy,Midtown	15799
+7,19,Upper East Side,Midtown	32016
+7,19,Midtown,Upper East Side	24426
+7,19,Midtown,Upper West Side	22750
+7,19,Upper West Side,Midtown	22265
+7,19,Upper East Side,Upper West Side	20850
+7,19,Midtown,Gramercy	20525
+7,19,Gramercy,Midtown	19790
+7,19,Garment District,Midtown	18763
+7,19,Upper West Side,Upper East Side	17320
+7,19,Midtown,Garment District	15331
+7,2,East Village,Gramercy	14976
+7,2,Lower East Side,Gramercy	11382
+7,2,Midtown,Upper East Side	9894
+7,2,East Village,Upper East Side	9442
+7,2,Lower East Side,East Village	9023
+7,2,Chelsea,Midtown	8781
+7,2,Greenwich Village,Gramercy	8770
+7,2,East Village,Midtown	8557
+7,2,Chelsea,Gramercy	7766
+7,2,Gramercy,Upper East Side	7663
+7,20,Upper East Side,Midtown	23608
+7,20,Midtown,Upper East Side	22312
+7,20,Midtown,Gramercy	20246
+7,20,Upper East Side,Upper West Side	15927
+7,20,Gramercy,Midtown	15691
+7,20,Midtown,Upper West Side	15463
+7,20,Upper West Side,Upper East Side	14817
+7,20,Gramercy,East Village	14655
+7,20,Garment District,Midtown	14576
+7,20,Upper West Side,Midtown	14539
+7,21,Midtown,Upper East Side	22994
+7,21,Upper East Side,Midtown	20190
+7,21,Midtown,Gramercy	19191
+7,21,Gramercy,Midtown	16415
+7,21,Upper West Side,Upper East Side	16080
+7,21,Midtown,Upper West Side	15682
+7,21,Upper East Side,Upper West Side	14590
+7,21,Garment District,Midtown	14385
+7,21,Upper West Side,Midtown	14139
+7,21,Gramercy,East Village	13427
+7,22,Midtown,Upper East Side	27672
+7,22,Midtown,Gramercy	20655
+7,22,Upper East Side,Midtown	18921
+7,22,Upper West Side,Upper East Side	18383
+7,22,Midtown,Upper West Side	17233
+7,22,Gramercy,Midtown	17192
+7,22,Upper West Side,Midtown	15314
+7,22,Upper East Side,Upper West Side	14348
+7,22,Gramercy,East Village	14090
+7,22,Garment District,Midtown	13456
+7,23,Midtown,Upper East Side	24213
+7,23,Midtown,Gramercy	18729
+7,23,Midtown,Upper West Side	16196
+7,23,Upper East Side,Midtown	15981
+7,23,Gramercy,Midtown	15968
+7,23,Gramercy,East Village	15876
+7,23,Upper West Side,Upper East Side	15865
+7,23,Midtown,Chelsea	13555
+7,23,Upper West Side,Midtown	13288
+7,23,Chelsea,Midtown	12890
+7,3,East Village,Gramercy	10530
+7,3,Lower East Side,Gramercy	8483
+7,3,Lower East Side,East Village	6992
+7,3,Chelsea,Midtown	6884
+7,3,East Village,Upper East Side	6660
+7,3,Midtown,Upper East Side	6605
+7,3,East Village,Midtown	6494
+7,3,Chelsea,Gramercy	5668
+7,3,Greenwich Village,Gramercy	5556
+7,3,Lower East Side,Midtown	5383
+7,4,East Village,Gramercy	4441
+7,4,Midtown,Upper East Side	4309
+7,4,Chelsea,Midtown	4196
+7,4,Chelsea,Gramercy	3484
+7,4,Midtown,Upper West Side	3382
+7,4,Lower East Side,East Village	3302
+7,4,East Village,Upper East Side	3112
+7,4,Midtown,Astoria-Long Island City	3105
+7,4,Lower East Side,Gramercy	3028
+7,4,Midtown,Gramercy	2946
+7,5,Garment District,Midtown	2171
+7,5,Midtown,Garment District	2035
+7,5,Upper East Side,Midtown	1739
+7,5,Midtown,Upper East Side	1708
+7,5,Clinton,Midtown	1514
+7,5,Upper East Side,Garment District	1455
+7,5,Chelsea,Midtown	1441
+7,5,Gramercy,Midtown	1361
+7,5,East Village,Gramercy	1298
+7,5,Gramercy,Upper East Side	1296
+7,6,Garment District,Midtown	5474
+7,6,Midtown,Garment District	3852
+7,6,Upper East Side,Garment District	3815
+7,6,Upper East Side,Midtown	3634
+7,6,Midtown,Upper East Side	2758
+7,6,Gramercy,Garment District	2741
+7,6,Upper West Side,Midtown	2419
+7,6,Upper West Side,Upper East Side	2384
+7,6,Clinton,Midtown	1977
+7,6,Midtown,Clinton	1855
+7,7,Upper East Side,Midtown	7745
+7,7,Upper East Side,Garment District	6385
+7,7,Midtown,Garment District	6260
+7,7,Garment District,Midtown	5756
+7,7,Upper West Side,Midtown	4915
+7,7,Gramercy,Garment District	4836
+7,7,Midtown,Upper East Side	4808
+7,7,Upper West Side,Upper East Side	4722
+7,7,Upper East Side,Upper West Side	3486
+7,7,Midtown,Clinton	3422
+7,8,Upper East Side,Midtown	15779
+7,8,Upper West Side,Midtown	9532
+7,8,Upper East Side,Garment District	8706
+7,8,Upper West Side,Upper East Side	8379
+7,8,Midtown,Garment District	8346
+7,8,Midtown,Upper East Side	7660
+7,8,Garment District,Midtown	7385
+7,8,Upper East Side,Upper West Side	7056
+7,8,Gramercy,Garment District	6534
+7,8,Gramercy,Midtown	6302
+7,9,Upper East Side,Midtown	23408
+7,9,Midtown,Upper East Side	14947
+7,9,Upper West Side,Midtown	14338
+7,9,Upper West Side,Upper East Side	13270
+7,9,Midtown,Garment District	11835
+7,9,Upper East Side,Upper West Side	11057
+7,9,Upper East Side,Garment District	10548
+7,9,Garment District,Midtown	10058
+7,9,Gramercy,Midtown	9813
+7,9,Gramercy,Garment District	8783

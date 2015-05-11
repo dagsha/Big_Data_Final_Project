@@ -1,0 +1,3360 @@
+1,0,Fort Green,Williamsburg	1340
+1,0,Fort Green,Bedford-Stuyvesant	1115
+1,0,Fort Green,Park Slope	781
+1,0,Fort Green,Lower East Side	693
+1,0,Fort Green,East Village	622
+1,0,Fort Green,Carroll Gardens	440
+1,0,Fort Green,Bushwick	382
+1,0,Fort Green,Downtown	375
+1,0,Fort Green,Boerum Hill	348
+1,0,Fort Green,Chelsea	346
+1,0,UNKNOWN,Fort Green	3407
+1,0,Williamsburg,Fort Green	2262
+1,0,Lower East Side,Fort Green	1678
+1,0,East Village,Fort Green	1616
+1,0,Park Slope,Fort Green	1090
+1,0,Greenwich Village,Fort Green	1082
+1,0,Gramercy,Fort Green	986
+1,0,Midtown,Fort Green	892
+1,0,Chelsea,Fort Green	881
+1,0,Boerum Hill,Fort Green	840
+1,1,Fort Green,Bedford-Stuyvesant	1267
+1,1,Fort Green,Williamsburg	1231
+1,1,Fort Green,Park Slope	691
+1,1,Fort Green,Lower East Side	541
+1,1,Fort Green,East Village	510
+1,1,Fort Green,Carroll Gardens	398
+1,1,Fort Green,Bushwick	393
+1,1,Fort Green,Downtown	331
+1,1,Fort Green,Boerum Hill	289
+1,1,Fort Green,Gramercy	279
+1,1,UNKNOWN,Fort Green	3549
+1,1,Williamsburg,Fort Green	2689
+1,1,East Village,Fort Green	2056
+1,1,Lower East Side,Fort Green	2042
+1,1,Greenwich Village,Fort Green	1267
+1,1,Chelsea,Fort Green	1095
+1,1,Gramercy,Fort Green	1068
+1,1,Park Slope,Fort Green	1057
+1,1,Midtown,Fort Green	1048
+1,1,Boerum Hill,Fort Green	854
+1,10,Fort Green,Williamsburg	115
+1,10,Fort Green,Downtown	108
+1,10,Fort Green,Midtown	86
+1,10,Fort Green,Park Slope	77
+1,10,Fort Green,Greenwich Village	73
+1,10,Fort Green,East Village	67
+1,10,Fort Green,Lower East Side	66
+1,10,Fort Green,Chelsea	61
+1,10,Fort Green,Bedford-Stuyvesant	59
+1,10,Fort Green,Carroll Gardens	57
+1,10,UNKNOWN,Fort Green	805
+1,10,Downtown,Fort Green	197
+1,10,Midtown,Fort Green	164
+1,10,East Village,Fort Green	144
+1,10,Gramercy,Fort Green	128
+1,10,Financial District,Fort Green	127
+1,10,Chelsea,Fort Green	112
+1,10,Upper East Side,Fort Green	109
+1,10,Boerum Hill,Fort Green	102
+1,10,Carroll Gardens,Fort Green	101
+1,11,Fort Green,Williamsburg	170
+1,11,Fort Green,Downtown	147
+1,11,Fort Green,Park Slope	120
+1,11,Fort Green,Lower East Side	89
+1,11,Fort Green,Bedford-Stuyvesant	72
+1,11,Fort Green,Greenwich Village	71
+1,11,Fort Green,East Village	70
+1,11,Fort Green,Midtown	66
+1,11,Fort Green,Soho	61
+1,11,Fort Green,Boerum Hill	59
+1,11,UNKNOWN,Fort Green	1005
+1,11,Downtown,Fort Green	217
+1,11,Midtown,Fort Green	195
+1,11,East Village,Fort Green	164
+1,11,Williamsburg,Fort Green	161
+1,11,Gramercy,Fort Green	154
+1,11,Lower East Side,Fort Green	133
+1,11,Chelsea,Fort Green	128
+1,11,Boerum Hill,Fort Green	126
+1,11,Carroll Gardens,Fort Green	123
+1,12,Fort Green,Williamsburg	227
+1,12,Fort Green,Downtown	130
+1,12,Fort Green,Park Slope	121
+1,12,Fort Green,Lower East Side	100
+1,12,Fort Green,Bedford-Stuyvesant	82
+1,12,Fort Green,Carroll Gardens	81
+1,12,Fort Green,Midtown	73
+1,12,Fort Green,Greenwich Village	72
+1,12,Fort Green,Boerum Hill	69
+1,12,Fort Green,Chelsea	67
+1,12,UNKNOWN,Fort Green	1194
+1,12,Downtown,Fort Green	237
+1,12,Midtown,Fort Green	187
+1,12,Gramercy,Fort Green	184
+1,12,Williamsburg,Fort Green	179
+1,12,East Village,Fort Green	176
+1,12,Lower East Side,Fort Green	168
+1,12,Carroll Gardens,Fort Green	150
+1,12,Upper East Side,Fort Green	149
+1,12,Greenwich Village,Fort Green	148
+1,13,Fort Green,Williamsburg	229
+1,13,Fort Green,Park Slope	139
+1,13,Fort Green,Downtown	133
+1,13,Fort Green,Lower East Side	98
+1,13,Fort Green,Bedford-Stuyvesant	87
+1,13,Fort Green,Carroll Gardens	81
+1,13,Fort Green,East Village	75
+1,13,Fort Green,Midtown	74
+1,13,Fort Green,Greenwich Village	69
+1,13,Fort Green,Gramercy	67
+1,13,UNKNOWN,Fort Green	1445
+1,13,Downtown,Fort Green	231
+1,13,East Village,Fort Green	193
+1,13,Williamsburg,Fort Green	193
+1,13,Midtown,Fort Green	190
+1,13,Lower East Side,Fort Green	175
+1,13,Chelsea,Fort Green	165
+1,13,Gramercy,Fort Green	150
+1,13,Greenwich Village,Fort Green	145
+1,13,Carroll Gardens,Fort Green	143
+1,14,Fort Green,Williamsburg	261
+1,14,Fort Green,Park Slope	157
+1,14,Fort Green,Downtown	122
+1,14,Fort Green,Lower East Side	86
+1,14,Fort Green,Carroll Gardens	77
+1,14,Fort Green,Bedford-Stuyvesant	74
+1,14,Fort Green,Boerum Hill	61
+1,14,Fort Green,Chelsea	60
+1,14,Fort Green,East Village	57
+1,14,Fort Green,Midtown	55
+1,14,UNKNOWN,Fort Green	1602
+1,14,Williamsburg,Fort Green	268
+1,14,Downtown,Fort Green	221
+1,14,Midtown,Fort Green	178
+1,14,Chelsea,Fort Green	174
+1,14,Lower East Side,Fort Green	172
+1,14,Boerum Hill,Fort Green	168
+1,14,Gramercy,Fort Green	167
+1,14,Greenwich Village,Fort Green	164
+1,14,East Village,Fort Green	144
+1,15,Fort Green,Williamsburg	214
+1,15,Fort Green,Downtown	159
+1,15,Fort Green,Park Slope	140
+1,15,Fort Green,Lower East Side	100
+1,15,Fort Green,Bedford-Stuyvesant	94
+1,15,Fort Green,Gramercy	74
+1,15,Fort Green,Boerum Hill	73
+1,15,Fort Green,East Village	69
+1,15,Fort Green,Carroll Gardens	66
+1,15,Fort Green,Chelsea	55
+1,15,UNKNOWN,Fort Green	1706
+1,15,Downtown,Fort Green	240
+1,15,Chelsea,Fort Green	195
+1,15,Williamsburg,Fort Green	195
+1,15,Midtown,Fort Green	191
+1,15,Gramercy,Fort Green	181
+1,15,Greenwich Village,Fort Green	179
+1,15,Lower East Side,Fort Green	178
+1,15,Garment District,Fort Green	165
+1,15,East Village,Fort Green	161
+1,16,Fort Green,Williamsburg	246
+1,16,Fort Green,Park Slope	134
+1,16,Fort Green,Downtown	121
+1,16,Fort Green,Bedford-Stuyvesant	103
+1,16,Fort Green,Lower East Side	94
+1,16,Fort Green,East Village	79
+1,16,Fort Green,Gramercy	70
+1,16,Fort Green,Carroll Gardens	69
+1,16,Fort Green,Boerum Hill	58
+1,16,Fort Green,Midtown	57
+1,16,UNKNOWN,Fort Green	1725
+1,16,Downtown,Fort Green	246
+1,16,Williamsburg,Fort Green	199
+1,16,Chelsea,Fort Green	188
+1,16,Gramercy,Fort Green	184
+1,16,Midtown,Fort Green	181
+1,16,East Village,Fort Green	173
+1,16,Carroll Gardens,Fort Green	171
+1,16,Garment District,Fort Green	171
+1,16,Boerum Hill,Fort Green	161
+1,17,Fort Green,Williamsburg	267
+1,17,Fort Green,Park Slope	179
+1,17,Fort Green,Bedford-Stuyvesant	154
+1,17,Fort Green,Downtown	123
+1,17,Fort Green,Lower East Side	117
+1,17,Fort Green,Carroll Gardens	100
+1,17,Fort Green,East Village	95
+1,17,Fort Green,Boerum Hill	94
+1,17,Fort Green,Greenwich Village	66
+1,17,Fort Green,Gramercy	62
+1,17,UNKNOWN,Fort Green	1972
+1,17,Williamsburg,Fort Green	302
+1,17,Downtown,Fort Green	300
+1,17,Midtown,Fort Green	294
+1,17,Chelsea,Fort Green	268
+1,17,Carroll Gardens,Fort Green	244
+1,17,Lower East Side,Fort Green	238
+1,17,Gramercy,Fort Green	235
+1,17,Boerum Hill,Fort Green	232
+1,17,East Village,Fort Green	220
+1,18,Fort Green,Williamsburg	341
+1,18,Fort Green,Park Slope	192
+1,18,Fort Green,Bedford-Stuyvesant	181
+1,18,Fort Green,Downtown	158
+1,18,Fort Green,Lower East Side	134
+1,18,Fort Green,Carroll Gardens	125
+1,18,Fort Green,Boerum Hill	112
+1,18,Fort Green,East Village	103
+1,18,Fort Green,Greenwich Village	76
+1,18,Fort Green,Midtown	74
+1,18,UNKNOWN,Fort Green	2110
+1,18,Williamsburg,Fort Green	354
+1,18,Downtown,Fort Green	336
+1,18,Gramercy,Fort Green	335
+1,18,Midtown,Fort Green	325
+1,18,Greenwich Village,Fort Green	319
+1,18,Lower East Side,Fort Green	315
+1,18,East Village,Fort Green	312
+1,18,Chelsea,Fort Green	306
+1,18,Garment District,Fort Green	275
+1,19,Fort Green,Williamsburg	429
+1,19,Fort Green,Park Slope	232
+1,19,Fort Green,Bedford-Stuyvesant	223
+1,19,Fort Green,Downtown	158
+1,19,Fort Green,East Village	138
+1,19,Fort Green,Lower East Side	135
+1,19,Fort Green,Carroll Gardens	133
+1,19,Fort Green,Boerum Hill	109
+1,19,Fort Green,Greenwich Village	82
+1,19,Fort Green,Cobble Hill	67
+1,19,UNKNOWN,Fort Green	2101
+1,19,Williamsburg,Fort Green	445
+1,19,Greenwich Village,Fort Green	406
+1,19,Lower East Side,Fort Green	384
+1,19,Midtown,Fort Green	372
+1,19,East Village,Fort Green	371
+1,19,Downtown,Fort Green	356
+1,19,Gramercy,Fort Green	343
+1,19,Chelsea,Fort Green	321
+1,19,Garment District,Fort Green	310
+1,2,Fort Green,Bedford-Stuyvesant	1092
+1,2,Fort Green,Williamsburg	768
+1,2,Fort Green,Park Slope	473
+1,2,Fort Green,Bushwick	328
+1,2,Fort Green,East Village	326
+1,2,Fort Green,Lower East Side	267
+1,2,Fort Green,Carroll Gardens	221
+1,2,Fort Green,Upper East Side	183
+1,2,Fort Green,Boerum Hill	181
+1,2,Fort Green,Downtown	180
+1,2,UNKNOWN,Fort Green	3126
+1,2,Williamsburg,Fort Green	2448
+1,2,East Village,Fort Green	2298
+1,2,Lower East Side,Fort Green	2163
+1,2,Greenwich Village,Fort Green	1361
+1,2,Chelsea,Fort Green	1005
+1,2,Gramercy,Fort Green	873
+1,2,Midtown,Fort Green	827
+1,2,Park Slope,Fort Green	672
+1,2,West Village,Fort Green	617
+1,20,Fort Green,Williamsburg	396
+1,20,Fort Green,Bedford-Stuyvesant	278
+1,20,Fort Green,Park Slope	214
+1,20,Fort Green,Downtown	154
+1,20,Fort Green,Carroll Gardens	134
+1,20,Fort Green,East Village	125
+1,20,Fort Green,Lower East Side	125
+1,20,Fort Green,Boerum Hill	115
+1,20,Fort Green,Greenwich Village	89
+1,20,Fort Green,Gramercy	87
+1,20,UNKNOWN,Fort Green	2294
+1,20,East Village,Fort Green	479
+1,20,Williamsburg,Fort Green	472
+1,20,Greenwich Village,Fort Green	452
+1,20,Chelsea,Fort Green	420
+1,20,Gramercy,Fort Green	411
+1,20,Lower East Side,Fort Green	402
+1,20,Midtown,Fort Green	372
+1,20,Garment District,Fort Green	358
+1,20,Downtown,Fort Green	341
+1,21,Fort Green,Williamsburg	454
+1,21,Fort Green,Bedford-Stuyvesant	338
+1,21,Fort Green,Park Slope	248
+1,21,Fort Green,Downtown	159
+1,21,Fort Green,Lower East Side	152
+1,21,Fort Green,East Village	148
+1,21,Fort Green,Carroll Gardens	138
+1,21,Fort Green,Boerum Hill	107
+1,21,Fort Green,Gramercy	105
+1,21,Fort Green,Greenwich Village	100
+1,21,UNKNOWN,Fort Green	2740
+1,21,East Village,Fort Green	589
+1,21,Greenwich Village,Fort Green	560
+1,21,Williamsburg,Fort Green	550
+1,21,Lower East Side,Fort Green	536
+1,21,Midtown,Fort Green	467
+1,21,Gramercy,Fort Green	443
+1,21,Garment District,Fort Green	439
+1,21,Chelsea,Fort Green	431
+1,21,Downtown,Fort Green	348
+1,22,Fort Green,Williamsburg	473
+1,22,Fort Green,Bedford-Stuyvesant	446
+1,22,Fort Green,Park Slope	293
+1,22,Fort Green,Downtown	209
+1,22,Fort Green,East Village	173
+1,22,Fort Green,Lower East Side	167
+1,22,Fort Green,Carroll Gardens	146
+1,22,Fort Green,Gramercy	128
+1,22,Fort Green,Bushwick	127
+1,22,Fort Green,Midtown	122
+1,22,UNKNOWN,Fort Green	2931
+1,22,East Village,Fort Green	766
+1,22,Williamsburg,Fort Green	707
+1,22,Greenwich Village,Fort Green	680
+1,22,Lower East Side,Fort Green	678
+1,22,Chelsea,Fort Green	590
+1,22,Garment District,Fort Green	542
+1,22,Gramercy,Fort Green	516
+1,22,Midtown,Fort Green	481
+1,22,Downtown,Fort Green	383
+1,23,Fort Green,Bedford-Stuyvesant	566
+1,23,Fort Green,Williamsburg	447
+1,23,Fort Green,Park Slope	265
+1,23,Fort Green,East Village	197
+1,23,Fort Green,Lower East Side	175
+1,23,Fort Green,Bushwick	173
+1,23,Fort Green,Downtown	161
+1,23,Fort Green,Carroll Gardens	152
+1,23,Fort Green,Midtown	135
+1,23,Fort Green,Gramercy	124
+1,23,UNKNOWN,Fort Green	2983
+1,23,East Village,Fort Green	859
+1,23,Williamsburg,Fort Green	826
+1,23,Greenwich Village,Fort Green	804
+1,23,Lower East Side,Fort Green	781
+1,23,Chelsea,Fort Green	702
+1,23,Gramercy,Fort Green	566
+1,23,Garment District,Fort Green	507
+1,23,Midtown,Fort Green	504
+1,23,Soho,Fort Green	443
+1,3,Fort Green,Bedford-Stuyvesant	786
+1,3,Fort Green,Williamsburg	432
+1,3,Fort Green,Park Slope	270
+1,3,Fort Green,Bushwick	241
+1,3,Fort Green,East Village	175
+1,3,Fort Green,Lower East Side	153
+1,3,Fort Green,Carroll Gardens	130
+1,3,Fort Green,Boerum Hill	125
+1,3,Fort Green,Downtown	120
+1,3,Fort Green,Upper East Side	104
+1,3,UNKNOWN,Fort Green	2395
+1,3,Lower East Side,Fort Green	2042
+1,3,East Village,Fort Green	2028
+1,3,Williamsburg,Fort Green	1991
+1,3,Greenwich Village,Fort Green	1151
+1,3,Chelsea,Fort Green	905
+1,3,Gramercy,Fort Green	717
+1,3,Midtown,Fort Green	656
+1,3,West Village,Fort Green	628
+1,3,Park Slope,Fort Green	463
+1,4,Fort Green,Bedford-Stuyvesant	574
+1,4,Fort Green,Williamsburg	245
+1,4,Fort Green,Bushwick	145
+1,4,Fort Green,Park Slope	141
+1,4,Fort Green,East Village	90
+1,4,Fort Green,Lower East Side	83
+1,4,Fort Green,Downtown	58
+1,4,Fort Green,Boerum Hill	54
+1,4,Fort Green,Gramercy	51
+1,4,Fort Green,Upper West Side	50
+1,4,Lower East Side,Fort Green	1451
+1,4,UNKNOWN,Fort Green	1288
+1,4,East Village,Fort Green	1230
+1,4,Williamsburg,Fort Green	1160
+1,4,Greenwich Village,Fort Green	807
+1,4,Chelsea,Fort Green	579
+1,4,West Village,Fort Green	459
+1,4,Midtown,Fort Green	446
+1,4,Gramercy,Fort Green	442
+1,4,Soho,Fort Green	329
+1,5,Fort Green,Bedford-Stuyvesant	180
+1,5,Fort Green,Williamsburg	105
+1,5,Fort Green,Midtown	62
+1,5,Fort Green,Bushwick	44
+1,5,Fort Green,East Village	39
+1,5,Fort Green,Park Slope	38
+1,5,Fort Green,Lower East Side	37
+1,5,Fort Green,Downtown	35
+1,5,Fort Green,Chelsea	29
+1,5,Fort Green,Boerum Hill	25
+1,5,UNKNOWN,Fort Green	574
+1,5,Lower East Side,Fort Green	438
+1,5,East Village,Fort Green	424
+1,5,Greenwich Village,Fort Green	359
+1,5,Williamsburg,Fort Green	317
+1,5,Chelsea,Fort Green	215
+1,5,Garment District,Fort Green	182
+1,5,West Village,Fort Green	176
+1,5,Gramercy,Fort Green	174
+1,5,Midtown,Fort Green	166
+1,6,Fort Green,Downtown	63
+1,6,Fort Green,Williamsburg	62
+1,6,Fort Green,Garment District	57
+1,6,Fort Green,Bedford-Stuyvesant	55
+1,6,Fort Green,Midtown	42
+1,6,Fort Green,Chelsea	34
+1,6,Fort Green,Upper East Side	34
+1,6,Fort Green,Chinatown	26
+1,6,Fort Green,Bushwick	21
+1,6,Fort Green,Clinton	20
+1,6,UNKNOWN,Fort Green	502
+1,6,Lower East Side,Fort Green	206
+1,6,East Village,Fort Green	185
+1,6,Greenwich Village,Fort Green	159
+1,6,Williamsburg,Fort Green	128
+1,6,Garment District,Fort Green	108
+1,6,Chelsea,Fort Green	92
+1,6,Gramercy,Fort Green	89
+1,6,Tribeca,Fort Green	67
+1,6,Midtown,Fort Green	62
+1,7,Fort Green,Gramercy	47
+1,7,Fort Green,Upper East Side	42
+1,7,Fort Green,Midtown	41
+1,7,Fort Green,Garment District	38
+1,7,Fort Green,Williamsburg	31
+1,7,Fort Green,Bedford-Stuyvesant	30
+1,7,Fort Green,Downtown	30
+1,7,Fort Green,Lower East Side	26
+1,7,Fort Green,Chelsea	24
+1,7,Fort Green,East Village	22
+1,7,UNKNOWN,Fort Green	480
+1,7,East Village,Fort Green	90
+1,7,Greenwich Village,Fort Green	73
+1,7,Lower East Side,Fort Green	73
+1,7,Downtown,Fort Green	70
+1,7,Garment District,Fort Green	63
+1,7,Gramercy,Fort Green	63
+1,7,Clinton,Fort Green	57
+1,7,Chelsea,Fort Green	56
+1,7,Midtown,Fort Green	52
+1,8,Fort Green,Downtown	108
+1,8,Fort Green,Midtown	100
+1,8,Fort Green,Gramercy	52
+1,8,Fort Green,Williamsburg	44
+1,8,Fort Green,Garment District	42
+1,8,Fort Green,Upper East Side	41
+1,8,Fort Green,Chelsea	33
+1,8,Fort Green,Tribeca	33
+1,8,Fort Green,Bedford-Stuyvesant	30
+1,8,Fort Green,Greenwich Village	28
+1,8,UNKNOWN,Fort Green	478
+1,8,Downtown,Fort Green	80
+1,8,Gramercy,Fort Green	74
+1,8,Midtown,Fort Green	69
+1,8,East Village,Fort Green	67
+1,8,Lower East Side,Fort Green	67
+1,8,Chelsea,Fort Green	61
+1,8,Greenwich Village,Fort Green	55
+1,8,Williamsburg,Fort Green	48
+1,8,Carroll Gardens,Fort Green	45
+1,9,Fort Green,Downtown	129
+1,9,Fort Green,Midtown	73
+1,9,Fort Green,Gramercy	64
+1,9,Fort Green,Lower East Side	60
+1,9,Fort Green,Chelsea	58
+1,9,Fort Green,Williamsburg	53
+1,9,Fort Green,East Village	48
+1,9,Fort Green,Garment District	46
+1,9,Fort Green,Bedford-Stuyvesant	42
+1,9,Fort Green,Greenwich Village	39
+1,9,UNKNOWN,Fort Green	556
+1,9,Downtown,Fort Green	135
+1,9,Gramercy,Fort Green	113
+1,9,East Village,Fort Green	90
+1,9,Chelsea,Fort Green	86
+1,9,Greenwich Village,Fort Green	86
+1,9,Midtown,Fort Green	86
+1,9,Carroll Gardens,Fort Green	84
+1,9,Upper East Side,Fort Green	84
+1,9,Financial District,Fort Green	75
+2,0,Fort Green,Bedford-Stuyvesant	609
+2,0,Fort Green,Williamsburg	377
+2,0,Fort Green,Park Slope	181
+2,0,Fort Green,Bushwick	158
+2,0,Fort Green,East Village	134
+2,0,Fort Green,Lower East Side	119
+2,0,Fort Green,Downtown	94
+2,0,Fort Green,Midtown	83
+2,0,Fort Green,Chelsea	82
+2,0,Fort Green,Greenwich Village	81
+2,0,UNKNOWN,Fort Green	2295
+2,0,Williamsburg,Fort Green	817
+2,0,Greenwich Village,Fort Green	785
+2,0,East Village,Fort Green	767
+2,0,Lower East Side,Fort Green	762
+2,0,Chelsea,Fort Green	603
+2,0,Garment District,Fort Green	532
+2,0,Midtown,Fort Green	475
+2,0,Gramercy,Fort Green	389
+2,0,Soho,Fort Green	364
+2,1,Fort Green,Bedford-Stuyvesant	367
+2,1,Fort Green,Williamsburg	199
+2,1,Fort Green,Bushwick	101
+2,1,Fort Green,Park Slope	91
+2,1,Fort Green,Lower East Side	69
+2,1,Fort Green,East Village	65
+2,1,Fort Green,Downtown	59
+2,1,Fort Green,Greenwich Village	51
+2,1,Fort Green,Carroll Gardens	41
+2,1,Fort Green,Midtown	35
+2,1,UNKNOWN,Fort Green	1134
+2,1,Greenwich Village,Fort Green	568
+2,1,Lower East Side,Fort Green	562
+2,1,Williamsburg,Fort Green	544
+2,1,East Village,Fort Green	522
+2,1,Chelsea,Fort Green	390
+2,1,Garment District,Fort Green	336
+2,1,Gramercy,Fort Green	274
+2,1,Midtown,Fort Green	267
+2,1,Soho,Fort Green	252
+2,10,Fort Green,Williamsburg	58
+2,10,Fort Green,Downtown	46
+2,10,Fort Green,Gramercy	38
+2,10,Fort Green,Lower East Side	38
+2,10,Fort Green,Midtown	38
+2,10,Fort Green,Soho	36
+2,10,Fort Green,Chelsea	34
+2,10,Fort Green,Financial District	30
+2,10,Fort Green,Greenwich Village	29
+2,10,Fort Green,Tribeca	23
+2,10,UNKNOWN,Fort Green	659
+2,10,Gramercy,Fort Green	102
+2,10,Midtown,Fort Green	97
+2,10,Downtown,Fort Green	80
+2,10,Upper East Side,Fort Green	66
+2,10,Greenwich Village,Fort Green	65
+2,10,Chelsea,Fort Green	63
+2,10,Financial District,Fort Green	58
+2,10,Garment District,Fort Green	54
+2,10,Soho,Fort Green	46
+2,11,Fort Green,Downtown	59
+2,11,Fort Green,Williamsburg	53
+2,11,Fort Green,Greenwich Village	31
+2,11,Fort Green,Midtown	31
+2,11,Fort Green,Gramercy	26
+2,11,Fort Green,Soho	25
+2,11,Fort Green,Bedford-Stuyvesant	22
+2,11,Fort Green,Financial District	22
+2,11,Fort Green,Lower East Side	19
+2,11,Fort Green,Chelsea	17
+2,11,UNKNOWN,Fort Green	641
+2,11,Upper East Side,Fort Green	112
+2,11,Midtown,Fort Green	111
+2,11,Downtown,Fort Green	101
+2,11,Gramercy,Fort Green	100
+2,11,Chelsea,Fort Green	95
+2,11,Garment District,Fort Green	76
+2,11,Financial District,Fort Green	72
+2,11,East Village,Fort Green	65
+2,11,Soho,Fort Green	64
+2,12,Fort Green,Williamsburg	61
+2,12,Fort Green,Downtown	59
+2,12,Fort Green,Bedford-Stuyvesant	32
+2,12,Fort Green,Greenwich Village	29
+2,12,Fort Green,Soho	24
+2,12,Fort Green,Boerum Hill	22
+2,12,Fort Green,Park Slope	22
+2,12,Fort Green,Chelsea	20
+2,12,Fort Green,Midtown	20
+2,12,Fort Green,East Village	19
+2,12,UNKNOWN,Fort Green	732
+2,12,Midtown,Fort Green	119
+2,12,Gramercy,Fort Green	115
+2,12,Chelsea,Fort Green	104
+2,12,Financial District,Fort Green	97
+2,12,Downtown,Fort Green	94
+2,12,Soho,Fort Green	85
+2,12,Garment District,Fort Green	84
+2,12,Upper East Side,Fort Green	84
+2,12,Greenwich Village,Fort Green	72
+2,13,Fort Green,Downtown	74
+2,13,Fort Green,Williamsburg	57
+2,13,Fort Green,Bedford-Stuyvesant	31
+2,13,Fort Green,Gramercy	31
+2,13,Fort Green,Park Slope	31
+2,13,Fort Green,East Village	28
+2,13,Fort Green,Midtown	27
+2,13,Fort Green,Chelsea	25
+2,13,Fort Green,Lower East Side	24
+2,13,Fort Green,Upper East Side	21
+2,13,UNKNOWN,Fort Green	905
+2,13,Midtown,Fort Green	137
+2,13,Downtown,Fort Green	128
+2,13,Chelsea,Fort Green	121
+2,13,Gramercy,Fort Green	120
+2,13,Financial District,Fort Green	113
+2,13,Garment District,Fort Green	97
+2,13,Greenwich Village,Fort Green	89
+2,13,Soho,Fort Green	89
+2,13,Upper East Side,Fort Green	79
+2,14,Fort Green,Williamsburg	77
+2,14,Fort Green,Downtown	62
+2,14,Fort Green,Bedford-Stuyvesant	40
+2,14,Fort Green,Midtown	37
+2,14,Fort Green,Park Slope	37
+2,14,Fort Green,Gramercy	28
+2,14,Fort Green,Greenwich Village	24
+2,14,Fort Green,Financial District	23
+2,14,Fort Green,Lower East Side	22
+2,14,Fort Green,Chelsea	20
+2,14,UNKNOWN,Fort Green	1063
+2,14,Chelsea,Fort Green	149
+2,14,Gramercy,Fort Green	149
+2,14,Midtown,Fort Green	149
+2,14,Financial District,Fort Green	144
+2,14,Garment District,Fort Green	123
+2,14,Greenwich Village,Fort Green	119
+2,14,Downtown,Fort Green	107
+2,14,Upper East Side,Fort Green	106
+2,14,Soho,Fort Green	83
+2,15,Fort Green,Williamsburg	60
+2,15,Fort Green,Downtown	58
+2,15,Fort Green,Park Slope	40
+2,15,Fort Green,Bedford-Stuyvesant	34
+2,15,Fort Green,Gramercy	30
+2,15,Fort Green,Garment District	24
+2,15,Fort Green,Chelsea	23
+2,15,Fort Green,Boerum Hill	21
+2,15,Fort Green,Carroll Gardens	21
+2,15,Fort Green,Greenwich Village	21
+2,15,UNKNOWN,Fort Green	1170
+2,15,Gramercy,Fort Green	168
+2,15,Soho,Fort Green	149
+2,15,Midtown,Fort Green	133
+2,15,Chelsea,Fort Green	132
+2,15,Greenwich Village,Fort Green	123
+2,15,Downtown,Fort Green	112
+2,15,Garment District,Fort Green	112
+2,15,Financial District,Fort Green	106
+2,15,Lower East Side,Fort Green	97
+2,16,Fort Green,Williamsburg	86
+2,16,Fort Green,Downtown	45
+2,16,Fort Green,Bedford-Stuyvesant	36
+2,16,Fort Green,Park Slope	36
+2,16,Fort Green,Gramercy	29
+2,16,Fort Green,Lower East Side	28
+2,16,Fort Green,East Village	21
+2,16,Fort Green,Greenwich Village	21
+2,16,Fort Green,Midtown	21
+2,16,Fort Green,Financial District	18
+2,16,UNKNOWN,Fort Green	1175
+2,16,Chelsea,Fort Green	137
+2,16,Downtown,Fort Green	125
+2,16,Gramercy,Fort Green	125
+2,16,Midtown,Fort Green	120
+2,16,Greenwich Village,Fort Green	101
+2,16,Soho,Fort Green	93
+2,16,Garment District,Fort Green	90
+2,16,Upper East Side,Fort Green	89
+2,16,Financial District,Fort Green	81
+2,17,Fort Green,Williamsburg	103
+2,17,Fort Green,Downtown	76
+2,17,Fort Green,Bedford-Stuyvesant	64
+2,17,Fort Green,Gramercy	42
+2,17,Fort Green,Greenwich Village	40
+2,17,Fort Green,Park Slope	40
+2,17,Fort Green,Lower East Side	38
+2,17,Fort Green,Chelsea	35
+2,17,Fort Green,Midtown	35
+2,17,Fort Green,East Village	29
+2,17,UNKNOWN,Fort Green	1396
+2,17,Chelsea,Fort Green	237
+2,17,Gramercy,Fort Green	233
+2,17,Downtown,Fort Green	222
+2,17,Midtown,Fort Green	222
+2,17,Greenwich Village,Fort Green	215
+2,17,Soho,Fort Green	177
+2,17,Financial District,Fort Green	156
+2,17,Lower East Side,Fort Green	133
+2,17,Garment District,Fort Green	125
+2,18,Fort Green,Williamsburg	160
+2,18,Fort Green,Park Slope	113
+2,18,Fort Green,Downtown	95
+2,18,Fort Green,Bedford-Stuyvesant	87
+2,18,Fort Green,Lower East Side	67
+2,18,Fort Green,Carroll Gardens	49
+2,18,Fort Green,Boerum Hill	48
+2,18,Fort Green,East Village	47
+2,18,Fort Green,Greenwich Village	45
+2,18,Fort Green,Midtown	45
+2,18,UNKNOWN,Fort Green	1524
+2,18,Midtown,Fort Green	433
+2,18,Chelsea,Fort Green	406
+2,18,Gramercy,Fort Green	399
+2,18,Downtown,Fort Green	380
+2,18,Greenwich Village,Fort Green	350
+2,18,Soho,Fort Green	349
+2,18,Financial District,Fort Green	283
+2,18,Williamsburg,Fort Green	235
+2,18,Garment District,Fort Green	214
+2,19,Fort Green,Williamsburg	206
+2,19,Fort Green,Bedford-Stuyvesant	155
+2,19,Fort Green,Park Slope	151
+2,19,Fort Green,Downtown	94
+2,19,Fort Green,Boerum Hill	73
+2,19,Fort Green,East Village	73
+2,19,Fort Green,Lower East Side	73
+2,19,Fort Green,Carroll Gardens	72
+2,19,Fort Green,Greenwich Village	48
+2,19,Fort Green,Chelsea	42
+2,19,UNKNOWN,Fort Green	1626
+2,19,Midtown,Fort Green	696
+2,19,Gramercy,Fort Green	645
+2,19,Chelsea,Fort Green	620
+2,19,Soho,Fort Green	619
+2,19,Greenwich Village,Fort Green	563
+2,19,Downtown,Fort Green	440
+2,19,Financial District,Fort Green	368
+2,19,Williamsburg,Fort Green	335
+2,19,East Village,Fort Green	308
+2,2,Fort Green,Bedford-Stuyvesant	237
+2,2,Fort Green,Williamsburg	88
+2,2,Fort Green,Bushwick	51
+2,2,Fort Green,Park Slope	42
+2,2,Fort Green,Lower East Side	37
+2,2,Fort Green,Downtown	30
+2,2,Fort Green,Boerum Hill	27
+2,2,Fort Green,Midtown	26
+2,2,Fort Green,Greenwich Village	24
+2,2,Fort Green,East Village	23
+2,2,UNKNOWN,Fort Green	558
+2,2,East Village,Fort Green	446
+2,2,Greenwich Village,Fort Green	402
+2,2,Lower East Side,Fort Green	369
+2,2,Williamsburg,Fort Green	328
+2,2,Chelsea,Fort Green	257
+2,2,Soho,Fort Green	234
+2,2,West Village,Fort Green	208
+2,2,Midtown,Fort Green	196
+2,2,Garment District,Fort Green	194
+2,20,Fort Green,Williamsburg	292
+2,20,Fort Green,Bedford-Stuyvesant	225
+2,20,Fort Green,Park Slope	144
+2,20,Fort Green,Downtown	121
+2,20,Fort Green,Lower East Side	93
+2,20,Fort Green,East Village	85
+2,20,Fort Green,Boerum Hill	82
+2,20,Fort Green,Carroll Gardens	75
+2,20,Fort Green,Greenwich Village	54
+2,20,Fort Green,Gramercy	51
+2,20,UNKNOWN,Fort Green	1972
+2,20,Midtown,Fort Green	1161
+2,20,Gramercy,Fort Green	955
+2,20,Chelsea,Fort Green	819
+2,20,Greenwich Village,Fort Green	766
+2,20,Soho,Fort Green	749
+2,20,East Village,Fort Green	489
+2,20,Financial District,Fort Green	444
+2,20,Downtown,Fort Green	420
+2,20,Garment District,Fort Green	411
+2,21,Fort Green,Williamsburg	347
+2,21,Fort Green,Bedford-Stuyvesant	316
+2,21,Fort Green,Park Slope	204
+2,21,Fort Green,Downtown	166
+2,21,Fort Green,Lower East Side	133
+2,21,Fort Green,East Village	130
+2,21,Fort Green,Carroll Gardens	105
+2,21,Fort Green,Boerum Hill	83
+2,21,Fort Green,Gramercy	78
+2,21,Fort Green,Bushwick	74
+2,21,UNKNOWN,Fort Green	2315
+2,21,Midtown,Fort Green	1475
+2,21,Greenwich Village,Fort Green	1080
+2,21,Gramercy,Fort Green	1025
+2,21,Chelsea,Fort Green	941
+2,21,Soho,Fort Green	825
+2,21,East Village,Fort Green	778
+2,21,Lower East Side,Fort Green	649
+2,21,Williamsburg,Fort Green	527
+2,21,Garment District,Fort Green	525
+2,22,Fort Green,Bedford-Stuyvesant	436
+2,22,Fort Green,Williamsburg	430
+2,22,Fort Green,Park Slope	282
+2,22,Fort Green,Downtown	166
+2,22,Fort Green,East Village	150
+2,22,Fort Green,Lower East Side	133
+2,22,Fort Green,Midtown	128
+2,22,Fort Green,Carroll Gardens	120
+2,22,Fort Green,Bushwick	101
+2,22,Fort Green,Greenwich Village	101
+2,22,UNKNOWN,Fort Green	2413
+2,22,Midtown,Fort Green	1331
+2,22,Greenwich Village,Fort Green	1205
+2,22,Chelsea,Fort Green	1036
+2,22,Gramercy,Fort Green	1009
+2,22,East Village,Fort Green	999
+2,22,Lower East Side,Fort Green	847
+2,22,Soho,Fort Green	750
+2,22,Williamsburg,Fort Green	630
+2,22,Garment District,Fort Green	527
+2,23,Fort Green,Bedford-Stuyvesant	519
+2,23,Fort Green,Williamsburg	410
+2,23,Fort Green,Park Slope	226
+2,23,Fort Green,East Village	141
+2,23,Fort Green,Lower East Side	130
+2,23,Fort Green,Downtown	125
+2,23,Fort Green,Bushwick	123
+2,23,Fort Green,Carroll Gardens	121
+2,23,Fort Green,Boerum Hill	110
+2,23,Fort Green,Midtown	99
+2,23,UNKNOWN,Fort Green	2730
+2,23,Greenwich Village,Fort Green	1123
+2,23,Midtown,Fort Green	1116
+2,23,East Village,Fort Green	1063
+2,23,Chelsea,Fort Green	955
+2,23,Lower East Side,Fort Green	933
+2,23,Gramercy,Fort Green	907
+2,23,Williamsburg,Fort Green	775
+2,23,Soho,Fort Green	725
+2,23,Garment District,Fort Green	481
+2,3,Fort Green,Bedford-Stuyvesant	130
+2,3,Fort Green,Williamsburg	50
+2,3,Fort Green,Bushwick	32
+2,3,Fort Green,Midtown	32
+2,3,Fort Green,Lower East Side	18
+2,3,Fort Green,Park Slope	17
+2,3,Fort Green,East Village	16
+2,3,Fort Green,Downtown	11
+2,3,Fort Green,Boerum Hill	10
+2,3,Fort Green,Financial District	9
+2,3,UNKNOWN,Fort Green	324
+2,3,East Village,Fort Green	319
+2,3,Greenwich Village,Fort Green	314
+2,3,Williamsburg,Fort Green	256
+2,3,Lower East Side,Fort Green	254
+2,3,West Village,Fort Green	191
+2,3,Chelsea,Fort Green	185
+2,3,Soho,Fort Green	181
+2,3,Midtown,Fort Green	120
+2,3,Gramercy,Fort Green	115
+2,4,Fort Green,Bedford-Stuyvesant	95
+2,4,Fort Green,Williamsburg	34
+2,4,Fort Green,Chelsea	31
+2,4,Fort Green,Midtown	28
+2,4,Fort Green,Garment District	18
+2,4,Fort Green,Bushwick	16
+2,4,Fort Green,Downtown	14
+2,4,Fort Green,Murray Hill	14
+2,4,Fort Green,Park Slope	13
+2,4,Fort Green,Gramercy	11
+2,4,Greenwich Village,Fort Green	283
+2,4,UNKNOWN,Fort Green	257
+2,4,East Village,Fort Green	191
+2,4,Soho,Fort Green	176
+2,4,Williamsburg,Fort Green	169
+2,4,Lower East Side,Fort Green	161
+2,4,Chelsea,Fort Green	111
+2,4,West Village,Fort Green	104
+2,4,Midtown,Fort Green	101
+2,4,Clinton,Fort Green	80
+2,5,Fort Green,Midtown	96
+2,5,Fort Green,Bedford-Stuyvesant	40
+2,5,Fort Green,Garment District	40
+2,5,Fort Green,Williamsburg	27
+2,5,Fort Green,Chelsea	24
+2,5,Fort Green,Greenwich Village	18
+2,5,Fort Green,Gramercy	17
+2,5,Fort Green,Murray Hill	15
+2,5,Fort Green,Upper East Side	15
+2,5,Fort Green,Bushwick	14
+2,5,UNKNOWN,Fort Green	522
+2,5,Greenwich Village,Fort Green	105
+2,5,East Village,Fort Green	83
+2,5,Chelsea,Fort Green	67
+2,5,Soho,Fort Green	58
+2,5,Midtown,Fort Green	55
+2,5,Lower East Side,Fort Green	53
+2,5,Garment District,Fort Green	52
+2,5,Gramercy,Fort Green	40
+2,5,Upper East Side,Fort Green	38
+2,6,Fort Green,Midtown	137
+2,6,Fort Green,Gramercy	72
+2,6,Fort Green,Garment District	63
+2,6,Fort Green,Downtown	53
+2,6,Fort Green,Upper East Side	49
+2,6,Fort Green,Williamsburg	45
+2,6,Fort Green,Bedford-Stuyvesant	35
+2,6,Fort Green,Financial District	33
+2,6,Fort Green,Murray Hill	26
+2,6,Fort Green,Tribeca	24
+2,6,UNKNOWN,Fort Green	598
+2,6,East Village,Fort Green	64
+2,6,Lower East Side,Fort Green	57
+2,6,Downtown,Fort Green	55
+2,6,Chelsea,Fort Green	50
+2,6,Garment District,Fort Green	50
+2,6,Greenwich Village,Fort Green	50
+2,6,Gramercy,Fort Green	41
+2,6,Carroll Gardens,Fort Green	35
+2,6,Soho,Fort Green	35
+2,7,Fort Green,Midtown	103
+2,7,Fort Green,Downtown	89
+2,7,Fort Green,Gramercy	78
+2,7,Fort Green,Williamsburg	67
+2,7,Fort Green,Chelsea	55
+2,7,Fort Green,Upper East Side	40
+2,7,Fort Green,Financial District	39
+2,7,Fort Green,Soho	37
+2,7,Fort Green,Murray Hill	36
+2,7,Fort Green,Bedford-Stuyvesant	32
+2,7,UNKNOWN,Fort Green	646
+2,7,Tribeca,Fort Green	55
+2,7,Carroll Gardens,Fort Green	53
+2,7,Downtown,Fort Green	46
+2,7,Greenwich Village,Fort Green	45
+2,7,Garment District,Fort Green	40
+2,7,Gramercy,Fort Green	39
+2,7,Soho,Fort Green	39
+2,7,East Village,Fort Green	38
+2,7,Chelsea,Fort Green	36
+2,8,Fort Green,Downtown	129
+2,8,Fort Green,Midtown	110
+2,8,Fort Green,Chelsea	80
+2,8,Fort Green,Financial District	61
+2,8,Fort Green,Gramercy	59
+2,8,Fort Green,Soho	58
+2,8,Fort Green,Williamsburg	56
+2,8,Fort Green,Greenwich Village	50
+2,8,Fort Green,Upper East Side	40
+2,8,Fort Green,Murray Hill	38
+2,8,UNKNOWN,Fort Green	684
+2,8,Downtown,Fort Green	67
+2,8,Financial District,Fort Green	65
+2,8,Gramercy,Fort Green	61
+2,8,Chelsea,Fort Green	58
+2,8,Midtown,Fort Green	54
+2,8,Upper East Side,Fort Green	49
+2,8,Tribeca,Fort Green	44
+2,8,Boerum Hill,Fort Green	39
+2,8,East Village,Fort Green	38
+2,9,Fort Green,Downtown	85
+2,9,Fort Green,Williamsburg	70
+2,9,Fort Green,Chelsea	69
+2,9,Fort Green,Midtown	67
+2,9,Fort Green,Soho	66
+2,9,Fort Green,Gramercy	61
+2,9,Fort Green,Greenwich Village	56
+2,9,Fort Green,Lower East Side	50
+2,9,Fort Green,Tribeca	47
+2,9,Fort Green,Upper East Side	37
+2,9,UNKNOWN,Fort Green	567
+2,9,Gramercy,Fort Green	97
+2,9,Midtown,Fort Green	78
+2,9,Chelsea,Fort Green	72
+2,9,Financial District,Fort Green	67
+2,9,Downtown,Fort Green	65
+2,9,Tribeca,Fort Green	60
+2,9,Garment District,Fort Green	50
+2,9,Soho,Fort Green	47
+2,9,East Village,Fort Green	45
+3,0,Fort Green,Bedford-Stuyvesant	555
+3,0,Fort Green,Williamsburg	322
+3,0,Fort Green,Park Slope	189
+3,0,Fort Green,Lower East Side	122
+3,0,Fort Green,Bushwick	117
+3,0,Fort Green,Downtown	109
+3,0,Fort Green,East Village	105
+3,0,Fort Green,Carroll Gardens	100
+3,0,Fort Green,Boerum Hill	84
+3,0,Fort Green,Greenwich Village	67
+3,0,UNKNOWN,Fort Green	2041
+3,0,East Village,Fort Green	919
+3,0,Greenwich Village,Fort Green	889
+3,0,Lower East Side,Fort Green	855
+3,0,Chelsea,Fort Green	742
+3,0,Williamsburg,Fort Green	728
+3,0,Midtown,Fort Green	685
+3,0,Gramercy,Fort Green	602
+3,0,Soho,Fort Green	511
+3,0,Garment District,Fort Green	422
+3,1,Fort Green,Bedford-Stuyvesant	366
+3,1,Fort Green,Williamsburg	226
+3,1,Fort Green,Park Slope	128
+3,1,Fort Green,East Village	85
+3,1,Fort Green,Bushwick	83
+3,1,Fort Green,Lower East Side	71
+3,1,Fort Green,Carroll Gardens	59
+3,1,Fort Green,Boerum Hill	46
+3,1,Fort Green,Downtown	38
+3,1,Fort Green,Gramercy	38
+3,1,UNKNOWN,Fort Green	1040
+3,1,Greenwich Village,Fort Green	639
+3,1,East Village,Fort Green	633
+3,1,Lower East Side,Fort Green	605
+3,1,Williamsburg,Fort Green	508
+3,1,Midtown,Fort Green	489
+3,1,Chelsea,Fort Green	456
+3,1,Gramercy,Fort Green	370
+3,1,Soho,Fort Green	334
+3,1,Downtown,Fort Green	265
+3,10,Fort Green,Williamsburg	54
+3,10,Fort Green,Gramercy	42
+3,10,Fort Green,Downtown	39
+3,10,Fort Green,Midtown	37
+3,10,Fort Green,Lower East Side	36
+3,10,Fort Green,Soho	35
+3,10,Fort Green,Greenwich Village	32
+3,10,Fort Green,Financial District	31
+3,10,Fort Green,Chelsea	27
+3,10,Fort Green,Tribeca	24
+3,10,UNKNOWN,Fort Green	528
+3,10,Gramercy,Fort Green	110
+3,10,Chelsea,Fort Green	76
+3,10,Midtown,Fort Green	72
+3,10,Financial District,Fort Green	70
+3,10,Lower East Side,Fort Green	61
+3,10,Upper East Side,Fort Green	58
+3,10,Downtown,Fort Green	55
+3,10,Greenwich Village,Fort Green	55
+3,10,Tribeca,Fort Green	46
+3,11,Fort Green,Williamsburg	58
+3,11,Fort Green,Downtown	52
+3,11,Fort Green,Gramercy	39
+3,11,Fort Green,Chelsea	35
+3,11,Fort Green,Midtown	31
+3,11,Fort Green,Greenwich Village	30
+3,11,Fort Green,Park Slope	25
+3,11,Fort Green,Soho	23
+3,11,Fort Green,Financial District	19
+3,11,Fort Green,Lower East Side	18
+3,11,UNKNOWN,Fort Green	534
+3,11,Gramercy,Fort Green	115
+3,11,Midtown,Fort Green	108
+3,11,Chelsea,Fort Green	81
+3,11,Downtown,Fort Green	80
+3,11,Greenwich Village,Fort Green	77
+3,11,Financial District,Fort Green	74
+3,11,Upper East Side,Fort Green	66
+3,11,Garment District,Fort Green	63
+3,11,Tribeca,Fort Green	51
+3,12,Fort Green,Williamsburg	64
+3,12,Fort Green,Downtown	49
+3,12,Fort Green,Bedford-Stuyvesant	37
+3,12,Fort Green,Midtown	36
+3,12,Fort Green,Park Slope	36
+3,12,Fort Green,Gramercy	30
+3,12,Fort Green,Greenwich Village	28
+3,12,Fort Green,Chelsea	23
+3,12,Fort Green,Financial District	22
+3,12,Fort Green,Lower East Side	22
+3,12,UNKNOWN,Fort Green	538
+3,12,Gramercy,Fort Green	129
+3,12,Midtown,Fort Green	108
+3,12,Chelsea,Fort Green	105
+3,12,Downtown,Fort Green	101
+3,12,Financial District,Fort Green	87
+3,12,Greenwich Village,Fort Green	77
+3,12,Soho,Fort Green	72
+3,12,Upper East Side,Fort Green	69
+3,12,Garment District,Fort Green	68
+3,13,Fort Green,Downtown	78
+3,13,Fort Green,Williamsburg	54
+3,13,Fort Green,Park Slope	35
+3,13,Fort Green,Midtown	32
+3,13,Fort Green,Gramercy	27
+3,13,Fort Green,Greenwich Village	24
+3,13,Fort Green,Bedford-Stuyvesant	21
+3,13,Fort Green,East Village	21
+3,13,Fort Green,Soho	21
+3,13,Fort Green,Lower East Side	18
+3,13,UNKNOWN,Fort Green	716
+3,13,Gramercy,Fort Green	131
+3,13,Midtown,Fort Green	108
+3,13,Upper East Side,Fort Green	108
+3,13,Chelsea,Fort Green	107
+3,13,Downtown,Fort Green	94
+3,13,Greenwich Village,Fort Green	87
+3,13,Lower East Side,Fort Green	86
+3,13,Garment District,Fort Green	81
+3,13,Financial District,Fort Green	76
+3,14,Fort Green,Williamsburg	75
+3,14,Fort Green,Downtown	49
+3,14,Fort Green,Bedford-Stuyvesant	32
+3,14,Fort Green,Gramercy	27
+3,14,Fort Green,Park Slope	27
+3,14,Fort Green,Greenwich Village	26
+3,14,Fort Green,Midtown	26
+3,14,Fort Green,Lower East Side	21
+3,14,Fort Green,Soho	21
+3,14,Fort Green,Financial District	20
+3,14,UNKNOWN,Fort Green	852
+3,14,Gramercy,Fort Green	158
+3,14,Midtown,Fort Green	131
+3,14,Chelsea,Fort Green	130
+3,14,Financial District,Fort Green	122
+3,14,Upper East Side,Fort Green	109
+3,14,Garment District,Fort Green	102
+3,14,Greenwich Village,Fort Green	102
+3,14,Downtown,Fort Green	99
+3,14,Soho,Fort Green	96
+3,15,Fort Green,Williamsburg	67
+3,15,Fort Green,Downtown	65
+3,15,Fort Green,Bedford-Stuyvesant	45
+3,15,Fort Green,Park Slope	33
+3,15,Fort Green,Lower East Side	28
+3,15,Fort Green,Greenwich Village	27
+3,15,Fort Green,East Village	23
+3,15,Fort Green,Financial District	22
+3,15,Fort Green,Tribeca	22
+3,15,Fort Green,Gramercy	19
+3,15,UNKNOWN,Fort Green	1056
+3,15,Gramercy,Fort Green	137
+3,15,Chelsea,Fort Green	130
+3,15,Downtown,Fort Green	114
+3,15,Soho,Fort Green	111
+3,15,Midtown,Fort Green	102
+3,15,Greenwich Village,Fort Green	92
+3,15,Upper East Side,Fort Green	91
+3,15,Garment District,Fort Green	84
+3,15,Lower East Side,Fort Green	82
+3,16,Fort Green,Williamsburg	72
+3,16,Fort Green,Downtown	51
+3,16,Fort Green,Bedford-Stuyvesant	25
+3,16,Fort Green,Midtown	24
+3,16,Fort Green,Chelsea	20
+3,16,Fort Green,Park Slope	20
+3,16,Fort Green,East Village	18
+3,16,Fort Green,Lower East Side	18
+3,16,Fort Green,Gramercy	16
+3,16,Fort Green,Carroll Gardens	15
+3,16,UNKNOWN,Fort Green	1026
+3,16,Gramercy,Fort Green	138
+3,16,Chelsea,Fort Green	117
+3,16,Downtown,Fort Green	116
+3,16,Midtown,Fort Green	109
+3,16,Greenwich Village,Fort Green	87
+3,16,Soho,Fort Green	76
+3,16,Financial District,Fort Green	72
+3,16,East Village,Fort Green	71
+3,16,Upper East Side,Fort Green	66
+3,17,Fort Green,Williamsburg	108
+3,17,Fort Green,Downtown	59
+3,17,Fort Green,Bedford-Stuyvesant	53
+3,17,Fort Green,Gramercy	50
+3,17,Fort Green,Park Slope	48
+3,17,Fort Green,Lower East Side	38
+3,17,Fort Green,Midtown	37
+3,17,Fort Green,Greenwich Village	33
+3,17,Fort Green,Chelsea	32
+3,17,Fort Green,Boerum Hill	30
+3,17,UNKNOWN,Fort Green	1190
+3,17,Midtown,Fort Green	223
+3,17,Downtown,Fort Green	211
+3,17,Greenwich Village,Fort Green	207
+3,17,Gramercy,Fort Green	206
+3,17,Chelsea,Fort Green	200
+3,17,Soho,Fort Green	162
+3,17,Financial District,Fort Green	141
+3,17,Lower East Side,Fort Green	136
+3,17,East Village,Fort Green	129
+3,18,Fort Green,Williamsburg	164
+3,18,Fort Green,Park Slope	120
+3,18,Fort Green,Downtown	98
+3,18,Fort Green,Bedford-Stuyvesant	88
+3,18,Fort Green,Lower East Side	87
+3,18,Fort Green,Gramercy	54
+3,18,Fort Green,Boerum Hill	53
+3,18,Fort Green,Carroll Gardens	52
+3,18,Fort Green,East Village	52
+3,18,Fort Green,Greenwich Village	44
+3,18,UNKNOWN,Fort Green	1359
+3,18,Chelsea,Fort Green	434
+3,18,Gramercy,Fort Green	416
+3,18,Midtown,Fort Green	406
+3,18,Greenwich Village,Fort Green	387
+3,18,Downtown,Fort Green	365
+3,18,Soho,Fort Green	357
+3,18,East Village,Fort Green	245
+3,18,Financial District,Fort Green	236
+3,18,Williamsburg,Fort Green	224
+3,19,Fort Green,Williamsburg	241
+3,19,Fort Green,Park Slope	166
+3,19,Fort Green,Bedford-Stuyvesant	161
+3,19,Fort Green,Downtown	119
+3,19,Fort Green,Lower East Side	110
+3,19,Fort Green,East Village	86
+3,19,Fort Green,Carroll Gardens	82
+3,19,Fort Green,Boerum Hill	57
+3,19,Fort Green,Gramercy	54
+3,19,Fort Green,Greenwich Village	50
+3,19,UNKNOWN,Fort Green	1535
+3,19,Midtown,Fort Green	686
+3,19,Gramercy,Fort Green	671
+3,19,Chelsea,Fort Green	626
+3,19,Greenwich Village,Fort Green	615
+3,19,Soho,Fort Green	580
+3,19,Downtown,Fort Green	465
+3,19,East Village,Fort Green	376
+3,19,Financial District,Fort Green	356
+3,19,Lower East Side,Fort Green	325
+3,2,Fort Green,Bedford-Stuyvesant	229
+3,2,Fort Green,Williamsburg	109
+3,2,Fort Green,Bushwick	67
+3,2,Fort Green,East Village	52
+3,2,Fort Green,Lower East Side	49
+3,2,Fort Green,Park Slope	49
+3,2,Fort Green,Downtown	35
+3,2,Fort Green,Boerum Hill	27
+3,2,Fort Green,Carroll Gardens	25
+3,2,Fort Green,West Village	23
+3,2,UNKNOWN,Fort Green	506
+3,2,East Village,Fort Green	461
+3,2,Greenwich Village,Fort Green	443
+3,2,Williamsburg,Fort Green	370
+3,2,Lower East Side,Fort Green	345
+3,2,Midtown,Fort Green	330
+3,2,Chelsea,Fort Green	276
+3,2,Gramercy,Fort Green	252
+3,2,West Village,Fort Green	234
+3,2,Soho,Fort Green	189
+3,20,Fort Green,Williamsburg	301
+3,20,Fort Green,Park Slope	236
+3,20,Fort Green,Bedford-Stuyvesant	222
+3,20,Fort Green,Lower East Side	141
+3,20,Fort Green,Downtown	117
+3,20,Fort Green,East Village	110
+3,20,Fort Green,Boerum Hill	97
+3,20,Fort Green,Carroll Gardens	96
+3,20,Fort Green,Greenwich Village	96
+3,20,Fort Green,Gramercy	79
+3,20,UNKNOWN,Fort Green	1859
+3,20,Midtown,Fort Green	1324
+3,20,Gramercy,Fort Green	1153
+3,20,Chelsea,Fort Green	1048
+3,20,Greenwich Village,Fort Green	1004
+3,20,Soho,Fort Green	890
+3,20,East Village,Fort Green	619
+3,20,Financial District,Fort Green	506
+3,20,Downtown,Fort Green	489
+3,20,Lower East Side,Fort Green	486
+3,21,Fort Green,Williamsburg	410
+3,21,Fort Green,Bedford-Stuyvesant	373
+3,21,Fort Green,Park Slope	271
+3,21,Fort Green,Downtown	195
+3,21,Fort Green,Lower East Side	159
+3,21,Fort Green,East Village	129
+3,21,Fort Green,Carroll Gardens	127
+3,21,Fort Green,Boerum Hill	123
+3,21,Fort Green,Gramercy	106
+3,21,Fort Green,Greenwich Village	94
+3,21,UNKNOWN,Fort Green	2208
+3,21,Midtown,Fort Green	1664
+3,21,Gramercy,Fort Green	1384
+3,21,Chelsea,Fort Green	1256
+3,21,Greenwich Village,Fort Green	1246
+3,21,East Village,Fort Green	951
+3,21,Soho,Fort Green	926
+3,21,Lower East Side,Fort Green	768
+3,21,Financial District,Fort Green	656
+3,21,Williamsburg,Fort Green	640
+3,22,Fort Green,Williamsburg	545
+3,22,Fort Green,Bedford-Stuyvesant	532
+3,22,Fort Green,Park Slope	372
+3,22,Fort Green,Downtown	228
+3,22,Fort Green,Lower East Side	213
+3,22,Fort Green,East Village	188
+3,22,Fort Green,Carroll Gardens	186
+3,22,Fort Green,Gramercy	145
+3,22,Fort Green,Midtown	142
+3,22,Fort Green,Boerum Hill	140
+3,22,UNKNOWN,Fort Green	2506
+3,22,Midtown,Fort Green	1765
+3,22,East Village,Fort Green	1422
+3,22,Gramercy,Fort Green	1370
+3,22,Greenwich Village,Fort Green	1342
+3,22,Chelsea,Fort Green	1258
+3,22,Lower East Side,Fort Green	1201
+3,22,Soho,Fort Green	971
+3,22,Williamsburg,Fort Green	863
+3,22,Tribeca,Fort Green	637
+3,23,Fort Green,Bedford-Stuyvesant	700
+3,23,Fort Green,Williamsburg	590
+3,23,Fort Green,Park Slope	340
+3,23,Fort Green,Lower East Side	226
+3,23,Fort Green,East Village	203
+3,23,Fort Green,Bushwick	164
+3,23,Fort Green,Downtown	151
+3,23,Fort Green,Carroll Gardens	149
+3,23,Fort Green,Boerum Hill	145
+3,23,Fort Green,Chelsea	140
+3,23,UNKNOWN,Fort Green	2812
+3,23,Midtown,Fort Green	1540
+3,23,East Village,Fort Green	1459
+3,23,Greenwich Village,Fort Green	1449
+3,23,Lower East Side,Fort Green	1369
+3,23,Chelsea,Fort Green	1190
+3,23,Gramercy,Fort Green	1134
+3,23,Williamsburg,Fort Green	1078
+3,23,Soho,Fort Green	930
+3,23,West Village,Fort Green	591
+3,3,Fort Green,Bedford-Stuyvesant	145
+3,3,Fort Green,Williamsburg	59
+3,3,Fort Green,Park Slope	39
+3,3,Fort Green,Bushwick	28
+3,3,Fort Green,Midtown	25
+3,3,Fort Green,Lower East Side	24
+3,3,Fort Green,Astoria-Long Island City	18
+3,3,Fort Green,Chelsea	18
+3,3,Fort Green,East Village	16
+3,3,Fort Green,Downtown	15
+3,3,East Village,Fort Green	390
+3,3,UNKNOWN,Fort Green	276
+3,3,Greenwich Village,Fort Green	275
+3,3,Lower East Side,Fort Green	253
+3,3,Williamsburg,Fort Green	232
+3,3,Midtown,Fort Green	210
+3,3,West Village,Fort Green	185
+3,3,Chelsea,Fort Green	174
+3,3,Gramercy,Fort Green	148
+3,3,Soho,Fort Green	129
+3,4,Fort Green,Bedford-Stuyvesant	84
+3,4,Fort Green,Williamsburg	40
+3,4,Fort Green,Midtown	32
+3,4,Fort Green,Bushwick	26
+3,4,Fort Green,Chelsea	25
+3,4,Fort Green,Garment District	20
+3,4,Fort Green,Park Slope	17
+3,4,Fort Green,Downtown	15
+3,4,Fort Green,Boerum Hill	14
+3,4,Fort Green,East Village	14
+3,4,East Village,Fort Green	257
+3,4,Greenwich Village,Fort Green	234
+3,4,Lower East Side,Fort Green	205
+3,4,UNKNOWN,Fort Green	194
+3,4,Williamsburg,Fort Green	144
+3,4,Chelsea,Fort Green	133
+3,4,West Village,Fort Green	125
+3,4,Midtown,Fort Green	94
+3,4,Soho,Fort Green	89
+3,4,Gramercy,Fort Green	81
+3,5,Fort Green,Midtown	119
+3,5,Fort Green,Garment District	45
+3,5,Fort Green,Bedford-Stuyvesant	37
+3,5,Fort Green,Gramercy	37
+3,5,Fort Green,Williamsburg	29
+3,5,Fort Green,Chelsea	22
+3,5,Fort Green,Downtown	21
+3,5,Fort Green,Murray Hill	18
+3,5,Fort Green,Upper East Side	17
+3,5,Fort Green,Tribeca	16
+3,5,UNKNOWN,Fort Green	437
+3,5,East Village,Fort Green	98
+3,5,Greenwich Village,Fort Green	96
+3,5,Lower East Side,Fort Green	83
+3,5,Garment District,Fort Green	56
+3,5,Midtown,Fort Green	52
+3,5,Chelsea,Fort Green	49
+3,5,West Village,Fort Green	47
+3,5,Gramercy,Fort Green	42
+3,5,Soho,Fort Green	40
+3,6,Fort Green,Midtown	157
+3,6,Fort Green,Gramercy	70
+3,6,Fort Green,Garment District	49
+3,6,Fort Green,Downtown	46
+3,6,Fort Green,Williamsburg	44
+3,6,Fort Green,Tribeca	40
+3,6,Fort Green,Upper East Side	34
+3,6,Fort Green,Bedford-Stuyvesant	33
+3,6,Fort Green,Chelsea	29
+3,6,Fort Green,Murray Hill	29
+3,6,UNKNOWN,Fort Green	541
+3,6,East Village,Fort Green	69
+3,6,Lower East Side,Fort Green	66
+3,6,Downtown,Fort Green	48
+3,6,Chelsea,Fort Green	46
+3,6,Soho,Fort Green	44
+3,6,Greenwich Village,Fort Green	42
+3,6,Midtown,Fort Green	41
+3,6,Carroll Gardens,Fort Green	40
+3,6,Gramercy,Fort Green	39
+3,7,Fort Green,Midtown	128
+3,7,Fort Green,Gramercy	94
+3,7,Fort Green,Williamsburg	73
+3,7,Fort Green,Chelsea	69
+3,7,Fort Green,Downtown	67
+3,7,Fort Green,Upper East Side	49
+3,7,Fort Green,Murray Hill	45
+3,7,Fort Green,Soho	41
+3,7,Fort Green,Financial District	38
+3,7,Fort Green,Lower East Side	37
+3,7,UNKNOWN,Fort Green	574
+3,7,Carroll Gardens,Fort Green	65
+3,7,Gramercy,Fort Green	60
+3,7,Downtown,Fort Green	57
+3,7,Greenwich Village,Fort Green	53
+3,7,Tribeca,Fort Green	51
+3,7,East Village,Fort Green	42
+3,7,Lower East Side,Fort Green	42
+3,7,Midtown,Fort Green	42
+3,7,Upper East Side,Fort Green	40
+3,8,Fort Green,Downtown	142
+3,8,Fort Green,Midtown	127
+3,8,Fort Green,Chelsea	80
+3,8,Fort Green,Gramercy	66
+3,8,Fort Green,Williamsburg	62
+3,8,Fort Green,Greenwich Village	57
+3,8,Fort Green,Soho	53
+3,8,Fort Green,Financial District	50
+3,8,Fort Green,Murray Hill	33
+3,8,Fort Green,Park Slope	33
+3,8,UNKNOWN,Fort Green	477
+3,8,Upper East Side,Fort Green	93
+3,8,Downtown,Fort Green	81
+3,8,Gramercy,Fort Green	68
+3,8,Financial District,Fort Green	63
+3,8,Carroll Gardens,Fort Green	59
+3,8,East Village,Fort Green	45
+3,8,Chelsea,Fort Green	44
+3,8,Midtown,Fort Green	41
+3,8,Greenwich Village,Fort Green	38
+3,9,Fort Green,Downtown	104
+3,9,Fort Green,Williamsburg	84
+3,9,Fort Green,Midtown	75
+3,9,Fort Green,Gramercy	74
+3,9,Fort Green,Chelsea	56
+3,9,Fort Green,Greenwich Village	56
+3,9,Fort Green,Financial District	51
+3,9,Fort Green,Soho	49
+3,9,Fort Green,Lower East Side	46
+3,9,Fort Green,Upper East Side	44
+3,9,UNKNOWN,Fort Green	414
+3,9,Gramercy,Fort Green	102
+3,9,Tribeca,Fort Green	83
+3,9,Financial District,Fort Green	79
+3,9,Midtown,Fort Green	72
+3,9,Downtown,Fort Green	70
+3,9,Chelsea,Fort Green	66
+3,9,Lower East Side,Fort Green	58
+3,9,Upper East Side,Fort Green	49
+3,9,Garment District,Fort Green	43
+4,0,Fort Green,Bedford-Stuyvesant	643
+4,0,Fort Green,Williamsburg	455
+4,0,Fort Green,Park Slope	219
+4,0,Fort Green,Bushwick	142
+4,0,Fort Green,East Village	134
+4,0,Fort Green,Lower East Side	133
+4,0,Fort Green,Carroll Gardens	111
+4,0,Fort Green,Downtown	102
+4,0,Fort Green,Boerum Hill	80
+4,0,Fort Green,Midtown	70
+4,0,UNKNOWN,Fort Green	2020
+4,0,Lower East Side,Fort Green	1268
+4,0,East Village,Fort Green	1245
+4,0,Greenwich Village,Fort Green	1130
+4,0,Midtown,Fort Green	982
+4,0,Chelsea,Fort Green	948
+4,0,Williamsburg,Fort Green	935
+4,0,Gramercy,Fort Green	820
+4,0,Soho,Fort Green	710
+4,0,West Village,Fort Green	486
+4,1,Fort Green,Bedford-Stuyvesant	448
+4,1,Fort Green,Williamsburg	252
+4,1,Fort Green,Park Slope	112
+4,1,Fort Green,Bushwick	104
+4,1,Fort Green,Lower East Side	79
+4,1,Fort Green,East Village	78
+4,1,Fort Green,Midtown	64
+4,1,Fort Green,Downtown	52
+4,1,Fort Green,Boerum Hill	48
+4,1,Fort Green,Carroll Gardens	45
+4,1,UNKNOWN,Fort Green	976
+4,1,East Village,Fort Green	871
+4,1,Lower East Side,Fort Green	865
+4,1,Greenwich Village,Fort Green	729
+4,1,Williamsburg,Fort Green	611
+4,1,Midtown,Fort Green	601
+4,1,Chelsea,Fort Green	527
+4,1,Gramercy,Fort Green	448
+4,1,West Village,Fort Green	394
+4,1,Soho,Fort Green	385
+4,10,Fort Green,Downtown	63
+4,10,Fort Green,Williamsburg	53
+4,10,Fort Green,Soho	43
+4,10,Fort Green,Midtown	41
+4,10,Fort Green,Financial District	37
+4,10,Fort Green,Chelsea	36
+4,10,Fort Green,Gramercy	34
+4,10,Fort Green,Greenwich Village	27
+4,10,Fort Green,Park Slope	25
+4,10,Fort Green,Lower East Side	23
+4,10,UNKNOWN,Fort Green	398
+4,10,Gramercy,Fort Green	109
+4,10,Midtown,Fort Green	102
+4,10,Greenwich Village,Fort Green	83
+4,10,Financial District,Fort Green	79
+4,10,Upper East Side,Fort Green	75
+4,10,Chelsea,Fort Green	61
+4,10,Downtown,Fort Green	59
+4,10,East Village,Fort Green	52
+4,10,Tribeca,Fort Green	45
+4,11,Fort Green,Williamsburg	48
+4,11,Fort Green,Downtown	45
+4,11,Fort Green,Midtown	45
+4,11,Fort Green,Gramercy	43
+4,11,Fort Green,Soho	30
+4,11,Fort Green,Chelsea	29
+4,11,Fort Green,Greenwich Village	27
+4,11,Fort Green,Bedford-Stuyvesant	22
+4,11,Fort Green,Lower East Side	21
+4,11,Fort Green,Tribeca	21
+4,11,UNKNOWN,Fort Green	479
+4,11,Midtown,Fort Green	143
+4,11,Gramercy,Fort Green	120
+4,11,Financial District,Fort Green	88
+4,11,Upper East Side,Fort Green	85
+4,11,Chelsea,Fort Green	77
+4,11,Downtown,Fort Green	71
+4,11,Greenwich Village,Fort Green	68
+4,11,East Village,Fort Green	56
+4,11,Soho,Fort Green	56
+4,12,Fort Green,Downtown	67
+4,12,Fort Green,Williamsburg	52
+4,12,Fort Green,Midtown	38
+4,12,Fort Green,Park Slope	28
+4,12,Fort Green,Chelsea	27
+4,12,Fort Green,Bedford-Stuyvesant	22
+4,12,Fort Green,Gramercy	19
+4,12,Fort Green,Lower East Side	19
+4,12,Fort Green,Soho	19
+4,12,Fort Green,East Village	18
+4,12,UNKNOWN,Fort Green	545
+4,12,Gramercy,Fort Green	130
+4,12,Midtown,Fort Green	123
+4,12,Downtown,Fort Green	106
+4,12,Financial District,Fort Green	100
+4,12,Chelsea,Fort Green	81
+4,12,Greenwich Village,Fort Green	80
+4,12,Upper East Side,Fort Green	78
+4,12,Tribeca,Fort Green	73
+4,12,Soho,Fort Green	66
+4,13,Fort Green,Williamsburg	61
+4,13,Fort Green,Downtown	52
+4,13,Fort Green,Midtown	39
+4,13,Fort Green,Park Slope	26
+4,13,Fort Green,Greenwich Village	25
+4,13,Fort Green,Bedford-Stuyvesant	23
+4,13,Fort Green,Gramercy	23
+4,13,Fort Green,Lower East Side	21
+4,13,Fort Green,Garment District	20
+4,13,Fort Green,Chelsea	19
+4,13,UNKNOWN,Fort Green	699
+4,13,Gramercy,Fort Green	127
+4,13,Midtown,Fort Green	127
+4,13,Chelsea,Fort Green	110
+4,13,Greenwich Village,Fort Green	103
+4,13,Soho,Fort Green	91
+4,13,Downtown,Fort Green	87
+4,13,Upper East Side,Fort Green	82
+4,13,Financial District,Fort Green	81
+4,13,Lower East Side,Fort Green	74
+4,14,Fort Green,Downtown	60
+4,14,Fort Green,Williamsburg	53
+4,14,Fort Green,Bedford-Stuyvesant	29
+4,14,Fort Green,Midtown	26
+4,14,Fort Green,Gramercy	23
+4,14,Fort Green,Park Slope	23
+4,14,Fort Green,Greenwich Village	22
+4,14,Fort Green,Lower East Side	22
+4,14,Fort Green,Boerum Hill	21
+4,14,Fort Green,Chelsea	19
+4,14,UNKNOWN,Fort Green	820
+4,14,Gramercy,Fort Green	152
+4,14,Midtown,Fort Green	131
+4,14,Chelsea,Fort Green	126
+4,14,Financial District,Fort Green	117
+4,14,Soho,Fort Green	108
+4,14,Greenwich Village,Fort Green	102
+4,14,Downtown,Fort Green	92
+4,14,Garment District,Fort Green	92
+4,14,Lower East Side,Fort Green	80
+4,15,Fort Green,Williamsburg	69
+4,15,Fort Green,Downtown	57
+4,15,Fort Green,Bedford-Stuyvesant	37
+4,15,Fort Green,Midtown	37
+4,15,Fort Green,Park Slope	29
+4,15,Fort Green,Greenwich Village	28
+4,15,Fort Green,Gramercy	26
+4,15,Fort Green,Carroll Gardens	23
+4,15,Fort Green,Lower East Side	23
+4,15,Fort Green,East Village	20
+4,15,UNKNOWN,Fort Green	947
+4,15,Gramercy,Fort Green	146
+4,15,Chelsea,Fort Green	134
+4,15,Midtown,Fort Green	130
+4,15,Downtown,Fort Green	107
+4,15,Financial District,Fort Green	106
+4,15,Soho,Fort Green	91
+4,15,Greenwich Village,Fort Green	90
+4,15,Upper East Side,Fort Green	90
+4,15,Garment District,Fort Green	85
+4,16,Fort Green,Williamsburg	63
+4,16,Fort Green,Downtown	59
+4,16,Fort Green,Park Slope	29
+4,16,Fort Green,Bedford-Stuyvesant	26
+4,16,Fort Green,Midtown	23
+4,16,Fort Green,Boerum Hill	18
+4,16,Fort Green,Greenwich Village	18
+4,16,Fort Green,Lower East Side	17
+4,16,Fort Green,Chelsea	16
+4,16,Fort Green,East Village	16
+4,16,UNKNOWN,Fort Green	996
+4,16,Gramercy,Fort Green	118
+4,16,Downtown,Fort Green	116
+4,16,Midtown,Fort Green	113
+4,16,Chelsea,Fort Green	101
+4,16,Greenwich Village,Fort Green	93
+4,16,Lower East Side,Fort Green	79
+4,16,Financial District,Fort Green	70
+4,16,Upper East Side,Fort Green	69
+4,16,East Village,Fort Green	63
+4,17,Fort Green,Williamsburg	111
+4,17,Fort Green,Downtown	85
+4,17,Fort Green,Park Slope	61
+4,17,Fort Green,Bedford-Stuyvesant	52
+4,17,Fort Green,Lower East Side	45
+4,17,Fort Green,Gramercy	38
+4,17,Fort Green,Boerum Hill	34
+4,17,Fort Green,East Village	34
+4,17,Fort Green,Midtown	33
+4,17,Fort Green,Upper East Side	31
+4,17,UNKNOWN,Fort Green	1193
+4,17,Midtown,Fort Green	206
+4,17,Downtown,Fort Green	192
+4,17,Chelsea,Fort Green	190
+4,17,Gramercy,Fort Green	184
+4,17,Greenwich Village,Fort Green	173
+4,17,Soho,Fort Green	141
+4,17,Upper East Side,Fort Green	136
+4,17,Financial District,Fort Green	114
+4,17,Lower East Side,Fort Green	111
+4,18,Fort Green,Williamsburg	157
+4,18,Fort Green,Bedford-Stuyvesant	102
+4,18,Fort Green,Downtown	94
+4,18,Fort Green,Lower East Side	88
+4,18,Fort Green,Park Slope	88
+4,18,Fort Green,Boerum Hill	58
+4,18,Fort Green,East Village	52
+4,18,Fort Green,Carroll Gardens	51
+4,18,Fort Green,Gramercy	51
+4,18,Fort Green,Greenwich Village	44
+4,18,UNKNOWN,Fort Green	1378
+4,18,Chelsea,Fort Green	412
+4,18,Gramercy,Fort Green	404
+4,18,Greenwich Village,Fort Green	387
+4,18,Midtown,Fort Green	378
+4,18,Downtown,Fort Green	370
+4,18,Soho,Fort Green	317
+4,18,Lower East Side,Fort Green	236
+4,18,Financial District,Fort Green	202
+4,18,East Village,Fort Green	199
+4,19,Fort Green,Williamsburg	238
+4,19,Fort Green,Park Slope	152
+4,19,Fort Green,Bedford-Stuyvesant	130
+4,19,Fort Green,Downtown	109
+4,19,Fort Green,Lower East Side	104
+4,19,Fort Green,East Village	96
+4,19,Fort Green,Carroll Gardens	79
+4,19,Fort Green,Boerum Hill	66
+4,19,Fort Green,Greenwich Village	62
+4,19,Fort Green,Midtown	61
+4,19,UNKNOWN,Fort Green	1483
+4,19,Gramercy,Fort Green	709
+4,19,Midtown,Fort Green	696
+4,19,Chelsea,Fort Green	653
+4,19,Greenwich Village,Fort Green	571
+4,19,Soho,Fort Green	548
+4,19,Downtown,Fort Green	430
+4,19,East Village,Fort Green	377
+4,19,Financial District,Fort Green	341
+4,19,Williamsburg,Fort Green	339
+4,2,Fort Green,Bedford-Stuyvesant	255
+4,2,Fort Green,Williamsburg	91
+4,2,Fort Green,Bushwick	68
+4,2,Fort Green,Park Slope	44
+4,2,Fort Green,Lower East Side	34
+4,2,Fort Green,Carroll Gardens	21
+4,2,Fort Green,Downtown	21
+4,2,Fort Green,East Village	21
+4,2,Fort Green,Boerum Hill	18
+4,2,Fort Green,Greenwood	17
+4,2,Lower East Side,Fort Green	549
+4,2,East Village,Fort Green	545
+4,2,UNKNOWN,Fort Green	515
+4,2,Greenwich Village,Fort Green	481
+4,2,Williamsburg,Fort Green	386
+4,2,West Village,Fort Green	377
+4,2,Midtown,Fort Green	320
+4,2,Chelsea,Fort Green	319
+4,2,Soho,Fort Green	251
+4,2,Gramercy,Fort Green	237
+4,20,Fort Green,Williamsburg	309
+4,20,Fort Green,Park Slope	217
+4,20,Fort Green,Bedford-Stuyvesant	207
+4,20,Fort Green,Downtown	137
+4,20,Fort Green,Lower East Side	131
+4,20,Fort Green,East Village	106
+4,20,Fort Green,Boerum Hill	104
+4,20,Fort Green,Carroll Gardens	95
+4,20,Fort Green,Gramercy	76
+4,20,Fort Green,Greenwich Village	73
+4,20,UNKNOWN,Fort Green	1775
+4,20,Midtown,Fort Green	1211
+4,20,Gramercy,Fort Green	1028
+4,20,Chelsea,Fort Green	939
+4,20,Greenwich Village,Fort Green	825
+4,20,Soho,Fort Green	793
+4,20,East Village,Fort Green	640
+4,20,Lower East Side,Fort Green	544
+4,20,Downtown,Fort Green	514
+4,20,Financial District,Fort Green	468
+4,21,Fort Green,Williamsburg	425
+4,21,Fort Green,Bedford-Stuyvesant	377
+4,21,Fort Green,Park Slope	263
+4,21,Fort Green,Downtown	206
+4,21,Fort Green,Lower East Side	194
+4,21,Fort Green,Carroll Gardens	144
+4,21,Fort Green,East Village	133
+4,21,Fort Green,Greenwich Village	128
+4,21,Fort Green,Boerum Hill	104
+4,21,Fort Green,Midtown	100
+4,21,UNKNOWN,Fort Green	2238
+4,21,Midtown,Fort Green	1742
+4,21,Gramercy,Fort Green	1371
+4,21,Chelsea,Fort Green	1215
+4,21,Greenwich Village,Fort Green	1214
+4,21,East Village,Fort Green	1027
+4,21,Soho,Fort Green	890
+4,21,Lower East Side,Fort Green	868
+4,21,Financial District,Fort Green	620
+4,21,Williamsburg,Fort Green	595
+4,22,Fort Green,Williamsburg	581
+4,22,Fort Green,Bedford-Stuyvesant	558
+4,22,Fort Green,Park Slope	386
+4,22,Fort Green,Downtown	261
+4,22,Fort Green,Lower East Side	200
+4,22,Fort Green,Carroll Gardens	191
+4,22,Fort Green,East Village	187
+4,22,Fort Green,Greenwich Village	159
+4,22,Fort Green,Gramercy	154
+4,22,Fort Green,Boerum Hill	145
+4,22,UNKNOWN,Fort Green	2506
+4,22,Midtown,Fort Green	1871
+4,22,East Village,Fort Green	1492
+4,22,Gramercy,Fort Green	1427
+4,22,Greenwich Village,Fort Green	1348
+4,22,Chelsea,Fort Green	1282
+4,22,Lower East Side,Fort Green	1241
+4,22,Soho,Fort Green	1011
+4,22,Williamsburg,Fort Green	883
+4,22,Tribeca,Fort Green	674
+4,23,Fort Green,Bedford-Stuyvesant	713
+4,23,Fort Green,Williamsburg	620
+4,23,Fort Green,Park Slope	401
+4,23,Fort Green,Lower East Side	237
+4,23,Fort Green,Carroll Gardens	227
+4,23,Fort Green,East Village	224
+4,23,Fort Green,Downtown	200
+4,23,Fort Green,Bushwick	179
+4,23,Fort Green,Boerum Hill	172
+4,23,Fort Green,Gramercy	172
+4,23,UNKNOWN,Fort Green	2815
+4,23,East Village,Fort Green	1665
+4,23,Midtown,Fort Green	1652
+4,23,Greenwich Village,Fort Green	1542
+4,23,Lower East Side,Fort Green	1537
+4,23,Gramercy,Fort Green	1374
+4,23,Chelsea,Fort Green	1343
+4,23,Williamsburg,Fort Green	1206
+4,23,Soho,Fort Green	960
+4,23,West Village,Fort Green	645
+4,3,Fort Green,Bedford-Stuyvesant	136
+4,3,Fort Green,Williamsburg	43
+4,3,Fort Green,Bushwick	33
+4,3,Fort Green,Midtown	26
+4,3,Fort Green,East Village	16
+4,3,Fort Green,Park Slope	15
+4,3,Fort Green,Borough Park	13
+4,3,Fort Green,Downtown	13
+4,3,Fort Green,Garment District	12
+4,3,Fort Green,Boerum Hill	11
+4,3,East Village,Fort Green	404
+4,3,Lower East Side,Fort Green	352
+4,3,UNKNOWN,Fort Green	286
+4,3,Greenwich Village,Fort Green	284
+4,3,Williamsburg,Fort Green	247
+4,3,Chelsea,Fort Green	240
+4,3,West Village,Fort Green	234
+4,3,Soho,Fort Green	188
+4,3,Midtown,Fort Green	179
+4,3,Gramercy,Fort Green	138
+4,4,Fort Green,Bedford-Stuyvesant	68
+4,4,Fort Green,Chelsea	37
+4,4,Fort Green,Williamsburg	31
+4,4,Fort Green,Midtown	27
+4,4,Fort Green,Garment District	16
+4,4,Fort Green,Downtown	15
+4,4,Fort Green,Upper East Side	14
+4,4,Fort Green,Bushwick	13
+4,4,Fort Green,Gramercy	11
+4,4,Fort Green,Sunny Side	10
+4,4,East Village,Fort Green	304
+4,4,Lower East Side,Fort Green	277
+4,4,Greenwich Village,Fort Green	222
+4,4,Chelsea,Fort Green	160
+4,4,UNKNOWN,Fort Green	153
+4,4,Soho,Fort Green	124
+4,4,West Village,Fort Green	124
+4,4,Midtown,Fort Green	118
+4,4,Williamsburg,Fort Green	117
+4,4,Gramercy,Fort Green	87
+4,5,Fort Green,Midtown	90
+4,5,Fort Green,Bedford-Stuyvesant	35
+4,5,Fort Green,Garment District	33
+4,5,Fort Green,Chelsea	31
+4,5,Fort Green,Williamsburg	27
+4,5,Fort Green,Gramercy	23
+4,5,Fort Green,Tribeca	16
+4,5,Fort Green,Greenwich Village	15
+4,5,Fort Green,Murray Hill	15
+4,5,Fort Green,Financial District	10
+4,5,UNKNOWN,Fort Green	344
+4,5,Lower East Side,Fort Green	111
+4,5,East Village,Fort Green	104
+4,5,Greenwich Village,Fort Green	89
+4,5,West Village,Fort Green	57
+4,5,Chelsea,Fort Green	55
+4,5,Soho,Fort Green	51
+4,5,Gramercy,Fort Green	46
+4,5,Tribeca,Fort Green	44
+4,5,Upper East Side,Fort Green	42
+4,6,Fort Green,Midtown	161
+4,6,Fort Green,Gramercy	66
+4,6,Fort Green,Downtown	61
+4,6,Fort Green,Garment District	55
+4,6,Fort Green,Tribeca	54
+4,6,Fort Green,Upper East Side	36
+4,6,Fort Green,Chelsea	33
+4,6,Fort Green,Murray Hill	32
+4,6,Fort Green,Bedford-Stuyvesant	31
+4,6,Fort Green,Financial District	31
+4,6,UNKNOWN,Fort Green	469
+4,6,Lower East Side,Fort Green	82
+4,6,East Village,Fort Green	61
+4,6,Carroll Gardens,Fort Green	49
+4,6,Financial District,Fort Green	39
+4,6,Gramercy,Fort Green	38
+4,6,Midtown,Fort Green	37
+4,6,Upper East Side,Fort Green	36
+4,6,Downtown,Fort Green	34
+4,6,Chelsea,Fort Green	33
+4,7,Fort Green,Midtown	151
+4,7,Fort Green,Gramercy	101
+4,7,Fort Green,Chelsea	86
+4,7,Fort Green,Downtown	76
+4,7,Fort Green,Williamsburg	58
+4,7,Fort Green,Financial District	54
+4,7,Fort Green,Murray Hill	47
+4,7,Fort Green,Soho	47
+4,7,Fort Green,Garment District	39
+4,7,Fort Green,Battery Park	32
+4,7,UNKNOWN,Fort Green	496
+4,7,Carroll Gardens,Fort Green	60
+4,7,Downtown,Fort Green	59
+4,7,Midtown,Fort Green	54
+4,7,Upper East Side,Fort Green	50
+4,7,Lower East Side,Fort Green	48
+4,7,East Village,Fort Green	47
+4,7,Soho,Fort Green	44
+4,7,Tribeca,Fort Green	43
+4,7,Financial District,Fort Green	41
+4,8,Fort Green,Downtown	152
+4,8,Fort Green,Midtown	111
+4,8,Fort Green,Chelsea	82
+4,8,Fort Green,Gramercy	77
+4,8,Fort Green,Greenwich Village	66
+4,8,Fort Green,Williamsburg	66
+4,8,Fort Green,Financial District	52
+4,8,Fort Green,Murray Hill	48
+4,8,Fort Green,Soho	46
+4,8,Fort Green,Lower East Side	40
+4,8,UNKNOWN,Fort Green	417
+4,8,Downtown,Fort Green	84
+4,8,Upper East Side,Fort Green	72
+4,8,Midtown,Fort Green	68
+4,8,Carroll Gardens,Fort Green	65
+4,8,Financial District,Fort Green	55
+4,8,Chelsea,Fort Green	49
+4,8,Gramercy,Fort Green	46
+4,8,Greenwich Village,Fort Green	41
+4,8,Tribeca,Fort Green	41
+4,9,Fort Green,Downtown	101
+4,9,Fort Green,Williamsburg	83
+4,9,Fort Green,Chelsea	75
+4,9,Fort Green,Gramercy	68
+4,9,Fort Green,Greenwich Village	67
+4,9,Fort Green,Midtown	62
+4,9,Fort Green,Soho	52
+4,9,Fort Green,Lower East Side	51
+4,9,Fort Green,Tribeca	50
+4,9,Fort Green,Upper East Side	44
+4,9,UNKNOWN,Fort Green	348
+4,9,Gramercy,Fort Green	154
+4,9,Midtown,Fort Green	82
+4,9,Tribeca,Fort Green	73
+4,9,Financial District,Fort Green	67
+4,9,Downtown,Fort Green	63
+4,9,Greenwich Village,Fort Green	57
+4,9,Chelsea,Fort Green	56
+4,9,Upper East Side,Fort Green	56
+4,9,East Village,Fort Green	44
+5,0,Fort Green,Bedford-Stuyvesant	664
+5,0,Fort Green,Williamsburg	450
+5,0,Fort Green,Park Slope	260
+5,0,Fort Green,Bushwick	170
+5,0,Fort Green,Lower East Side	153
+5,0,Fort Green,East Village	148
+5,0,Fort Green,Carroll Gardens	145
+5,0,Fort Green,Downtown	120
+5,0,Fort Green,Boerum Hill	114
+5,0,Fort Green,Greenwich Village	100
+5,0,UNKNOWN,Fort Green	2377
+5,0,East Village,Fort Green	1468
+5,0,Lower East Side,Fort Green	1457
+5,0,Greenwich Village,Fort Green	1284
+5,0,Midtown,Fort Green	1136
+5,0,Williamsburg,Fort Green	1049
+5,0,Chelsea,Fort Green	964
+5,0,Gramercy,Fort Green	934
+5,0,Soho,Fort Green	778
+5,0,West Village,Fort Green	561
+5,1,Fort Green,Bedford-Stuyvesant	495
+5,1,Fort Green,Williamsburg	255
+5,1,Fort Green,Park Slope	146
+5,1,Fort Green,Bushwick	105
+5,1,Fort Green,Lower East Side	82
+5,1,Fort Green,East Village	76
+5,1,Fort Green,Carroll Gardens	62
+5,1,Fort Green,Downtown	56
+5,1,Fort Green,Midtown	47
+5,1,Fort Green,Greenwood	44
+5,1,UNKNOWN,Fort Green	1184
+5,1,Lower East Side,Fort Green	1013
+5,1,East Village,Fort Green	979
+5,1,Greenwich Village,Fort Green	817
+5,1,Williamsburg,Fort Green	815
+5,1,Midtown,Fort Green	648
+5,1,Chelsea,Fort Green	606
+5,1,Gramercy,Fort Green	573
+5,1,West Village,Fort Green	429
+5,1,Soho,Fort Green	425
+5,10,Fort Green,Williamsburg	56
+5,10,Fort Green,Downtown	48
+5,10,Fort Green,Gramercy	41
+5,10,Fort Green,Midtown	39
+5,10,Fort Green,Soho	39
+5,10,Fort Green,Chelsea	37
+5,10,Fort Green,Greenwich Village	36
+5,10,Fort Green,Financial District	35
+5,10,Fort Green,Lower East Side	26
+5,10,Fort Green,Tribeca	24
+5,10,UNKNOWN,Fort Green	468
+5,10,Midtown,Fort Green	113
+5,10,Gramercy,Fort Green	98
+5,10,Downtown,Fort Green	69
+5,10,East Village,Fort Green	66
+5,10,Chelsea,Fort Green	65
+5,10,Financial District,Fort Green	64
+5,10,Greenwich Village,Fort Green	64
+5,10,Lower East Side,Fort Green	60
+5,10,Upper East Side,Fort Green	60
+5,11,Fort Green,Williamsburg	49
+5,11,Fort Green,Downtown	46
+5,11,Fort Green,Midtown	46
+5,11,Fort Green,Chelsea	35
+5,11,Fort Green,Gramercy	32
+5,11,Fort Green,Greenwich Village	32
+5,11,Fort Green,Soho	32
+5,11,Fort Green,Park Slope	28
+5,11,Fort Green,Financial District	24
+5,11,Fort Green,Bedford-Stuyvesant	21
+5,11,UNKNOWN,Fort Green	473
+5,11,Midtown,Fort Green	134
+5,11,Gramercy,Fort Green	114
+5,11,Chelsea,Fort Green	90
+5,11,Financial District,Fort Green	89
+5,11,Downtown,Fort Green	84
+5,11,Greenwich Village,Fort Green	82
+5,11,Upper East Side,Fort Green	80
+5,11,Soho,Fort Green	60
+5,11,Murray Hill,Fort Green	58
+5,12,Fort Green,Williamsburg	66
+5,12,Fort Green,Downtown	62
+5,12,Fort Green,Midtown	37
+5,12,Fort Green,Chelsea	36
+5,12,Fort Green,Gramercy	34
+5,12,Fort Green,Bedford-Stuyvesant	29
+5,12,Fort Green,Financial District	29
+5,12,Fort Green,Park Slope	27
+5,12,Fort Green,Greenwich Village	26
+5,12,Fort Green,Lower East Side	26
+5,12,UNKNOWN,Fort Green	552
+5,12,Gramercy,Fort Green	154
+5,12,Midtown,Fort Green	126
+5,12,Downtown,Fort Green	115
+5,12,Financial District,Fort Green	105
+5,12,Chelsea,Fort Green	102
+5,12,Greenwich Village,Fort Green	96
+5,12,Upper East Side,Fort Green	84
+5,12,Soho,Fort Green	81
+5,12,Garment District,Fort Green	64
+5,13,Fort Green,Williamsburg	65
+5,13,Fort Green,Downtown	60
+5,13,Fort Green,Midtown	40
+5,13,Fort Green,Park Slope	31
+5,13,Fort Green,Gramercy	30
+5,13,Fort Green,Greenwich Village	26
+5,13,Fort Green,Bedford-Stuyvesant	25
+5,13,Fort Green,Financial District	24
+5,13,Fort Green,Chelsea	22
+5,13,Fort Green,East Village	22
+5,13,UNKNOWN,Fort Green	651
+5,13,Gramercy,Fort Green	142
+5,13,Midtown,Fort Green	135
+5,13,Chelsea,Fort Green	118
+5,13,Downtown,Fort Green	115
+5,13,Upper East Side,Fort Green	104
+5,13,Financial District,Fort Green	98
+5,13,Garment District,Fort Green	95
+5,13,Soho,Fort Green	93
+5,13,Lower East Side,Fort Green	76
+5,14,Fort Green,Williamsburg	64
+5,14,Fort Green,Downtown	55
+5,14,Fort Green,Bedford-Stuyvesant	39
+5,14,Fort Green,Midtown	38
+5,14,Fort Green,Gramercy	33
+5,14,Fort Green,Greenwich Village	31
+5,14,Fort Green,Chelsea	28
+5,14,Fort Green,Lower East Side	25
+5,14,Fort Green,Park Slope	25
+5,14,Fort Green,Financial District	24
+5,14,UNKNOWN,Fort Green	887
+5,14,Gramercy,Fort Green	152
+5,14,Downtown,Fort Green	146
+5,14,Chelsea,Fort Green	139
+5,14,Garment District,Fort Green	126
+5,14,Midtown,Fort Green	121
+5,14,Upper East Side,Fort Green	115
+5,14,Financial District,Fort Green	111
+5,14,Greenwich Village,Fort Green	108
+5,14,Soho,Fort Green	99
+5,15,Fort Green,Williamsburg	73
+5,15,Fort Green,Downtown	57
+5,15,Fort Green,Park Slope	38
+5,15,Fort Green,Bedford-Stuyvesant	36
+5,15,Fort Green,Lower East Side	36
+5,15,Fort Green,Midtown	35
+5,15,Fort Green,Gramercy	26
+5,15,Fort Green,Greenwich Village	26
+5,15,Fort Green,Chelsea	23
+5,15,Fort Green,Soho	21
+5,15,UNKNOWN,Fort Green	910
+5,15,Gramercy,Fort Green	155
+5,15,Midtown,Fort Green	136
+5,15,Chelsea,Fort Green	126
+5,15,Upper East Side,Fort Green	111
+5,15,Downtown,Fort Green	110
+5,15,Greenwich Village,Fort Green	105
+5,15,Lower East Side,Fort Green	87
+5,15,Soho,Fort Green	84
+5,15,Financial District,Fort Green	83
+5,16,Fort Green,Williamsburg	62
+5,16,Fort Green,Downtown	61
+5,16,Fort Green,Bedford-Stuyvesant	36
+5,16,Fort Green,Park Slope	29
+5,16,Fort Green,Gramercy	26
+5,16,Fort Green,Midtown	26
+5,16,Fort Green,Chelsea	24
+5,16,Fort Green,East Village	22
+5,16,Fort Green,Carroll Gardens	20
+5,16,Fort Green,Boerum Hill	19
+5,16,UNKNOWN,Fort Green	1020
+5,16,Downtown,Fort Green	127
+5,16,Gramercy,Fort Green	124
+5,16,Chelsea,Fort Green	96
+5,16,Midtown,Fort Green	86
+5,16,Greenwich Village,Fort Green	83
+5,16,Upper East Side,Fort Green	80
+5,16,Garment District,Fort Green	77
+5,16,Lower East Side,Fort Green	71
+5,16,Financial District,Fort Green	60
+5,17,Fort Green,Williamsburg	107
+5,17,Fort Green,Downtown	84
+5,17,Fort Green,Park Slope	79
+5,17,Fort Green,Bedford-Stuyvesant	55
+5,17,Fort Green,Carroll Gardens	47
+5,17,Fort Green,Gramercy	42
+5,17,Fort Green,Midtown	41
+5,17,Fort Green,East Village	40
+5,17,Fort Green,Greenwich Village	39
+5,17,Fort Green,Boerum Hill	38
+5,17,UNKNOWN,Fort Green	1244
+5,17,Downtown,Fort Green	242
+5,17,Gramercy,Fort Green	190
+5,17,Greenwich Village,Fort Green	188
+5,17,Chelsea,Fort Green	172
+5,17,Midtown,Fort Green	161
+5,17,Financial District,Fort Green	144
+5,17,Upper East Side,Fort Green	138
+5,17,Lower East Side,Fort Green	133
+5,17,East Village,Fort Green	131
+5,18,Fort Green,Williamsburg	180
+5,18,Fort Green,Park Slope	107
+5,18,Fort Green,Downtown	105
+5,18,Fort Green,Bedford-Stuyvesant	85
+5,18,Fort Green,Lower East Side	83
+5,18,Fort Green,Midtown	72
+5,18,Fort Green,Chelsea	64
+5,18,Fort Green,Greenwich Village	63
+5,18,Fort Green,Boerum Hill	48
+5,18,Fort Green,East Village	48
+5,18,UNKNOWN,Fort Green	1407
+5,18,Chelsea,Fort Green	391
+5,18,Gramercy,Fort Green	384
+5,18,Downtown,Fort Green	383
+5,18,Greenwich Village,Fort Green	355
+5,18,Midtown,Fort Green	328
+5,18,Lower East Side,Fort Green	271
+5,18,Williamsburg,Fort Green	259
+5,18,Soho,Fort Green	251
+5,18,East Village,Fort Green	244
+5,19,Fort Green,Williamsburg	282
+5,19,Fort Green,Park Slope	196
+5,19,Fort Green,Bedford-Stuyvesant	165
+5,19,Fort Green,Downtown	114
+5,19,Fort Green,Lower East Side	107
+5,19,Fort Green,East Village	99
+5,19,Fort Green,Boerum Hill	88
+5,19,Fort Green,Carroll Gardens	83
+5,19,Fort Green,Chelsea	80
+5,19,Fort Green,Greenwich Village	68
+5,19,UNKNOWN,Fort Green	1667
+5,19,Chelsea,Fort Green	661
+5,19,Gramercy,Fort Green	612
+5,19,Midtown,Fort Green	574
+5,19,Greenwich Village,Fort Green	554
+5,19,Downtown,Fort Green	499
+5,19,Soho,Fort Green	473
+5,19,East Village,Fort Green	422
+5,19,Lower East Side,Fort Green	371
+5,19,Williamsburg,Fort Green	340
+5,2,Fort Green,Bedford-Stuyvesant	284
+5,2,Fort Green,Williamsburg	123
+5,2,Fort Green,Bushwick	70
+5,2,Fort Green,Park Slope	59
+5,2,Fort Green,Lower East Side	37
+5,2,Fort Green,East Village	36
+5,2,Fort Green,Carroll Gardens	34
+5,2,Fort Green,Boerum Hill	33
+5,2,Fort Green,Downtown	33
+5,2,Fort Green,Chelsea	25
+5,2,UNKNOWN,Fort Green	730
+5,2,Lower East Side,Fort Green	703
+5,2,East Village,Fort Green	666
+5,2,Williamsburg,Fort Green	547
+5,2,Greenwich Village,Fort Green	500
+5,2,Chelsea,Fort Green	404
+5,2,Midtown,Fort Green	376
+5,2,West Village,Fort Green	338
+5,2,Soho,Fort Green	328
+5,2,Gramercy,Fort Green	285
+5,20,Fort Green,Williamsburg	388
+5,20,Fort Green,Park Slope	248
+5,20,Fort Green,Bedford-Stuyvesant	245
+5,20,Fort Green,Lower East Side	169
+5,20,Fort Green,Downtown	135
+5,20,Fort Green,Carroll Gardens	116
+5,20,Fort Green,East Village	114
+5,20,Fort Green,Boerum Hill	103
+5,20,Fort Green,Gramercy	97
+5,20,Fort Green,Greenwich Village	92
+5,20,UNKNOWN,Fort Green	2038
+5,20,Chelsea,Fort Green	1029
+5,20,Midtown,Fort Green	1023
+5,20,Gramercy,Fort Green	987
+5,20,Greenwich Village,Fort Green	894
+5,20,Soho,Fort Green	690
+5,20,East Village,Fort Green	644
+5,20,Lower East Side,Fort Green	589
+5,20,Downtown,Fort Green	526
+5,20,Williamsburg,Fort Green	466
+5,21,Fort Green,Williamsburg	524
+5,21,Fort Green,Bedford-Stuyvesant	396
+5,21,Fort Green,Park Slope	335
+5,21,Fort Green,Lower East Side	220
+5,21,Fort Green,Downtown	214
+5,21,Fort Green,East Village	191
+5,21,Fort Green,Carroll Gardens	169
+5,21,Fort Green,Greenwich Village	150
+5,21,Fort Green,Boerum Hill	108
+5,21,Fort Green,Gramercy	106
+5,21,UNKNOWN,Fort Green	2399
+5,21,Midtown,Fort Green	1403
+5,21,Gramercy,Fort Green	1297
+5,21,Chelsea,Fort Green	1238
+5,21,Greenwich Village,Fort Green	1135
+5,21,East Village,Fort Green	1047
+5,21,Lower East Side,Fort Green	937
+5,21,Soho,Fort Green	802
+5,21,Williamsburg,Fort Green	685
+5,21,Tribeca,Fort Green	642
+5,22,Fort Green,Williamsburg	649
+5,22,Fort Green,Bedford-Stuyvesant	596
+5,22,Fort Green,Park Slope	473
+5,22,Fort Green,Lower East Side	266
+5,22,Fort Green,East Village	246
+5,22,Fort Green,Downtown	235
+5,22,Fort Green,Carroll Gardens	210
+5,22,Fort Green,Boerum Hill	182
+5,22,Fort Green,Greenwich Village	167
+5,22,Fort Green,Gramercy	164
+5,22,UNKNOWN,Fort Green	2801
+5,22,Midtown,Fort Green	1698
+5,22,East Village,Fort Green	1579
+5,22,Gramercy,Fort Green	1388
+5,22,Lower East Side,Fort Green	1331
+5,22,Greenwich Village,Fort Green	1297
+5,22,Chelsea,Fort Green	1265
+5,22,Williamsburg,Fort Green	975
+5,22,Soho,Fort Green	853
+5,22,Tribeca,Fort Green	731
+5,23,Fort Green,Bedford-Stuyvesant	823
+5,23,Fort Green,Williamsburg	681
+5,23,Fort Green,Park Slope	530
+5,23,Fort Green,Lower East Side	281
+5,23,Fort Green,East Village	250
+5,23,Fort Green,Carroll Gardens	229
+5,23,Fort Green,Downtown	229
+5,23,Fort Green,Bushwick	199
+5,23,Fort Green,Boerum Hill	197
+5,23,Fort Green,Greenwich Village	173
+5,23,UNKNOWN,Fort Green	3305
+5,23,East Village,Fort Green	1805
+5,23,Lower East Side,Fort Green	1751
+5,23,Midtown,Fort Green	1728
+5,23,Gramercy,Fort Green	1493
+5,23,Greenwich Village,Fort Green	1466
+5,23,Williamsburg,Fort Green	1375
+5,23,Chelsea,Fort Green	1366
+5,23,Soho,Fort Green	955
+5,23,Downtown,Fort Green	741
+5,3,Fort Green,Bedford-Stuyvesant	162
+5,3,Fort Green,Williamsburg	62
+5,3,Fort Green,Park Slope	40
+5,3,Fort Green,Bushwick	29
+5,3,Fort Green,Lower East Side	20
+5,3,Fort Green,Midtown	20
+5,3,Fort Green,East Village	18
+5,3,Fort Green,Boerum Hill	15
+5,3,Fort Green,Downtown	14
+5,3,Fort Green,Carroll Gardens	12
+5,3,Lower East Side,Fort Green	462
+5,3,UNKNOWN,Fort Green	448
+5,3,East Village,Fort Green	431
+5,3,Greenwich Village,Fort Green	313
+5,3,Williamsburg,Fort Green	293
+5,3,Chelsea,Fort Green	275
+5,3,West Village,Fort Green	258
+5,3,Midtown,Fort Green	223
+5,3,Gramercy,Fort Green	172
+5,3,Soho,Fort Green	164
+5,4,Fort Green,Bedford-Stuyvesant	80
+5,4,Fort Green,Williamsburg	53
+5,4,Fort Green,Midtown	33
+5,4,Fort Green,Garment District	27
+5,4,Fort Green,Bushwick	19
+5,4,Fort Green,Park Slope	16
+5,4,Fort Green,Downtown	14
+5,4,Fort Green,Boerum Hill	13
+5,4,Fort Green,East Village	11
+5,4,Fort Green,Chelsea	10
+5,4,East Village,Fort Green	308
+5,4,Lower East Side,Fort Green	302
+5,4,Greenwich Village,Fort Green	244
+5,4,UNKNOWN,Fort Green	228
+5,4,Chelsea,Fort Green	190
+5,4,Williamsburg,Fort Green	177
+5,4,West Village,Fort Green	158
+5,4,Soho,Fort Green	128
+5,4,Midtown,Fort Green	109
+5,4,Gramercy,Fort Green	105
+5,5,Fort Green,Midtown	97
+5,5,Fort Green,Gramercy	50
+5,5,Fort Green,Bedford-Stuyvesant	44
+5,5,Fort Green,Garment District	33
+5,5,Fort Green,Williamsburg	33
+5,5,Fort Green,Downtown	20
+5,5,Fort Green,Greenwich Village	19
+5,5,Fort Green,Tribeca	17
+5,5,Fort Green,Upper East Side	16
+5,5,Fort Green,Sunny Side	15
+5,5,UNKNOWN,Fort Green	313
+5,5,Greenwich Village,Fort Green	129
+5,5,East Village,Fort Green	109
+5,5,Lower East Side,Fort Green	103
+5,5,Chelsea,Fort Green	70
+5,5,Gramercy,Fort Green	60
+5,5,Garment District,Fort Green	59
+5,5,Soho,Fort Green	47
+5,5,Williamsburg,Fort Green	46
+5,5,Midtown,Fort Green	43
+5,6,Fort Green,Midtown	184
+5,6,Fort Green,Gramercy	82
+5,6,Fort Green,Downtown	54
+5,6,Fort Green,Garment District	48
+5,6,Fort Green,Murray Hill	43
+5,6,Fort Green,Tribeca	41
+5,6,Fort Green,Financial District	37
+5,6,Fort Green,Upper East Side	37
+5,6,Fort Green,Chelsea	34
+5,6,Fort Green,Williamsburg	30
+5,6,UNKNOWN,Fort Green	439
+5,6,Lower East Side,Fort Green	69
+5,6,East Village,Fort Green	65
+5,6,Greenwich Village,Fort Green	64
+5,6,Financial District,Fort Green	58
+5,6,Gramercy,Fort Green	53
+5,6,Carroll Gardens,Fort Green	51
+5,6,Chelsea,Fort Green	48
+5,6,Tribeca,Fort Green	45
+5,6,Downtown,Fort Green	41
+5,7,Fort Green,Midtown	145
+5,7,Fort Green,Gramercy	113
+5,7,Fort Green,Chelsea	76
+5,7,Fort Green,Downtown	73
+5,7,Fort Green,Williamsburg	72
+5,7,Fort Green,Murray Hill	53
+5,7,Fort Green,Lower East Side	49
+5,7,Fort Green,Financial District	43
+5,7,Fort Green,Garment District	41
+5,7,Fort Green,Greenwich Village	38
+5,7,UNKNOWN,Fort Green	485
+5,7,Downtown,Fort Green	64
+5,7,Lower East Side,Fort Green	62
+5,7,Carroll Gardens,Fort Green	55
+5,7,Financial District,Fort Green	52
+5,7,Gramercy,Fort Green	52
+5,7,Tribeca,Fort Green	49
+5,7,Clinton,Fort Green	45
+5,7,Greenwich Village,Fort Green	44
+5,7,Upper East Side,Fort Green	41
+5,8,Fort Green,Midtown	141
+5,8,Fort Green,Downtown	133
+5,8,Fort Green,Gramercy	81
+5,8,Fort Green,Chelsea	74
+5,8,Fort Green,Greenwich Village	69
+5,8,Fort Green,Williamsburg	64
+5,8,Fort Green,Financial District	57
+5,8,Fort Green,Upper East Side	53
+5,8,Fort Green,Park Slope	48
+5,8,Fort Green,Soho	48
+5,8,UNKNOWN,Fort Green	502
+5,8,Upper East Side,Fort Green	98
+5,8,Downtown,Fort Green	89
+5,8,Financial District,Fort Green	74
+5,8,Midtown,Fort Green	53
+5,8,Carroll Gardens,Fort Green	51
+5,8,Chelsea,Fort Green	48
+5,8,Gramercy,Fort Green	46
+5,8,Greenwich Village,Fort Green	45
+5,8,East Village,Fort Green	38
+5,9,Fort Green,Downtown	110
+5,9,Fort Green,Gramercy	87
+5,9,Fort Green,Chelsea	75
+5,9,Fort Green,Williamsburg	75
+5,9,Fort Green,Midtown	73
+5,9,Fort Green,Soho	65
+5,9,Fort Green,Greenwich Village	54
+5,9,Fort Green,Financial District	50
+5,9,Fort Green,Tribeca	50
+5,9,Fort Green,Murray Hill	36
+5,9,UNKNOWN,Fort Green	403
+5,9,Gramercy,Fort Green	115
+5,9,Downtown,Fort Green	83
+5,9,Financial District,Fort Green	83
+5,9,Midtown,Fort Green	72
+5,9,Chelsea,Fort Green	65
+5,9,Greenwich Village,Fort Green	56
+5,9,Soho,Fort Green	52
+5,9,Tribeca,Fort Green	51
+5,9,Lower East Side,Fort Green	48
+6,0,Fort Green,Bedford-Stuyvesant	918
+6,0,Fort Green,Williamsburg	593
+6,0,Fort Green,Park Slope	358
+6,0,Fort Green,Lower East Side	215
+6,0,Fort Green,Bushwick	213
+6,0,Fort Green,Carroll Gardens	185
+6,0,Fort Green,East Village	183
+6,0,Fort Green,Downtown	167
+6,0,Fort Green,Chelsea	131
+6,0,Fort Green,Boerum Hill	128
+6,0,UNKNOWN,Fort Green	2912
+6,0,Lower East Side,Fort Green	1863
+6,0,East Village,Fort Green	1725
+6,0,Greenwich Village,Fort Green	1470
+6,0,Chelsea,Fort Green	1379
+6,0,Midtown,Fort Green	1334
+6,0,Williamsburg,Fort Green	1300
+6,0,Gramercy,Fort Green	1168
+6,0,Soho,Fort Green	908
+6,0,West Village,Fort Green	687
+6,1,Fort Green,Bedford-Stuyvesant	640
+6,1,Fort Green,Williamsburg	315
+6,1,Fort Green,Park Slope	211
+6,1,Fort Green,Bushwick	159
+6,1,Fort Green,East Village	146
+6,1,Fort Green,Lower East Side	120
+6,1,Fort Green,Carroll Gardens	115
+6,1,Fort Green,Downtown	89
+6,1,Fort Green,Boerum Hill	81
+6,1,Fort Green,Greenwich Village	77
+6,1,UNKNOWN,Fort Green	1857
+6,1,Lower East Side,Fort Green	1471
+6,1,East Village,Fort Green	1279
+6,1,Greenwich Village,Fort Green	1109
+6,1,Williamsburg,Fort Green	1041
+6,1,Chelsea,Fort Green	890
+6,1,Midtown,Fort Green	833
+6,1,Gramercy,Fort Green	706
+6,1,West Village,Fort Green	635
+6,1,Soho,Fort Green	563
+6,10,Fort Green,Williamsburg	59
+6,10,Fort Green,Downtown	55
+6,10,Fort Green,Gramercy	50
+6,10,Fort Green,Soho	50
+6,10,Fort Green,Greenwich Village	43
+6,10,Fort Green,Midtown	41
+6,10,Fort Green,Financial District	39
+6,10,Fort Green,Chelsea	35
+6,10,Fort Green,Lower East Side	31
+6,10,Fort Green,Tribeca	30
+6,10,UNKNOWN,Fort Green	515
+6,10,Gramercy,Fort Green	120
+6,10,Midtown,Fort Green	113
+6,10,Downtown,Fort Green	88
+6,10,Financial District,Fort Green	82
+6,10,Upper East Side,Fort Green	76
+6,10,Chelsea,Fort Green	69
+6,10,Tribeca,Fort Green	64
+6,10,Lower East Side,Fort Green	63
+6,10,Garment District,Fort Green	60
+6,11,Fort Green,Williamsburg	66
+6,11,Fort Green,Downtown	56
+6,11,Fort Green,Gramercy	49
+6,11,Fort Green,Midtown	39
+6,11,Fort Green,Chelsea	33
+6,11,Fort Green,Soho	26
+6,11,Fort Green,Financial District	25
+6,11,Fort Green,Bedford-Stuyvesant	24
+6,11,Fort Green,Greenwich Village	24
+6,11,Fort Green,Lower East Side	24
+6,11,UNKNOWN,Fort Green	595
+6,11,Gramercy,Fort Green	143
+6,11,Midtown,Fort Green	125
+6,11,Downtown,Fort Green	106
+6,11,Financial District,Fort Green	96
+6,11,Chelsea,Fort Green	95
+6,11,Greenwich Village,Fort Green	81
+6,11,Upper East Side,Fort Green	77
+6,11,Soho,Fort Green	73
+6,11,Garment District,Fort Green	69
+6,12,Fort Green,Williamsburg	75
+6,12,Fort Green,Downtown	56
+6,12,Fort Green,Gramercy	38
+6,12,Fort Green,Midtown	38
+6,12,Fort Green,Lower East Side	34
+6,12,Fort Green,Bedford-Stuyvesant	30
+6,12,Fort Green,Boerum Hill	29
+6,12,Fort Green,Chelsea	27
+6,12,Fort Green,Greenwich Village	27
+6,12,Fort Green,Soho	25
+6,12,UNKNOWN,Fort Green	611
+6,12,Gramercy,Fort Green	148
+6,12,Midtown,Fort Green	146
+6,12,Downtown,Fort Green	141
+6,12,Chelsea,Fort Green	104
+6,12,Garment District,Fort Green	98
+6,12,Financial District,Fort Green	87
+6,12,Upper East Side,Fort Green	87
+6,12,Greenwich Village,Fort Green	86
+6,12,Soho,Fort Green	74
+6,13,Fort Green,Williamsburg	86
+6,13,Fort Green,Downtown	79
+6,13,Fort Green,Park Slope	38
+6,13,Fort Green,Midtown	37
+6,13,Fort Green,Bedford-Stuyvesant	35
+6,13,Fort Green,Boerum Hill	32
+6,13,Fort Green,Chelsea	31
+6,13,Fort Green,Financial District	31
+6,13,Fort Green,Gramercy	31
+6,13,Fort Green,Lower East Side	30
+6,13,UNKNOWN,Fort Green	841
+6,13,Midtown,Fort Green	140
+6,13,Downtown,Fort Green	138
+6,13,Chelsea,Fort Green	137
+6,13,Gramercy,Fort Green	134
+6,13,Financial District,Fort Green	106
+6,13,Greenwich Village,Fort Green	106
+6,13,Upper East Side,Fort Green	106
+6,13,Garment District,Fort Green	93
+6,13,Soho,Fort Green	92
+6,14,Fort Green,Downtown	107
+6,14,Fort Green,Williamsburg	75
+6,14,Fort Green,Bedford-Stuyvesant	48
+6,14,Fort Green,Midtown	42
+6,14,Fort Green,Lower East Side	40
+6,14,Fort Green,Park Slope	31
+6,14,Fort Green,Greenwich Village	30
+6,14,Fort Green,Gramercy	29
+6,14,Fort Green,Soho	27
+6,14,Fort Green,Boerum Hill	26
+6,14,UNKNOWN,Fort Green	958
+6,14,Gramercy,Fort Green	172
+6,14,Midtown,Fort Green	161
+6,14,Chelsea,Fort Green	153
+6,14,Downtown,Fort Green	149
+6,14,Greenwich Village,Fort Green	128
+6,14,Financial District,Fort Green	125
+6,14,Garment District,Fort Green	125
+6,14,Soho,Fort Green	124
+6,14,Upper East Side,Fort Green	100
+6,15,Fort Green,Williamsburg	84
+6,15,Fort Green,Downtown	62
+6,15,Fort Green,Bedford-Stuyvesant	46
+6,15,Fort Green,Park Slope	43
+6,15,Fort Green,Midtown	35
+6,15,Fort Green,Greenwich Village	34
+6,15,Fort Green,Financial District	31
+6,15,Fort Green,Boerum Hill	30
+6,15,Fort Green,Garment District	26
+6,15,Fort Green,Gramercy	26
+6,15,UNKNOWN,Fort Green	1177
+6,15,Gramercy,Fort Green	157
+6,15,Downtown,Fort Green	156
+6,15,Chelsea,Fort Green	129
+6,15,Midtown,Fort Green	127
+6,15,Garment District,Fort Green	107
+6,15,Soho,Fort Green	107
+6,15,Upper East Side,Fort Green	103
+6,15,Greenwich Village,Fort Green	99
+6,15,Financial District,Fort Green	96
+6,16,Fort Green,Williamsburg	94
+6,16,Fort Green,Downtown	57
+6,16,Fort Green,Bedford-Stuyvesant	48
+6,16,Fort Green,Lower East Side	37
+6,16,Fort Green,Park Slope	36
+6,16,Fort Green,Boerum Hill	30
+6,16,Fort Green,Chelsea	29
+6,16,Fort Green,Greenwich Village	24
+6,16,Fort Green,Garment District	23
+6,16,Fort Green,Gramercy	23
+6,16,UNKNOWN,Fort Green	1227
+6,16,Downtown,Fort Green	148
+6,16,Gramercy,Fort Green	130
+6,16,Chelsea,Fort Green	114
+6,16,Midtown,Fort Green	93
+6,16,Garment District,Fort Green	88
+6,16,Greenwich Village,Fort Green	87
+6,16,Financial District,Fort Green	86
+6,16,Williamsburg,Fort Green	79
+6,16,Upper East Side,Fort Green	77
+6,17,Fort Green,Williamsburg	126
+6,17,Fort Green,Downtown	100
+6,17,Fort Green,Park Slope	83
+6,17,Fort Green,Bedford-Stuyvesant	63
+6,17,Fort Green,Lower East Side	58
+6,17,Fort Green,East Village	49
+6,17,Fort Green,Boerum Hill	42
+6,17,Fort Green,Gramercy	41
+6,17,Fort Green,Carroll Gardens	40
+6,17,Fort Green,Greenwich Village	37
+6,17,UNKNOWN,Fort Green	1429
+6,17,Downtown,Fort Green	284
+6,17,Gramercy,Fort Green	220
+6,17,Chelsea,Fort Green	188
+6,17,Greenwich Village,Fort Green	183
+6,17,Midtown,Fort Green	172
+6,17,Upper East Side,Fort Green	162
+6,17,Lower East Side,Fort Green	152
+6,17,Williamsburg,Fort Green	150
+6,17,East Village,Fort Green	139
+6,18,Fort Green,Williamsburg	210
+6,18,Fort Green,Bedford-Stuyvesant	148
+6,18,Fort Green,Park Slope	142
+6,18,Fort Green,Downtown	135
+6,18,Fort Green,Lower East Side	111
+6,18,Fort Green,East Village	94
+6,18,Fort Green,Carroll Gardens	84
+6,18,Fort Green,Boerum Hill	70
+6,18,Fort Green,Greenwich Village	68
+6,18,Fort Green,Midtown	63
+6,18,UNKNOWN,Fort Green	1689
+6,18,Downtown,Fort Green	455
+6,18,Gramercy,Fort Green	427
+6,18,Chelsea,Fort Green	422
+6,18,Greenwich Village,Fort Green	397
+6,18,Midtown,Fort Green	371
+6,18,Williamsburg,Fort Green	315
+6,18,Soho,Fort Green	276
+6,18,Financial District,Fort Green	275
+6,18,East Village,Fort Green	268
+6,19,Fort Green,Williamsburg	360
+6,19,Fort Green,Park Slope	264
+6,19,Fort Green,Bedford-Stuyvesant	210
+6,19,Fort Green,Downtown	167
+6,19,Fort Green,Lower East Side	167
+6,19,Fort Green,East Village	146
+6,19,Fort Green,Greenwich Village	121
+6,19,Fort Green,Carroll Gardens	119
+6,19,Fort Green,Boerum Hill	104
+6,19,Fort Green,Midtown	78
+6,19,UNKNOWN,Fort Green	1812
+6,19,Chelsea,Fort Green	633
+6,19,Gramercy,Fort Green	584
+6,19,Greenwich Village,Fort Green	556
+6,19,Downtown,Fort Green	515
+6,19,East Village,Fort Green	495
+6,19,Midtown,Fort Green	483
+6,19,Williamsburg,Fort Green	471
+6,19,Soho,Fort Green	455
+6,19,Lower East Side,Fort Green	394
+6,2,Fort Green,Bedford-Stuyvesant	409
+6,2,Fort Green,Williamsburg	175
+6,2,Fort Green,Park Slope	90
+6,2,Fort Green,Bushwick	78
+6,2,Fort Green,East Village	63
+6,2,Fort Green,Lower East Side	54
+6,2,Fort Green,Downtown	52
+6,2,Fort Green,Boerum Hill	44
+6,2,Fort Green,Greenwich Village	42
+6,2,Fort Green,Carroll Gardens	41
+6,2,UNKNOWN,Fort Green	1239
+6,2,Lower East Side,Fort Green	1104
+6,2,East Village,Fort Green	876
+6,2,Greenwich Village,Fort Green	744
+6,2,Williamsburg,Fort Green	640
+6,2,Chelsea,Fort Green	565
+6,2,Midtown,Fort Green	510
+6,2,West Village,Fort Green	510
+6,2,Gramercy,Fort Green	423
+6,2,Soho,Fort Green	346
+6,20,Fort Green,Williamsburg	472
+6,20,Fort Green,Park Slope	300
+6,20,Fort Green,Bedford-Stuyvesant	281
+6,20,Fort Green,Lower East Side	214
+6,20,Fort Green,East Village	190
+6,20,Fort Green,Downtown	165
+6,20,Fort Green,Greenwich Village	138
+6,20,Fort Green,Carroll Gardens	126
+6,20,Fort Green,Boerum Hill	121
+6,20,Fort Green,Gramercy	116
+6,20,UNKNOWN,Fort Green	2101
+6,20,Gramercy,Fort Green	784
+6,20,Midtown,Fort Green	730
+6,20,Chelsea,Fort Green	722
+6,20,Greenwich Village,Fort Green	699
+6,20,East Village,Fort Green	680
+6,20,Soho,Fort Green	624
+6,20,Lower East Side,Fort Green	536
+6,20,Williamsburg,Fort Green	520
+6,20,Downtown,Fort Green	498
+6,21,Fort Green,Williamsburg	589
+6,21,Fort Green,Bedford-Stuyvesant	396
+6,21,Fort Green,Park Slope	319
+6,21,Fort Green,Lower East Side	281
+6,21,Fort Green,East Village	244
+6,21,Fort Green,Downtown	224
+6,21,Fort Green,Greenwich Village	175
+6,21,Fort Green,Boerum Hill	163
+6,21,Fort Green,Carroll Gardens	158
+6,21,Fort Green,Gramercy	150
+6,21,UNKNOWN,Fort Green	2329
+6,21,East Village,Fort Green	1040
+6,21,Greenwich Village,Fort Green	963
+6,21,Gramercy,Fort Green	858
+6,21,Midtown,Fort Green	797
+6,21,Chelsea,Fort Green	794
+6,21,Lower East Side,Fort Green	743
+6,21,Williamsburg,Fort Green	685
+6,21,Soho,Fort Green	617
+6,21,Downtown,Fort Green	483
+6,22,Fort Green,Williamsburg	828
+6,22,Fort Green,Bedford-Stuyvesant	580
+6,22,Fort Green,Park Slope	437
+6,22,Fort Green,Lower East Side	416
+6,22,Fort Green,East Village	343
+6,22,Fort Green,Downtown	326
+6,22,Fort Green,Gramercy	229
+6,22,Fort Green,Carroll Gardens	219
+6,22,Fort Green,Boerum Hill	214
+6,22,Fort Green,Greenwich Village	192
+6,22,UNKNOWN,Fort Green	2807
+6,22,East Village,Fort Green	1385
+6,22,Greenwich Village,Fort Green	1109
+6,22,Lower East Side,Fort Green	1097
+6,22,Gramercy,Fort Green	1030
+6,22,Williamsburg,Fort Green	1014
+6,22,Chelsea,Fort Green	944
+6,22,Midtown,Fort Green	902
+6,22,Park Slope,Fort Green	704
+6,22,Soho,Fort Green	585
+6,23,Fort Green,Williamsburg	1024
+6,23,Fort Green,Bedford-Stuyvesant	821
+6,23,Fort Green,Park Slope	586
+6,23,Fort Green,Lower East Side	512
+6,23,Fort Green,East Village	402
+6,23,Fort Green,Carroll Gardens	330
+6,23,Fort Green,Downtown	303
+6,23,Fort Green,Greenwich Village	270
+6,23,Fort Green,Gramercy	265
+6,23,Fort Green,Boerum Hill	255
+6,23,UNKNOWN,Fort Green	3365
+6,23,East Village,Fort Green	1768
+6,23,Lower East Side,Fort Green	1653
+6,23,Williamsburg,Fort Green	1526
+6,23,Midtown,Fort Green	1218
+6,23,Gramercy,Fort Green	1131
+6,23,Greenwich Village,Fort Green	1116
+6,23,Chelsea,Fort Green	1047
+6,23,Park Slope,Fort Green	912
+6,23,Boerum Hill,Fort Green	718
+6,3,Fort Green,Bedford-Stuyvesant	243
+6,3,Fort Green,Williamsburg	90
+6,3,Fort Green,Bushwick	65
+6,3,Fort Green,Park Slope	35
+6,3,Fort Green,East Village	26
+6,3,Fort Green,Downtown	25
+6,3,Fort Green,Midtown	23
+6,3,Fort Green,Carroll Gardens	21
+6,3,Fort Green,Sunset Park	18
+6,3,Fort Green,Boerum Hill	17
+6,3,Lower East Side,Fort Green	752
+6,3,East Village,Fort Green	671
+6,3,UNKNOWN,Fort Green	626
+6,3,Greenwich Village,Fort Green	541
+6,3,Williamsburg,Fort Green	413
+6,3,Chelsea,Fort Green	396
+6,3,West Village,Fort Green	391
+6,3,Midtown,Fort Green	295
+6,3,Soho,Fort Green	257
+6,3,Gramercy,Fort Green	247
+6,4,Fort Green,Bedford-Stuyvesant	136
+6,4,Fort Green,Williamsburg	65
+6,4,Fort Green,Chelsea	44
+6,4,Fort Green,Midtown	37
+6,4,Fort Green,Downtown	30
+6,4,Fort Green,Bushwick	24
+6,4,Fort Green,Garment District	23
+6,4,Fort Green,Park Slope	22
+6,4,Fort Green,East Village	20
+6,4,Fort Green,Lower East Side	14
+6,4,Lower East Side,Fort Green	597
+6,4,East Village,Fort Green	475
+6,4,Greenwich Village,Fort Green	439
+6,4,UNKNOWN,Fort Green	353
+6,4,West Village,Fort Green	241
+6,4,Williamsburg,Fort Green	234
+6,4,Chelsea,Fort Green	231
+6,4,Midtown,Fort Green	182
+6,4,Soho,Fort Green	175
+6,4,Gramercy,Fort Green	136
+6,5,Fort Green,Midtown	101
+6,5,Fort Green,Bedford-Stuyvesant	58
+6,5,Fort Green,Gramercy	34
+6,5,Fort Green,Garment District	30
+6,5,Fort Green,Williamsburg	27
+6,5,Fort Green,Chelsea	26
+6,5,Fort Green,Upper East Side	25
+6,5,Fort Green,Downtown	21
+6,5,Fort Green,Greenwich Village	20
+6,5,Fort Green,Tribeca	16
+6,5,UNKNOWN,Fort Green	388
+6,5,East Village,Fort Green	180
+6,5,Greenwich Village,Fort Green	168
+6,5,Lower East Side,Fort Green	157
+6,5,Chelsea,Fort Green	93
+6,5,Soho,Fort Green	93
+6,5,Gramercy,Fort Green	76
+6,5,Garment District,Fort Green	66
+6,5,West Village,Fort Green	63
+6,5,Midtown,Fort Green	57
+6,6,Fort Green,Midtown	182
+6,6,Fort Green,Gramercy	90
+6,6,Fort Green,Greenwich Village	51
+6,6,Fort Green,Garment District	46
+6,6,Fort Green,Downtown	45
+6,6,Fort Green,Upper East Side	43
+6,6,Fort Green,Tribeca	42
+6,6,Fort Green,Bedford-Stuyvesant	39
+6,6,Fort Green,Chelsea	37
+6,6,Fort Green,Murray Hill	37
+6,6,UNKNOWN,Fort Green	448
+6,6,Lower East Side,Fort Green	105
+6,6,East Village,Fort Green	84
+6,6,Greenwich Village,Fort Green	77
+6,6,Gramercy,Fort Green	58
+6,6,Garment District,Fort Green	54
+6,6,Soho,Fort Green	52
+6,6,Chelsea,Fort Green	51
+6,6,Downtown,Fort Green	50
+6,6,Carroll Gardens,Fort Green	47
+6,7,Fort Green,Midtown	153
+6,7,Fort Green,Gramercy	118
+6,7,Fort Green,Downtown	85
+6,7,Fort Green,Williamsburg	70
+6,7,Fort Green,Chelsea	66
+6,7,Fort Green,Murray Hill	47
+6,7,Fort Green,Upper East Side	46
+6,7,Fort Green,Financial District	40
+6,7,Fort Green,Park Slope	38
+6,7,Fort Green,Soho	35
+6,7,UNKNOWN,Fort Green	527
+6,7,Lower East Side,Fort Green	72
+6,7,Downtown,Fort Green	67
+6,7,Gramercy,Fort Green	62
+6,7,East Village,Fort Green	60
+6,7,Carroll Gardens,Fort Green	52
+6,7,Upper East Side,Fort Green	49
+6,7,Greenwich Village,Fort Green	47
+6,7,Financial District,Fort Green	45
+6,7,Chelsea,Fort Green	44
+6,8,Fort Green,Downtown	141
+6,8,Fort Green,Midtown	129
+6,8,Fort Green,Gramercy	89
+6,8,Fort Green,Chelsea	79
+6,8,Fort Green,Williamsburg	77
+6,8,Fort Green,Murray Hill	56
+6,8,Fort Green,Soho	54
+6,8,Fort Green,Upper East Side	50
+6,8,Fort Green,Financial District	48
+6,8,Fort Green,Greenwich Village	45
+6,8,UNKNOWN,Fort Green	518
+6,8,Downtown,Fort Green	90
+6,8,Financial District,Fort Green	70
+6,8,Upper East Side,Fort Green	62
+6,8,Chelsea,Fort Green	60
+6,8,Midtown,Fort Green	60
+6,8,Carroll Gardens,Fort Green	51
+6,8,Gramercy,Fort Green	49
+6,8,Lower East Side,Fort Green	49
+6,8,Tribeca,Fort Green	42
+6,9,Fort Green,Downtown	110
+6,9,Fort Green,Midtown	98
+6,9,Fort Green,Williamsburg	87
+6,9,Fort Green,Gramercy	84
+6,9,Fort Green,Chelsea	78
+6,9,Fort Green,Soho	70
+6,9,Fort Green,Greenwich Village	55
+6,9,Fort Green,Financial District	49
+6,9,Fort Green,Lower East Side	47
+6,9,Fort Green,Upper East Side	44
+6,9,UNKNOWN,Fort Green	459
+6,9,Gramercy,Fort Green	116
+6,9,Downtown,Fort Green	85
+6,9,Midtown,Fort Green	84
+6,9,Financial District,Fort Green	78
+6,9,Chelsea,Fort Green	68
+6,9,Greenwich Village,Fort Green	64
+6,9,Upper East Side,Fort Green	63
+6,9,Lower East Side,Fort Green	56
+6,9,Carroll Gardens,Fort Green	48
+7,0,Fort Green,Williamsburg	1182
+7,0,Fort Green,Bedford-Stuyvesant	1119
+7,0,Fort Green,Park Slope	694
+7,0,Fort Green,East Village	445
+7,0,Fort Green,Lower East Side	442
+7,0,Fort Green,Carroll Gardens	395
+7,0,Fort Green,Bushwick	359
+7,0,Fort Green,Downtown	301
+7,0,Fort Green,Greenwich Village	270
+7,0,Fort Green,Boerum Hill	263
+7,0,UNKNOWN,Fort Green	3460
+7,0,Lower East Side,Fort Green	2102
+7,0,Williamsburg,Fort Green	2086
+7,0,East Village,Fort Green	2051
+7,0,Greenwich Village,Fort Green	1302
+7,0,Gramercy,Fort Green	1235
+7,0,Chelsea,Fort Green	1105
+7,0,Midtown,Fort Green	1094
+7,0,Park Slope,Fort Green	938
+7,0,Boerum Hill,Fort Green	926
+7,1,Fort Green,Bedford-Stuyvesant	1198
+7,1,Fort Green,Williamsburg	922
+7,1,Fort Green,Park Slope	533
+7,1,Fort Green,Bushwick	352
+7,1,Fort Green,East Village	332
+7,1,Fort Green,Lower East Side	332
+7,1,Fort Green,Carroll Gardens	306
+7,1,Fort Green,Boerum Hill	248
+7,1,Fort Green,Downtown	243
+7,1,Fort Green,Greenwich Village	184
+7,1,UNKNOWN,Fort Green	3225
+7,1,Williamsburg,Fort Green	2378
+7,1,Lower East Side,Fort Green	2301
+7,1,East Village,Fort Green	2282
+7,1,Greenwich Village,Fort Green	1563
+7,1,Gramercy,Fort Green	1099
+7,1,Chelsea,Fort Green	1023
+7,1,Midtown,Fort Green	920
+7,1,Boerum Hill,Fort Green	803
+7,1,Park Slope,Fort Green	792
+7,10,Fort Green,Downtown	126
+7,10,Fort Green,Williamsburg	110
+7,10,Fort Green,Park Slope	88
+7,10,Fort Green,Lower East Side	76
+7,10,Fort Green,Midtown	70
+7,10,Fort Green,Soho	69
+7,10,Fort Green,Gramercy	64
+7,10,Fort Green,Chelsea	63
+7,10,Fort Green,East Village	57
+7,10,Fort Green,Boerum Hill	56
+7,10,UNKNOWN,Fort Green	730
+7,10,Downtown,Fort Green	213
+7,10,Midtown,Fort Green	197
+7,10,Gramercy,Fort Green	147
+7,10,East Village,Fort Green	141
+7,10,Carroll Gardens,Fort Green	137
+7,10,Lower East Side,Fort Green	122
+7,10,Chelsea,Fort Green	120
+7,10,Greenwich Village,Fort Green	118
+7,10,Williamsburg,Fort Green	111
+7,11,Fort Green,Williamsburg	140
+7,11,Fort Green,Downtown	131
+7,11,Fort Green,Park Slope	108
+7,11,Fort Green,Midtown	73
+7,11,Fort Green,Lower East Side	70
+7,11,Fort Green,Gramercy	68
+7,11,Fort Green,East Village	65
+7,11,Fort Green,Boerum Hill	64
+7,11,Fort Green,Chelsea	62
+7,11,Fort Green,Greenwich Village	62
+7,11,UNKNOWN,Fort Green	946
+7,11,Downtown,Fort Green	244
+7,11,Midtown,Fort Green	180
+7,11,East Village,Fort Green	176
+7,11,Gramercy,Fort Green	171
+7,11,Williamsburg,Fort Green	144
+7,11,Carroll Gardens,Fort Green	138
+7,11,Chelsea,Fort Green	136
+7,11,Greenwich Village,Fort Green	136
+7,11,Financial District,Fort Green	123
+7,12,Fort Green,Williamsburg	175
+7,12,Fort Green,Downtown	129
+7,12,Fort Green,Park Slope	124
+7,12,Fort Green,Bedford-Stuyvesant	76
+7,12,Fort Green,Midtown	76
+7,12,Fort Green,Lower East Side	75
+7,12,Fort Green,East Village	73
+7,12,Fort Green,Carroll Gardens	70
+7,12,Fort Green,Chelsea	65
+7,12,Fort Green,Boerum Hill	58
+7,12,UNKNOWN,Fort Green	931
+7,12,Downtown,Fort Green	279
+7,12,Midtown,Fort Green	202
+7,12,Lower East Side,Fort Green	195
+7,12,East Village,Fort Green	174
+7,12,Gramercy,Fort Green	165
+7,12,Williamsburg,Fort Green	162
+7,12,Chelsea,Fort Green	155
+7,12,Greenwich Village,Fort Green	152
+7,12,Upper East Side,Fort Green	141
+7,13,Fort Green,Williamsburg	209
+7,13,Fort Green,Downtown	153
+7,13,Fort Green,Park Slope	122
+7,13,Fort Green,Midtown	95
+7,13,Fort Green,Bedford-Stuyvesant	94
+7,13,Fort Green,Lower East Side	84
+7,13,Fort Green,East Village	70
+7,13,Fort Green,Gramercy	70
+7,13,Fort Green,Greenwich Village	69
+7,13,Fort Green,Carroll Gardens	68
+7,13,UNKNOWN,Fort Green	1139
+7,13,Downtown,Fort Green	239
+7,13,Williamsburg,Fort Green	221
+7,13,Gramercy,Fort Green	178
+7,13,Lower East Side,Fort Green	177
+7,13,Chelsea,Fort Green	176
+7,13,East Village,Fort Green	175
+7,13,Midtown,Fort Green	175
+7,13,Greenwich Village,Fort Green	157
+7,13,Financial District,Fort Green	156
+7,14,Fort Green,Williamsburg	240
+7,14,Fort Green,Downtown	163
+7,14,Fort Green,Park Slope	113
+7,14,Fort Green,Bedford-Stuyvesant	104
+7,14,Fort Green,Lower East Side	91
+7,14,Fort Green,Carroll Gardens	82
+7,14,Fort Green,Midtown	78
+7,14,Fort Green,East Village	67
+7,14,Fort Green,Gramercy	66
+7,14,Fort Green,Boerum Hill	51
+7,14,UNKNOWN,Fort Green	1249
+7,14,Downtown,Fort Green	242
+7,14,Williamsburg,Fort Green	208
+7,14,Chelsea,Fort Green	197
+7,14,Gramercy,Fort Green	188
+7,14,Midtown,Fort Green	175
+7,14,Lower East Side,Fort Green	174
+7,14,East Village,Fort Green	164
+7,14,Financial District,Fort Green	154
+7,14,Greenwich Village,Fort Green	152
+7,15,Fort Green,Williamsburg	233
+7,15,Fort Green,Downtown	162
+7,15,Fort Green,Park Slope	108
+7,15,Fort Green,Bedford-Stuyvesant	86
+7,15,Fort Green,Lower East Side	81
+7,15,Fort Green,East Village	69
+7,15,Fort Green,Carroll Gardens	68
+7,15,Fort Green,Chelsea	68
+7,15,Fort Green,Gramercy	64
+7,15,Fort Green,Midtown	62
+7,15,UNKNOWN,Fort Green	1290
+7,15,Downtown,Fort Green	233
+7,15,Williamsburg,Fort Green	208
+7,15,East Village,Fort Green	188
+7,15,Lower East Side,Fort Green	188
+7,15,Gramercy,Fort Green	183
+7,15,Midtown,Fort Green	177
+7,15,Chelsea,Fort Green	174
+7,15,Greenwich Village,Fort Green	167
+7,15,Upper East Side,Fort Green	150
+7,16,Fort Green,Williamsburg	211
+7,16,Fort Green,Downtown	132
+7,16,Fort Green,Park Slope	100
+7,16,Fort Green,East Village	80
+7,16,Fort Green,Lower East Side	75
+7,16,Fort Green,Bedford-Stuyvesant	73
+7,16,Fort Green,Midtown	69
+7,16,Fort Green,Carroll Gardens	59
+7,16,Fort Green,Greenwich Village	52
+7,16,Fort Green,Chelsea	51
+7,16,UNKNOWN,Fort Green	1328
+7,16,Downtown,Fort Green	232
+7,16,Lower East Side,Fort Green	179
+7,16,Gramercy,Fort Green	172
+7,16,Williamsburg,Fort Green	170
+7,16,Midtown,Fort Green	167
+7,16,Chelsea,Fort Green	153
+7,16,Carroll Gardens,Fort Green	151
+7,16,East Village,Fort Green	147
+7,16,Soho,Fort Green	140
+7,17,Fort Green,Williamsburg	326
+7,17,Fort Green,Park Slope	169
+7,17,Fort Green,Downtown	147
+7,17,Fort Green,Bedford-Stuyvesant	143
+7,17,Fort Green,Carroll Gardens	120
+7,17,Fort Green,Lower East Side	120
+7,17,Fort Green,Boerum Hill	100
+7,17,Fort Green,East Village	93
+7,17,Fort Green,Midtown	86
+7,17,Fort Green,Gramercy	77
+7,17,UNKNOWN,Fort Green	1615
+7,17,Downtown,Fort Green	310
+7,17,Williamsburg,Fort Green	288
+7,17,Midtown,Fort Green	254
+7,17,Lower East Side,Fort Green	244
+7,17,East Village,Fort Green	240
+7,17,Boerum Hill,Fort Green	237
+7,17,Gramercy,Fort Green	233
+7,17,Greenwich Village,Fort Green	231
+7,17,Carroll Gardens,Fort Green	225
+7,18,Fort Green,Williamsburg	409
+7,18,Fort Green,Park Slope	266
+7,18,Fort Green,East Village	200
+7,18,Fort Green,Bedford-Stuyvesant	198
+7,18,Fort Green,Downtown	190
+7,18,Fort Green,Lower East Side	174
+7,18,Fort Green,Carroll Gardens	144
+7,18,Fort Green,Greenwich Village	131
+7,18,Fort Green,Boerum Hill	114
+7,18,Fort Green,Gramercy	106
+7,18,UNKNOWN,Fort Green	1756
+7,18,Williamsburg,Fort Green	452
+7,18,Downtown,Fort Green	421
+7,18,Gramercy,Fort Green	378
+7,18,East Village,Fort Green	369
+7,18,Lower East Side,Fort Green	352
+7,18,Greenwich Village,Fort Green	350
+7,18,Midtown,Fort Green	336
+7,18,Boerum Hill,Fort Green	332
+7,18,Chelsea,Fort Green	331
+7,19,Fort Green,Williamsburg	554
+7,19,Fort Green,Park Slope	313
+7,19,Fort Green,East Village	303
+7,19,Fort Green,Lower East Side	247
+7,19,Fort Green,Bedford-Stuyvesant	230
+7,19,Fort Green,Downtown	224
+7,19,Fort Green,Carroll Gardens	194
+7,19,Fort Green,Boerum Hill	160
+7,19,Fort Green,Greenwich Village	160
+7,19,Fort Green,Gramercy	140
+7,19,UNKNOWN,Fort Green	1902
+7,19,Williamsburg,Fort Green	590
+7,19,East Village,Fort Green	473
+7,19,Lower East Side,Fort Green	434
+7,19,Greenwich Village,Fort Green	433
+7,19,Gramercy,Fort Green	395
+7,19,Downtown,Fort Green	393
+7,19,Park Slope,Fort Green	388
+7,19,Boerum Hill,Fort Green	379
+7,19,Carroll Gardens,Fort Green	374
+7,2,Fort Green,Bedford-Stuyvesant	924
+7,2,Fort Green,Williamsburg	567
+7,2,Fort Green,Park Slope	380
+7,2,Fort Green,Bushwick	263
+7,2,Fort Green,East Village	199
+7,2,Fort Green,Carroll Gardens	194
+7,2,Fort Green,Lower East Side	189
+7,2,Fort Green,Downtown	145
+7,2,Fort Green,Boerum Hill	129
+7,2,Fort Green,Greenwich Village	102
+7,2,UNKNOWN,Fort Green	2757
+7,2,East Village,Fort Green	2190
+7,2,Williamsburg,Fort Green	2179
+7,2,Lower East Side,Fort Green	2098
+7,2,Greenwich Village,Fort Green	1500
+7,2,Chelsea,Fort Green	973
+7,2,Gramercy,Fort Green	817
+7,2,Midtown,Fort Green	751
+7,2,West Village,Fort Green	732
+7,2,Soho,Fort Green	583
+7,20,Fort Green,Williamsburg	614
+7,20,Fort Green,Park Slope	349
+7,20,Fort Green,Bedford-Stuyvesant	282
+7,20,Fort Green,Lower East Side	278
+7,20,Fort Green,East Village	245
+7,20,Fort Green,Carroll Gardens	205
+7,20,Fort Green,Downtown	195
+7,20,Fort Green,Greenwich Village	157
+7,20,Fort Green,Boerum Hill	137
+7,20,Fort Green,Gramercy	129
+7,20,UNKNOWN,Fort Green	1921
+7,20,Williamsburg,Fort Green	622
+7,20,East Village,Fort Green	525
+7,20,Greenwich Village,Fort Green	461
+7,20,Lower East Side,Fort Green	455
+7,20,Gramercy,Fort Green	435
+7,20,Downtown,Fort Green	424
+7,20,Park Slope,Fort Green	379
+7,20,Chelsea,Fort Green	377
+7,20,Boerum Hill,Fort Green	357
+7,21,Fort Green,Williamsburg	726
+7,21,Fort Green,Park Slope	386
+7,21,Fort Green,Lower East Side	357
+7,21,Fort Green,Bedford-Stuyvesant	347
+7,21,Fort Green,East Village	294
+7,21,Fort Green,Downtown	225
+7,21,Fort Green,Carroll Gardens	221
+7,21,Fort Green,Greenwich Village	197
+7,21,Fort Green,Boerum Hill	169
+7,21,Fort Green,Gramercy	158
+7,21,UNKNOWN,Fort Green	2044
+7,21,Williamsburg,Fort Green	783
+7,21,East Village,Fort Green	639
+7,21,Greenwich Village,Fort Green	577
+7,21,Lower East Side,Fort Green	567
+7,21,Gramercy,Fort Green	482
+7,21,Park Slope,Fort Green	465
+7,21,Chelsea,Fort Green	461
+7,21,Midtown,Fort Green	412
+7,21,Boerum Hill,Fort Green	404
+7,22,Fort Green,Williamsburg	938
+7,22,Fort Green,Bedford-Stuyvesant	492
+7,22,Fort Green,Park Slope	467
+7,22,Fort Green,Lower East Side	457
+7,22,Fort Green,East Village	378
+7,22,Fort Green,Downtown	325
+7,22,Fort Green,Carroll Gardens	316
+7,22,Fort Green,Gramercy	243
+7,22,Fort Green,Midtown	229
+7,22,Fort Green,Chelsea	222
+7,22,UNKNOWN,Fort Green	2466
+7,22,Williamsburg,Fort Green	1056
+7,22,East Village,Fort Green	1025
+7,22,Lower East Side,Fort Green	822
+7,22,Greenwich Village,Fort Green	799
+7,22,Park Slope,Fort Green	653
+7,22,Gramercy,Fort Green	622
+7,22,Midtown,Fort Green	583
+7,22,Chelsea,Fort Green	547
+7,22,Carroll Gardens,Fort Green	466
+7,23,Fort Green,Williamsburg	1275
+7,23,Fort Green,Bedford-Stuyvesant	836
+7,23,Fort Green,Park Slope	634
+7,23,Fort Green,Lower East Side	618
+7,23,Fort Green,East Village	532
+7,23,Fort Green,Carroll Gardens	450
+7,23,Fort Green,Greenwich Village	337
+7,23,Fort Green,Downtown	334
+7,23,Fort Green,Boerum Hill	323
+7,23,Fort Green,Chelsea	321
+7,23,UNKNOWN,Fort Green	2884
+7,23,Williamsburg,Fort Green	1563
+7,23,East Village,Fort Green	1311
+7,23,Lower East Side,Fort Green	1299
+7,23,Park Slope,Fort Green	891
+7,23,Greenwich Village,Fort Green	827
+7,23,Gramercy,Fort Green	826
+7,23,Midtown,Fort Green	817
+7,23,Carroll Gardens,Fort Green	773
+7,23,Chelsea,Fort Green	763
+7,3,Fort Green,Bedford-Stuyvesant	771
+7,3,Fort Green,Williamsburg	315
+7,3,Fort Green,Park Slope	211
+7,3,Fort Green,Bushwick	178
+7,3,Fort Green,East Village	110
+7,3,Fort Green,Boerum Hill	97
+7,3,Fort Green,Downtown	93
+7,3,Fort Green,Carroll Gardens	91
+7,3,Fort Green,Lower East Side	76
+7,3,Fort Green,Greenwood	61
+7,3,UNKNOWN,Fort Green	2044
+7,3,Lower East Side,Fort Green	1892
+7,3,East Village,Fort Green	1767
+7,3,Williamsburg,Fort Green	1732
+7,3,Greenwich Village,Fort Green	1176
+7,3,Chelsea,Fort Green	836
+7,3,West Village,Fort Green	639
+7,3,Gramercy,Fort Green	589
+7,3,Midtown,Fort Green	572
+7,3,Soho,Fort Green	439
+7,4,Fort Green,Bedford-Stuyvesant	446
+7,4,Fort Green,Williamsburg	171
+7,4,Fort Green,Bushwick	115
+7,4,Fort Green,Park Slope	102
+7,4,Fort Green,Downtown	57
+7,4,Fort Green,East Village	55
+7,4,Fort Green,Lower East Side	42
+7,4,Fort Green,Boerum Hill	40
+7,4,Fort Green,Carroll Gardens	39
+7,4,Fort Green,Midtown	36
+7,4,Lower East Side,Fort Green	1211
+7,4,East Village,Fort Green	1070
+7,4,UNKNOWN,Fort Green	1068
+7,4,Williamsburg,Fort Green	922
+7,4,Greenwich Village,Fort Green	712
+7,4,Chelsea,Fort Green	529
+7,4,West Village,Fort Green	497
+7,4,Gramercy,Fort Green	469
+7,4,Midtown,Fort Green	370
+7,4,Garment District,Fort Green	293
+7,5,Fort Green,Bedford-Stuyvesant	124
+7,5,Fort Green,Williamsburg	67
+7,5,Fort Green,Garment District	50
+7,5,Fort Green,Midtown	49
+7,5,Fort Green,Downtown	34
+7,5,Fort Green,Bushwick	32
+7,5,Fort Green,Chelsea	25
+7,5,Fort Green,Park Slope	25
+7,5,Fort Green,Sunny Side	23
+7,5,Fort Green,East Village	21
+7,5,UNKNOWN,Fort Green	652
+7,5,Lower East Side,Fort Green	431
+7,5,East Village,Fort Green	397
+7,5,Greenwich Village,Fort Green	309
+7,5,Williamsburg,Fort Green	246
+7,5,Chelsea,Fort Green	198
+7,5,Gramercy,Fort Green	192
+7,5,Garment District,Fort Green	180
+7,5,West Village,Fort Green	163
+7,5,Midtown,Fort Green	129
+7,6,Fort Green,Midtown	78
+7,6,Fort Green,Bedford-Stuyvesant	69
+7,6,Fort Green,Garment District	64
+7,6,Fort Green,Downtown	61
+7,6,Fort Green,Williamsburg	52
+7,6,Fort Green,Chelsea	40
+7,6,Fort Green,Financial District	33
+7,6,Fort Green,Upper East Side	32
+7,6,Fort Green,Murray Hill	31
+7,6,Fort Green,Greenwich Village	25
+7,6,UNKNOWN,Fort Green	495
+7,6,Lower East Side,Fort Green	195
+7,6,East Village,Fort Green	193
+7,6,Gramercy,Fort Green	130
+7,6,Greenwich Village,Fort Green	123
+7,6,Chelsea,Fort Green	112
+7,6,Williamsburg,Fort Green	106
+7,6,Garment District,Fort Green	101
+7,6,Downtown,Fort Green	81
+7,6,Midtown,Fort Green	72
+7,7,Fort Green,Gramercy	85
+7,7,Fort Green,Downtown	56
+7,7,Fort Green,Chelsea	49
+7,7,Fort Green,Garment District	44
+7,7,Fort Green,Williamsburg	42
+7,7,Fort Green,Midtown	37
+7,7,Fort Green,Park Slope	36
+7,7,Fort Green,Upper East Side	36
+7,7,Fort Green,Bedford-Stuyvesant	30
+7,7,Fort Green,Tribeca	29
+7,7,UNKNOWN,Fort Green	518
+7,7,East Village,Fort Green	90
+7,7,Gramercy,Fort Green	88
+7,7,Lower East Side,Fort Green	78
+7,7,Downtown,Fort Green	75
+7,7,Chelsea,Fort Green	72
+7,7,Greenwich Village,Fort Green	62
+7,7,Clinton,Fort Green	56
+7,7,Carroll Gardens,Fort Green	51
+7,7,Garment District,Fort Green	49
+7,8,Fort Green,Downtown	97
+7,8,Fort Green,Midtown	84
+7,8,Fort Green,Chelsea	74
+7,8,Fort Green,Gramercy	58
+7,8,Fort Green,Lower East Side	49
+7,8,Fort Green,Williamsburg	49
+7,8,Fort Green,Greenwich Village	47
+7,8,Fort Green,Park Slope	47
+7,8,Fort Green,Garment District	45
+7,8,Fort Green,Soho	41
+7,8,UNKNOWN,Fort Green	517
+7,8,Midtown,Fort Green	91
+7,8,Gramercy,Fort Green	84
+7,8,Lower East Side,Fort Green	78
+7,8,Downtown,Fort Green	76
+7,8,Chelsea,Fort Green	75
+7,8,Financial District,Fort Green	72
+7,8,Greenwich Village,Fort Green	65
+7,8,Carroll Gardens,Fort Green	63
+7,8,Upper East Side,Fort Green	61
+7,9,Fort Green,Downtown	130
+7,9,Fort Green,Park Slope	86
+7,9,Fort Green,Chelsea	80
+7,9,Fort Green,Williamsburg	78
+7,9,Fort Green,Lower East Side	73
+7,9,Fort Green,Midtown	60
+7,9,Fort Green,Soho	54
+7,9,Fort Green,Gramercy	53
+7,9,Fort Green,Upper East Side	51
+7,9,Fort Green,Garment District	47
+7,9,UNKNOWN,Fort Green	498
+7,9,Downtown,Fort Green	155
+7,9,Midtown,Fort Green	134
+7,9,East Village,Fort Green	111
+7,9,Gramercy,Fort Green	110
+7,9,Chelsea,Fort Green	98
+7,9,Financial District,Fort Green	98
+7,9,Carroll Gardens,Fort Green	96
+7,9,Greenwich Village,Fort Green	90
+7,9,Lower East Side,Fort Green	82
